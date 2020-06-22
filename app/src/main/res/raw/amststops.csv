@@ -1,0 +1,1999 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,location_type,parent_station,stop_timezone,wheelchair_boarding,platform_code,zone_id
+1217963,30007963,"Amstelveen, A'veen Busstation",52.30233,4.857427,0,stoparea:235554,null,1,null,null
+1928469,30007445,"Amstelveen, Amstelveen Stadshart",52.301242,4.867512,0,stoparea:344473,null,1,Uitstap,null
+1760414,57243870,"Amstelveen, B.v.Suttnerlaan",52.277339,4.829079,0,stoparea:296450,null,1,null,CXX:57243870
+1525228,57243880,"Amstelveen, B.v.Suttnerlaan",52.277809,4.827768,0,stoparea:296450,null,1,null,CXX:57243880
+2218419,57243020,"Amstelveen, Bankrashof",52.301999,4.876095,0,stoparea:355903,null,0,null,CXX:57243020
+2219607,57243030,"Amstelveen, Bankrashof",52.302313,4.875959,0,stoparea:355903,null,1,null,CXX:57243030
+15365,30007532,"Amstelveen, Binnenhof",52.301269,4.863495,0,stoparea:2500,null,1,null,null
+15364,30007533,"Amstelveen, Binnenhof",52.30151,4.863096,0,stoparea:2500,null,1,null,null
+511025,57243060,"Amstelveen, Binnenhof",52.301341,4.863362,0,stoparea:121787,null,1,null,CXX:57243060
+511052,57243070,"Amstelveen, Binnenhof",52.301466,4.863229,0,stoparea:121787,null,1,null,CXX:57243070
+511184,57242010,"Amstelveen, Bovenkerkerweg",52.287368,4.842202,0,stoparea:121975,null,1,null,CXX:57242010
+511216,57243110,"Amstelveen, Bovenkerkerweg",52.28836,4.842864,0,stoparea:121975,null,1,null,CXX:57243110
+511259,57240090,"Amstelveen, Burg. Wiegelweg",52.275047,4.838573,0,null,null,1,null,CXX:57240090
+1760358,57243840,"Amstelveen, Burg. Wiegelweg",52.274456,4.837173,0,null,null,1,null,CXX:57243840
+419616,58342020,"Amstelveen, Burg. Wiegelweg",52.273821,4.837782,0,null,null,1,null,CXX:58342020
+1927095,57240001,"Amstelveen, Busstation",52.302464,4.857177,0,stoparea:122950,null,1,A,CXX:57240001
+1927088,57240024,"Amstelveen, Busstation perron A",52.302428,4.857162,0,stoparea:122950,null,1,A,CXX:57240024
+2219426,57240022,"Amstelveen, Busstation perron B",52.302581,4.857249,0,stoparea:122950,null,1,B,CXX:57240022
+1927084,57240023,"Amstelveen, Busstation perron B",52.302608,4.857263,0,stoparea:122950,null,1,B,CXX:57240023
+2219427,57240027,"Amstelveen, Busstation perron B",52.302563,4.857249,0,stoparea:122950,null,1,B,CXX:57240027
+2219425,57240028,"Amstelveen, Busstation perron B",52.302599,4.857263,0,stoparea:122950,null,1,B,CXX:57240028
+1927087,57240025,"Amstelveen, Busstation perron C",52.302419,4.85728,0,stoparea:122950,null,1,C,CXX:57240025
+2032053,57240010,"Amstelveen, Busstation perron D",52.302485,4.857939,0,stoparea:122950,null,1,D,CXX:57240010
+1828273,57240019,"Amstelveen, Busstation perron E",52.30202,4.858443,0,stoparea:122950,null,1,E,CXX:57240019
+1828350,57240610,"Amstelveen, Busstation perron F",52.302029,4.858413,0,stoparea:122950,null,1,F,CXX:57240610
+1828321,57240600,"Amstelveen, Busstation perron G",52.301948,4.85837,0,stoparea:122950,null,1,G,CXX:57240600
+1828272,57240018,"Amstelveen, Busstation perron H",52.301877,4.858635,0,stoparea:122950,null,1,H,CXX:57240018
+511088,58342100,"Amstelveen, Christinahoeve",52.260936,4.830954,0,null,null,0,null,CXX:58342100
+511215,58342110,"Amstelveen, Christinahoeve",52.260466,4.830359,0,null,null,0,null,CXX:58342110
+1544009,30007512,"Amstelveen, De Eindhoeve",52.279899,4.846045,0,stoparea:300914,null,1,E2,null
+1544007,30007514,"Amstelveen, De Eindhoeve",52.279846,4.84628,0,stoparea:300912,null,1,C,null
+511100,57243730,"Amstelveen, De Eindhoeve",52.279845,4.846192,0,null,null,1,null,CXX:57243730
+511273,57243760,"Amstelveen, De Eindhoeve",52.279944,4.846132,0,null,null,1,null,CXX:57243760
+2220484,57242090,"Amstelveen, Gr.v.Prinstererlaan",52.306064,4.862412,0,stoparea:355811,null,1,null,CXX:57242090
+2220402,57242220,"Amstelveen, Graaf Aelbrechtlaan",52.308647,4.863085,0,stoparea:355663,null,1,null,CXX:57242220
+511188,57242820,"Amstelveen, Graaf Florislaan",52.316259,4.856851,0,stoparea:121152,null,1,null,CXX:57242820
+511118,57242830,"Amstelveen, Graaf Florislaan",52.316233,4.857159,0,null,null,1,null,CXX:57242830
+1544016,30007506,"Amstelveen, Groenhof",52.288581,4.868115,0,stoparea:300921,null,1,H,null
+1544001,30007520,"Amstelveen, Groenhof",52.289652,4.868351,0,stoparea:300925,null,1,null,null
+511276,57242600,"Amstelveen, Groenhof",52.288635,4.868041,0,stoparea:122558,null,1,null,CXX:57242600
+418881,57242610,"Amstelveen, Groenhof",52.28957,4.868294,0,stoparea:122558,null,1,null,CXX:57242610
+1962891,57243140,"Amstelveen, Grote Beer",52.283706,4.851289,0,null,null,1,null,CXX:57243140
+1962909,57243150,"Amstelveen, Grote Beer",52.283643,4.851216,0,null,null,1,null,CXX:57243150
+1760392,57243650,"Amstelveen, Hammarskjoldsingel",52.275512,4.832369,0,stoparea:340983,null,1,null,CXX:57243650
+1760361,57243860,"Amstelveen, Hammarskjoldsingel",52.275692,4.832455,0,stoparea:340983,null,1,null,CXX:57243860
+511028,57243270,"Amstelveen, Handweg",52.291869,4.843788,0,stoparea:122318,null,1,null,CXX:57243270
+2219099,57242480,"Amstelveen, Heemraadschapslaan",52.305606,4.856494,0,null,null,1,null,CXX:57242480
+2218605,57242481,"Amstelveen, Heemraadschapslaan",52.305606,4.856494,0,null,null,1,null,CXX:57242481
+2219551,57242491,"Amstelveen, Heemraadschapslaan",52.307081,4.85674,0,null,null,1,null,CXX:57242491
+939505,57242950,"Amstelveen, Hueseplein",52.298203,4.85516,0,null,null,1,null,CXX:57242950
+511194,57242960,"Amstelveen, Hueseplein",52.297653,4.854786,0,null,null,1,null,CXX:57242960
+511182,57242850,"Amstelveen, In de Wolken",52.291979,4.8702,0,null,null,1,null,CXX:57242850
+1420671,57242860,"Amstelveen, In de Wolken",52.291554,4.869604,0,null,null,1,null,CXX:57242860
+2219008,57242461,"Amstelveen, Jan Benninghstraat",52.308305,4.850978,0,null,null,0,null,CXX:57242461
+2220321,57242471,"Amstelveen, Jan Benninghstraat",52.308176,4.850407,0,null,null,0,null,CXX:57242471
+2218335,57242811,"Amstelveen, Julianapark",52.315426,4.853561,0,stoparea:356026,null,0,null,CXX:57242811
+511037,57243250,"Amstelveen, Keizer Karelplein",52.298575,4.853763,0,null,null,1,null,CXX:57243250
+511157,57243260,"Amstelveen, Keizer Karelplein",52.298809,4.853892,0,null,null,1,null,CXX:57243260
+2219550,57243261,"Amstelveen, Keizer Karelplein",52.298809,4.853892,0,null,null,1,null,CXX:57243261
+2218456,57242251,"Amstelveen, KLM Hoofdkantoor",52.306586,4.846526,0,stoparea:356054,null,1,null,CXX:57242251
+2218380,57242271,"Amstelveen, KLM Hoofdkantoor",52.306263,4.846706,0,stoparea:356054,null,1,null,CXX:57242271
+432324,57243210,"Amstelveen, Kruiskerk",52.311288,4.856822,0,null,null,1,null,CXX:57243210
+511135,57243220,"Amstelveen, Kruiskerk",52.311251,4.856456,0,null,null,1,null,CXX:57243220
+2218498,57243620,"Amstelveen, Laan Walcheren",52.313209,4.862269,0,null,null,null,null,CXX:57243620
+1543999,30007522,"Amstelveen, Langerhuize",52.295143,4.878695,0,stoparea:300923,null,1,null,null
+1501727,57240160,"Amstelveen, Langerhuize",52.295087,4.878109,0,stoparea:123016,null,1,null,CXX:57240160
+511226,57240170,"Amstelveen, Langerhuize",52.295044,4.878535,0,stoparea:123016,null,1,null,CXX:57240170
+521203,57243410,"Amstelveen, Lindenlaan",52.296514,4.847338,0,null,null,1,null,CXX:57243410
+1999296,57243420,"Amstelveen, Lindenlaan",52.296611,4.846853,0,null,null,1,null,CXX:57243420
+2220014,57243421,"Amstelveen, Lindenlaan",52.296611,4.846853,0,null,null,1,null,CXX:57243421
+1544012,30007508,"Amstelveen, Logger",52.283348,4.859456,0,stoparea:300917,null,0,null,null
+1544004,30007517,"Amstelveen, Logger",52.283341,4.860028,0,stoparea:300909,null,1,null,null
+521341,57242520,"Amstelveen, Logger",52.283375,4.859558,0,stoparea:122028,null,1,null,CXX:57242520
+521146,57242530,"Amstelveen, Logger",52.283287,4.859926,0,stoparea:122028,null,1,null,CXX:57242530
+511137,57243550,"Amstelveen, Maalderij",52.291859,4.841575,0,stoparea:122864,null,0,null,CXX:57243550
+1420530,57243560,"Amstelveen, Maalderij",52.291932,4.84178,0,stoparea:122864,null,0,null,CXX:57243560
+1544010,30007511,"Amstelveen, Middenhoven / Brink",52.28056,4.851239,0,stoparea:300915,null,1,B,null
+1544006,30007515,"Amstelveen, Middenhoven / Brink",52.280331,4.852209,0,stoparea:300911,null,1,D,null
+521215,57243700,"Amstelveen, Middenhoven/Brink",52.280561,4.851312,0,stoparea:122132,null,1,null,CXX:57243700
+521299,57243710,"Amstelveen, Middenhoven/Brink",52.28034,4.852121,0,stoparea:122132,null,1,null,CXX:57243710
+2218956,57242291,"Amstelveen, Molenweg",52.308333,4.847238,0,null,null,0,null,CXX:57242291
+2219332,57242301,"Amstelveen, Molenweg",52.308097,4.846699,0,null,null,1,null,CXX:57242301
+2220151,57243851,"Amstelveen, Molenweg",52.308834,4.846895,0,null,null,0,null,CXX:57243851
+521159,57242040,"Amstelveen, Nesserlaan",52.277702,4.839522,0,stoparea:123594,null,1,null,CXX:57242040
+940031,57242280,"Amstelveen, Nesserlaan",52.276999,4.838915,0,stoparea:123594,null,1,null,CXX:57242280
+1828286,57342580,"Amstelveen, Nieuw Oosteinde",52.276304,4.809999,0,stoparea:342530,null,1,null,CXX:57342580
+1999191,57342590,"Amstelveen, Nieuw Oosteinde",52.275833,4.809302,0,stoparea:342530,null,1,null,CXX:57342590
+2220375,57340250,"Amstelveen, Nieuwe Meerlaan",52.307788,4.821027,0,null,null,1,null,CXX:57340250
+2219138,57340260,"Amstelveen, Nieuwe Meerlaan",52.307676,4.822158,0,null,null,1,null,CXX:57340260
+521400,57243890,"Amstelveen, Noorddammerweg",52.285217,4.828071,0,stoparea:122143,null,1,null,CXX:57243890
+521354,57243900,"Amstelveen, Noorddammerweg",52.28519,4.828203,0,stoparea:122143,null,1,null,CXX:57243900
+2219584,57242051,"Amstelveen, Oakpark",52.2995,4.845792,0,null,null,1,null,CXX:57242051
+1997289,30007434,"Amstelveen, Onderuit",52.308509,4.872574,0,stoparea:26653,null,1,null,null
+2032210,30007435,"Amstelveen, Onderuit",52.307933,4.872434,0,stoparea:26653,null,1,null,null
+103863,30007545,"Amstelveen, Onderuit",52.307941,4.872273,0,stoparea:26653,null,0,null,null
+103909,30007623,"Amstelveen, Onderuit",52.308447,4.872795,0,stoparea:26653,null,0,null,null
+1377862,30007197,"Amstelveen, Oranjebaan",52.302901,4.870631,0,stoparea:26652,null,0,null,null
+1540573,30007198,"Amstelveen, Oranjebaan",52.303488,4.873336,0,stoparea:300165,null,0,null,null
+1997287,30007438,"Amstelveen, Oranjebaan",52.303599,4.872177,0,stoparea:26652,null,1,null,null
+1997288,30007439,"Amstelveen, Oranjebaan",52.303023,4.871787,0,stoparea:26652,null,1,null,null
+361764,57240050,"Amstelveen, Oranjebaan",52.303594,4.87093,0,stoparea:121909,null,1,null,CXX:57240050
+381880,57240060,"Amstelveen, Oranjebaan",52.302803,4.872875,0,stoparea:121909,null,0,null,CXX:57240060
+2219995,57242771,"Amstelveen, Oude Karselaan",52.31234,4.846999,0,null,null,0,null,CXX:57242771
+1927104,57243010,"Amstelveen, Ouderkerkerlaan",52.296241,4.870664,0,stoparea:120469,null,1,null,CXX:57243010
+1927128,57243400,"Amstelveen, Ouderkerkerlaan",52.296165,4.869815,0,stoparea:120469,null,1,null,CXX:57243400
+1861701,57243570,"Amstelveen, Pastoor Brouwerslaan",52.292933,4.836725,0,stoparea:343157,null,1,null,CXX:57243570
+1861728,57243580,"Amstelveen, Pastoor Brouwerslaan",52.293129,4.8364,0,stoparea:343157,null,1,null,CXX:57243580
+521524,57243160,"Amstelveen, Poortwachter",52.283193,4.845125,0,stoparea:121020,null,1,null,CXX:57243160
+521375,57243170,"Amstelveen, Poortwachter",52.283182,4.844657,0,stoparea:121020,null,1,null,CXX:57243170
+1544013,30007509,"Amstelveen, Praam",52.279996,4.855701,0,stoparea:300918,null,0,null,null
+1544005,30007516,"Amstelveen, Praam",52.279843,4.855497,0,stoparea:300910,null,1,null,null
+1657073,57243680,"Amstelveen, Praam",52.27997,4.855847,0,stoparea:338628,null,1,null,CXX:57243680
+1657158,57243690,"Amstelveen, Praam",52.279851,4.855395,0,stoparea:338628,null,1,null,CXX:57243690
+2219368,57242791,"Amstelveen, Prins Bernhardlaan",52.315434,4.84944,0,null,null,0,null,CXX:57242791
+521318,57242540,"Amstelveen, Punter",52.282941,4.865,0,stoparea:123612,null,1,null,CXX:57242540
+366922,57242550,"Amstelveen, Punter",52.282851,4.864914,0,stoparea:123612,null,1,null,CXX:57242550
+2219903,57242751,"Amstelveen, Raadhuis",52.302264,4.844878,0,stoparea:356232,null,1,null,CXX:57242751
+2219673,57242071,"Amstelveen, Raadhuis/Dorpsstraat",52.303284,4.845848,0,stoparea:355664,null,1,null,CXX:57242071
+2219725,57242241,"Amstelveen, Raadhuis/Dorpsstraat",52.303517,4.845655,0,stoparea:355664,null,0,null,CXX:57242241
+521484,57240070,"Amstelveen, Sacharovlaan",52.282559,4.832559,0,stoparea:120515,null,1,null,CXX:57240070
+521288,57240080,"Amstelveen, Sacharovlaan",52.283424,4.832944,0,stoparea:120515,null,1,null,CXX:57240080
+1861665,57243910,"Amstelveen, Salamander",52.28979,4.831473,0,stoparea:343163,null,1,null,CXX:57243910
+1861704,57243920,"Amstelveen, Salamander",52.289529,4.831447,0,stoparea:343163,null,1,null,CXX:57243920
+1861716,57243610,"Amstelveen, Schinkeldijkje",52.291348,4.826587,0,stoparea:343177,null,0,null,CXX:57243610
+1861683,57342740,"Amstelveen, Schinkeldijkje",52.291365,4.826279,0,stoparea:343177,null,0,null,CXX:57342740
+1544017,30007507,"Amstelveen, Seine",52.284124,4.866379,0,stoparea:300922,null,1,J,null
+1544011,30007518,"Amstelveen, Seine",52.284197,4.866642,0,stoparea:300916,null,1,null,null
+1542948,57242560,"Amstelveen, Seine",52.284179,4.866481,0,stoparea:300609,null,1,null,CXX:57242560
+1542919,57242570,"Amstelveen, Seine",52.284134,4.866643,0,stoparea:300609,null,1,null,CXX:57242570
+1046122,57243280,"Amstelveen, Sportlaan",52.291396,4.854377,0,stoparea:227048,null,1,null,CXX:57243280
+1046140,57243290,"Amstelveen, Sportlaan",52.291379,4.8547,0,stoparea:227048,null,1,null,CXX:57243290
+15363,30007530,"Amstelveen, Stadstuinen",52.302046,4.868441,0,stoparea:2641,null,1,null,null
+15362,30007531,"Amstelveen, Stadstuinen",52.301946,4.868208,0,stoparea:2641,null,1,null,null
+2220680,57243040,"Amstelveen, Stadstuinen",52.302055,4.86828,0,null,null,1,null,CXX:57243040
+2219429,57243050,"Amstelveen, Stadstuinen",52.301974,4.868398,0,null,null,1,null,CXX:57243050
+521225,57243120,"Amstelveen, Startbaan",52.286493,4.853322,0,stoparea:123565,null,1,null,CXX:57243120
+521407,57243130,"Amstelveen, Startbaan",52.286999,4.853946,0,stoparea:123565,null,1,null,CXX:57243130
+103891,30007242,"Amstelveen, Uilenstede",52.322165,4.86938,0,stoparea:26649,null,1,null,null
+103892,30007244,"Amstelveen, Uilenstede",52.321795,4.868915,0,stoparea:26649,null,1,null,null
+1997286,30007422,"Amstelveen, Uilenstede",52.322254,4.869173,0,stoparea:26649,null,1,null,null
+1997285,30007423,"Amstelveen, Uilenstede",52.32167,4.869107,0,stoparea:26649,null,1,null,null
+2219538,57142250,"Amstelveen, Uilenstede",52.322138,4.86938,0,stoparea:355702,null,0,null,CXX:57142250
+2219902,57242200,"Amstelveen, Uilenstede",52.321929,4.868884,0,stoparea:355702,null,1,null,CXX:57242200
+521300,57242580,"Amstelveen, Watercirkel",52.286486,4.867949,0,null,null,1,null,CXX:57242580
+521501,57242590,"Amstelveen, Watercirkel",52.286929,4.868603,0,null,null,1,null,CXX:57242590
+1214951,57240200,"Amstelveen, Weldam",52.276176,4.817005,0,stoparea:234626,null,1,null,CXX:57240200
+1214955,57240210,"Amstelveen, Weldam",52.276319,4.8169,0,stoparea:234626,null,1,null,CXX:57240210
+1657194,57243301,"Amstelveen, Westwijk",52.274197,4.829851,0,stoparea:300605,null,0,null,CXX:57243301
+1657193,57243302,"Amstelveen, Westwijk",52.274153,4.830012,0,stoparea:300605,null,0,null,CXX:57243302
+1046200,57243300,"Amstelveen, Westwijkplein",52.281717,4.825492,0,stoparea:121603,null,1,null,CXX:57243300
+744378,57243310,"Amstelveen, Westwijkplein",52.281934,4.825753,0,stoparea:121603,null,1,null,CXX:57243310
+1542917,57243315,"Amstelveen, Westwijkplein",52.281231,4.825264,0,stoparea:121603,null,1,null,CXX:57243315
+1544833,57242020,"Amstelveen, Zagerij",52.281601,4.840983,0,stoparea:120425,null,1,null,CXX:57242020
+1544844,57242030,"Amstelveen, Zagerij",52.280933,4.840302,0,stoparea:120425,null,1,null,CXX:57242030
+521294,57243770,"Amstelveen, Zagerij",52.281064,4.841429,0,stoparea:120425,null,1,null,CXX:57243770
+521278,57243820,"Amstelveen, Zagerij",52.281183,4.841853,0,stoparea:120425,null,1,null,CXX:57243820
+1544015,30007505,"Amstelveen, Ziekenhuis",52.294016,4.87154,0,stoparea:300920,null,1,F,null
+1544002,30007521,"Amstelveen, Ziekenhuis",52.294188,4.871919,0,stoparea:300926,null,1,null,null
+416628,57242870,"Amstelveen, Ziekenhuis",52.294134,4.871905,0,stoparea:123019,null,1,null,CXX:57242870
+415442,57242880,"Amstelveen, Ziekenhuis",52.294042,4.87151,0,stoparea:123019,null,1,null,CXX:57242880
+1522579,57240270,"Amstelveen, Ziekenhuis Hoofdingang",52.293284,4.872721,0,stoparea:295850,null,0,null,CXX:57240270
+1522537,57240280,"Amstelveen, Ziekenhuis Hoofdingang",52.293008,4.873267,0,stoparea:295850,null,0,null,CXX:57240280
+381706,58342080,"Amstelveen, Zijdelweg",52.264265,4.833725,0,null,null,0,null,CXX:58342080
+521357,58342090,"Amstelveen, Zijdelweg",52.264345,4.833416,0,null,null,0,null,CXX:58342090
+2220701,57242140,"Amstelveen, Zonnestein",52.311173,4.863173,0,stoparea:355556,null,1,null,CXX:57242140
+1861687,57243590,"Amstelveen, Zwarte Pad",52.293162,4.831826,0,null,null,0,null,CXX:57243590
+1861676,57243600,"Amstelveen, Zwarte Pad",52.293169,4.831489,0,null,null,0,null,CXX:57243600
+1538907,57252790,"Amsterdam-ZO, Bijlmerplein",52.314264,4.949411,0,null,null,0,null,null
+1795398,57250180,"Amsterdam-ZO, Dennenrode",52.321994,4.951814,0,stoparea:342135,null,1,null,null
+1795456,57250250,"Amsterdam-ZO, Dennenrode",52.321956,4.951242,0,stoparea:342135,null,1,null,null
+1928685,57253230,"Amsterdam-ZO, Echtenstein",52.325017,4.960146,0,stoparea:344515,null,0,null,null
+1928666,57253240,"Amsterdam-ZO, Echtenstein",52.324719,4.959826,0,stoparea:344515,null,0,null,null
+1795372,57253210,"Amsterdam-ZO, Eekholt",52.326834,4.965409,0,stoparea:342066,null,1,null,null
+1795289,57253220,"Amsterdam-ZO, Eekholt",52.327281,4.967268,0,stoparea:342066,null,1,null,null
+1538851,57252650,"Amsterdam-ZO, Foppingadreef",52.312738,4.949852,0,stoparea:299930,null,0,null,null
+1538939,57253660,"Amsterdam-ZO, Foppingadreef",52.312684,4.949735,0,stoparea:299930,null,0,null,null
+1928678,57253030,"Amsterdam-ZO, Gebouw Atlas",52.307738,4.944182,0,stoparea:344513,null,1,null,null
+1928683,57253140,"Amsterdam-ZO, Gebouw Atlas",52.306788,4.944866,0,stoparea:344513,null,1,null,null
+1795438,57252100,"Amsterdam-ZO, Hoogoorddreef/Atlas",52.310488,4.946531,0,stoparea:342118,null,1,null,null
+1795316,57252830,"Amsterdam-ZO, Hoogoorddreef/Atlas",52.310398,4.946443,0,stoparea:342118,null,1,null,null
+1795308,57250320,"Amsterdam-ZO, Laarderhoogtweg",52.303681,4.947991,0,stoparea:342108,null,0,null,null
+1795358,57253010,"Amsterdam-ZO, Laarderhoogtweg",52.302985,4.947118,0,stoparea:342108,null,0,null,null
+1795381,57253480,"Amsterdam-ZO, Paasheuvelweg",52.296328,4.955085,0,stoparea:342122,null,1,null,null
+1795288,57253490,"Amsterdam-ZO, Paasheuvelweg",52.296744,4.955917,0,stoparea:342122,null,1,null,null
+1538844,57251980,"Amsterdam-ZO, Station Holendrecht",52.29717,4.959211,0,stoparea:299928,null,1,F,null
+1538909,57252470,"Amsterdam-ZO, Station Holendrecht",52.297197,4.959284,0,stoparea:299928,null,1,G,null
+1538976,57252930,"Amsterdam-ZO, Station Holendrecht",52.297197,4.959284,0,stoparea:299928,null,1,G,null
+14950,30001086,"Amsterdam, 't Nopeind",52.409788,4.964943,0,stoparea:2618,null,1,null,null
+14949,30001087,"Amsterdam, 't Nopeind",52.409948,4.9645,0,stoparea:2618,null,1,null,null
+14821,30008256,"Amsterdam, 1e Coehoornstraat",52.36832,4.926516,0,stoparea:2404,null,1,null,null
+14820,30008257,"Amsterdam, 1e Coehoornstraat",52.368085,4.926181,0,stoparea:2404,null,1,null,null
+15130,30006045,"Amsterdam, 1e Con. Huygensstraat",52.362423,4.87399,0,stoparea:2771,null,1,null,null
+15128,30006046,"Amsterdam, 1e Con. Huygensstraat",52.362625,4.874868,0,stoparea:2771,null,1,null,null
+14817,30008258,"Amsterdam, 1e Leeghwaterstraat",52.370093,4.929434,0,stoparea:2401,null,0,null,null
+14816,30008259,"Amsterdam, 1e Leeghwaterstraat",52.370472,4.930047,0,stoparea:2401,null,0,null,null
+15533,30008097,"Amsterdam, 1e v.Swindenstraat",52.361686,4.924118,0,stoparea:2897,null,1,null,null
+15537,30008098,"Amsterdam, 1e v.Swindenstraat",52.362108,4.923864,0,stoparea:2897,null,0,null,null
+14417,30009108,"Amsterdam, 2e v.d.Helststraat",52.353189,4.894235,0,stoparea:2344,null,null,null,null
+14418,30009109,"Amsterdam, 2e v.d.Helststraat",52.353318,4.894879,0,stoparea:2344,null,1,null,null
+103859,30007124,"Amsterdam, A.J. Ernststraat",52.332026,4.869764,0,stoparea:26646,null,0,null,null
+103860,30007125,"Amsterdam, A.J. Ernststraat",52.332116,4.869763,0,stoparea:26646,null,1,null,null
+103183,30007414,"Amsterdam, A.J. Ernststraat",52.331825,4.868871,0,stoparea:26646,null,0,null,null
+103188,30007415,"Amsterdam, A.J. Ernststraat",52.331627,4.868815,0,stoparea:26646,null,0,null,null
+14456,30003121,"Amsterdam, Aalbersestraat",52.382021,4.79774,0,stoparea:2426,null,1,null,null
+14454,30003122,"Amsterdam, Aalbersestraat",52.382324,4.79897,0,stoparea:2426,null,1,null,null
+15185,30004102,"Amsterdam, Aalsmeerplein",52.346969,4.846798,0,stoparea:2296,null,1,null,null
+15184,30004103,"Amsterdam, Aalsmeerplein",52.34694,4.846387,0,stoparea:2296,null,1,null,null
+15704,30002201,"Amsterdam, Abberdaan",52.391805,4.780877,0,stoparea:2483,null,1,null,null
+673743,57352120,"Amsterdam, Abcoudermeer",52.280702,4.966301,0,stoparea:197984,null,0,null,null
+666499,57352130,"Amsterdam, Abcoudermeer",52.281393,4.966016,0,stoparea:197984,null,0,null,null
+1301869,30004440,"Amsterdam, Adam Smithplein",52.339932,4.821747,0,stoparea:246313,null,0,null,null
+1301870,30004441,"Amsterdam, Adam Smithplein",52.339831,4.82147,0,stoparea:246314,null,0,null,null
+15221,30002157,"Amsterdam, Adm. de Ruijterweg",52.371485,4.860096,0,stoparea:2370,null,1,null,null
+15222,30002158,"Amsterdam, Adm. de Ruijterweg",52.371291,4.860965,0,stoparea:2370,null,1,null,null
+2175391,30003068,"Amsterdam, Adm. Helfrichstraat",52.369364,4.844322,0,stoparea:2806,null,null,null,null
+15468,30003069,"Amsterdam, Adm. Helfrichstraat",52.369293,4.84447,0,stoparea:2806,null,0,null,null
+14752,30003179,"Amsterdam, Adm. Helfrichstraat",52.369443,4.843866,0,stoparea:2806,null,0,null,null
+15560,30003180,"Amsterdam, Adm. Helfrichstraat",52.36942,4.844586,0,stoparea:2806,null,1,null,null
+2219474,57134230,"Amsterdam, Adm. Helfrichstraat",52.369383,4.844396,0,stoparea:355843,null,0,null,CXX:57134230
+2220724,57134240,"Amsterdam, Adm. Helfrichstraat",52.369293,4.844426,0,stoparea:355843,null,0,null,CXX:57134240
+15611,30004094,"Amsterdam, Aletta Jacobslaan",52.346911,4.828468,0,stoparea:2360,null,0,null,null
+15601,30004095,"Amsterdam, Aletta Jacobslaan",52.346869,4.82907,0,stoparea:2360,null,null,null,null
+15206,30008049,"Amsterdam, Alexanderplein",52.363833,4.919163,0,stoparea:2332,null,1,null,null
+15642,30008050,"Amsterdam, Alexanderplein",52.363409,4.918668,0,stoparea:2332,null,0,null,null
+15535,30008095,"Amsterdam, Alexanderplein",52.363413,4.919696,0,stoparea:2332,null,1,null,null
+15534,30008096,"Amsterdam, Alexanderplein",52.36351,4.919313,0,stoparea:2332,null,1,null,null
+15518,30004392,"Amsterdam, Allenstraat",52.34988,4.781508,0,stoparea:2902,null,1,null,null
+322625,30001103,"Amsterdam, Amerbos",52.403402,4.941404,0,stoparea:110909,null,0,null,null
+322624,30001104,"Amsterdam, Amerbos",52.40301,4.942554,0,stoparea:110909,null,1,null,null
+14533,30009139,"Amsterdam, Amsteldijk",52.347111,4.911238,0,stoparea:2558,null,1,null,null
+1379031,30009140,"Amsterdam, Amsteldijk",52.347046,4.910549,0,stoparea:2558,null,0,null,null
+15235,30009086,"Amsterdam, Amstelkade",52.348782,4.904322,0,stoparea:2412,null,0,null,null
+15234,30009088,"Amsterdam, Amstelkade",52.349347,4.904067,0,stoparea:2412,null,0,null,null
+506844,30007012,"Amsterdam, Amstelpark",52.331701,4.890204,0,stoparea:110902,null,1,null,null
+506845,30007013,"Amsterdam, Amstelpark",52.331663,4.88972,0,stoparea:110902,null,0,null,null
+1528380,30009013,"Amsterdam, Amstelstation",52.347255,4.9179,0,stoparea:26091,null,null,null,null
+1421073,30009015,"Amsterdam, Amstelstation",52.346793,4.919401,0,stoparea:26091,null,0,null,null
+1523002,30009016,"Amsterdam, Amstelstation",52.346497,4.919537,0,stoparea:26091,null,0,null,null
+1440315,30009017,"Amsterdam, Amstelstation",52.346215,4.918556,0,stoparea:235954,null,null,A6,null
+1440317,30009018,"Amsterdam, Amstelstation",52.346215,4.9186,0,stoparea:235954,null,null,A7,null
+1419759,30009025,"Amsterdam, Amstelstation",52.346234,4.918908,0,stoparea:26091,null,0,null,null
+1419757,30009026,"Amsterdam, Amstelstation",52.346197,4.918747,0,stoparea:26091,null,0,null,null
+1401154,30009028,"Amsterdam, Amstelstation",52.346179,4.918674,0,stoparea:26091,null,1,null,null
+96470,30009514,"Amsterdam, Amstelstation",52.346489,4.91757,0,stoparea:26091,null,0,null,null
+96469,30009515,"Amsterdam, Amstelstation",52.346471,4.917512,0,stoparea:26091,null,0,null,null
+2217561,57152000,"Amsterdam, Amstelstation",52.346866,4.919621,0,stoparea:235954,null,null,B2,null
+2217583,57152010,"Amsterdam, Amstelstation",52.346794,4.919563,0,stoparea:235954,null,null,B1,null
+1420024,57152930,"Amsterdam, Amstelstation",52.346107,4.918675,0,stoparea:122969,null,null,A1,CXX:57152930
+1420586,57152960,"Amsterdam, Amstelstation",52.346161,4.918616,0,stoparea:122969,null,null,A5,CXX:57152960
+15260,30007033,"Amsterdam, Amstelveenseweg",52.351617,4.856957,0,stoparea:2478,null,0,null,null
+15254,30007034,"Amsterdam, Amstelveenseweg",52.351325,4.855962,0,stoparea:2478,null,null,null,null
+15716,30007342,"Amsterdam, Amstelveenseweg",52.33846,4.857202,0,stoparea:2536,null,0,B,null
+15717,30007343,"Amsterdam, Amstelveenseweg",52.338365,4.857981,0,stoparea:2536,null,1,null,null
+15045,30007490,"Amsterdam, Amstelveenseweg",52.338092,4.857309,0,stoparea:2536,null,1,N,null
+15044,30007493,"Amsterdam, Amstelveenseweg",52.338343,4.857247,0,stoparea:2536,null,1,C,null
+316201,30007495,"Amsterdam, Amstelveenseweg",52.339123,4.858749,0,stoparea:109160,null,1,D,null
+511159,57142870,"Amsterdam, Amstelveenseweg",52.33847,4.857348,0,stoparea:121298,null,0,null,CXX:57142870
+511084,57142880,"Amsterdam, Amstelveenseweg",52.337985,4.857574,0,stoparea:121298,null,0,null,CXX:57142880
+511085,57142881,"Amsterdam, Amstelveenseweg",52.339123,4.858691,0,stoparea:121298,null,1,null,CXX:57142881
+511123,57144010,"Amsterdam, Amstelveenseweg",52.337443,4.856876,0,stoparea:121298,null,1,null,CXX:57144010
+2218830,57142340,"Amsterdam, Amsterdamse Bos",52.326724,4.857606,0,null,null,1,null,CXX:57142340
+2220043,57142350,"Amsterdam, Amsterdamse Bos",52.327082,4.857411,0,null,null,1,null,CXX:57142350
+14940,30001228,"Amsterdam, Ananasplein",52.41032,4.895554,0,stoparea:2597,null,1,null,null
+14939,30001229,"Amsterdam, Ananasplein",52.410691,4.896108,0,stoparea:2597,null,0,null,null
+14393,30004332,"Amsterdam, Anderlechtlaan",52.335744,4.814435,0,stoparea:2298,null,1,null,null
+14394,30004333,"Amsterdam, Anderlechtlaan",52.335854,4.814815,0,stoparea:2298,null,0,null,null
+521351,57132300,"Amsterdam, Anderlechtlaan",52.335726,4.814303,0,null,null,1,null,CXX:57132300
+521158,57132310,"Amsterdam, Anderlechtlaan",52.335609,4.814334,0,null,null,0,null,CXX:57132310
+15639,30000197,"Amsterdam, Annie Romeinplein",52.321733,4.971618,0,stoparea:2398,null,null,A2,null
+15632,30000198,"Amsterdam, Annie Romeinplein",52.32143,4.969978,0,stoparea:2398,null,null,A3,null
+1528375,30003057,"Amsterdam, Ant. Moddermanstraat",52.38339,4.814745,0,stoparea:297207,null,null,null,null
+1528998,30003125,"Amsterdam, Ant. Moddermanstraat",52.383302,4.81338,0,stoparea:297207,null,null,null,null
+1217971,30000238,"Amsterdam, Anton de Komplein",52.316034,4.954131,0,stoparea:235564,null,0,null,null
+15739,30000239,"Amsterdam, Anton de Komplein",52.316527,4.955974,0,stoparea:2593,null,1,null,null
+506838,30004301,"Amsterdam, Antwerpenbaan",52.34637,4.816749,0,stoparea:160332,null,1,null,null
+506837,30004302,"Amsterdam, Antwerpenbaan",52.346226,4.816751,0,stoparea:160331,null,1,null,null
+14506,30004307,"Amsterdam, Antwerpenbaan",52.345863,4.815919,0,stoparea:2473,null,1,null,null
+521154,57232640,"Amsterdam, Antwerpenbaan",52.346026,4.816269,0,stoparea:157190,null,1,null,CXX:57232640
+499788,57232650,"Amsterdam, Antwerpenbaan",52.345827,4.81589,0,stoparea:157190,null,0,null,CXX:57232650
+15679,30007309,"Amsterdam, Apollolaan",52.348167,4.881874,0,stoparea:2632,null,0,null,null
+14458,30007310,"Amsterdam, Apollolaan",52.348159,4.882109,0,stoparea:2632,null,1,null,null
+14938,30001224,"Amsterdam, Appelweg",52.415552,4.895613,0,stoparea:2594,null,1,null,null
+14937,30001225,"Amsterdam, Appelweg",52.415802,4.895405,0,stoparea:2594,null,1,null,null
+2031497,30002083,"Amsterdam, Archangelkade",52.395507,4.871932,0,stoparea:298112,null,0,null,null
+14932,30000061,"Amsterdam, Archimedesweg",52.355742,4.939652,0,stoparea:2590,null,1,null,null
+14930,30000062,"Amsterdam, Archimedesweg",52.355563,4.939874,0,stoparea:2590,null,1,null,null
+2066922,30000509,"Amsterdam, Arent Krijtsstraat",52.339399,4.955488,0,stoparea:2854,null,0,null,null
+103902,30008042,"Amsterdam, Artis",52.366766,4.910807,0,stoparea:32953,null,0,null,null
+103903,30008043,"Amsterdam, Artis",52.366534,4.911412,0,stoparea:32953,null,0,null,null
+2220755,30008137,"Amsterdam, Artis",52.367168,4.912462,0,stoparea:32953,null,0,null,null
+1528363,30002106,"Amsterdam, Assendelftstraat",52.38941,4.879436,0,stoparea:2265,null,1,null,null
+15553,30002107,"Amsterdam, Assendelftstraat",52.388828,4.879839,0,stoparea:2265,null,1,null,null
+15509,30001365,"Amsterdam, Atat\81rk",52.403194,4.89794,0,stoparea:2890,null,0,null,null
+15506,30001366,"Amsterdam, Atat\81rk",52.403274,4.897763,0,stoparea:2890,null,0,null,null
+14414,30008013,"Amsterdam, Azartplein",52.376558,4.937342,0,stoparea:2364,null,0,null,null
+14632,30008014,"Amsterdam, Azartplein",52.376828,4.937354,0,stoparea:2364,null,1,null,null
+165055,30009925,"Amsterdam, Azartplein",52.377754,4.937521,0,stoparea:50344,null,1,null,null
+674730,57252510,"Amsterdam, AZUA",52.291361,4.955954,0,stoparea:197988,null,0,null,null
+671659,57252520,"Amsterdam, AZUA",52.291707,4.954925,0,stoparea:197988,null,0,null,null
+1134041,30007201,"Amsterdam, B.Brittenstraat",52.336622,4.870312,0,stoparea:232959,null,1,null,null
+521106,30007161,"Amsterdam, Backershagen",52.324805,4.877006,0,stoparea:165452,null,0,null,null
+14923,30004011,"Amsterdam, Baden Powellweg",52.356502,4.791723,0,stoparea:2586,null,0,null,null
+14922,30004012,"Amsterdam, Baden Powellweg",52.356464,4.791371,0,stoparea:2586,null,0,null,null
+14799,30004024,"Amsterdam, Baden Powellweg",52.362486,4.787825,0,stoparea:2380,null,1,null,null
+408781,30004025,"Amsterdam, Baden Powellweg",52.362279,4.787725,0,stoparea:2380,null,1,null,null
+14960,30004343,"Amsterdam, Baden Powellweg",52.3566,4.791692,0,stoparea:2586,null,0,null,null
+15529,30004409,"Amsterdam, Baden Powellweg",52.350925,4.79441,0,stoparea:2923,null,0,null,null
+14450,30004410,"Amsterdam, Baden Powellweg",52.351055,4.795186,0,stoparea:2923,null,0,null,null
+15096,30001100,"Amsterdam, Bakkerswaal",52.40239,4.937594,0,stoparea:2920,null,0,null,null
+15098,30001101,"Amsterdam, Bakkerswaal",52.402227,4.937287,0,stoparea:2920,null,0,null,null
+680576,30001275,"Amsterdam, Banne Buikslootlaan",52.408153,4.917416,0,stoparea:160335,null,0,null,null
+15429,30005092,"Amsterdam, Barentszplein",52.389381,4.891599,0,stoparea:2737,null,0,null,null
+15430,30005093,"Amsterdam, Barentszplein",52.389012,4.891559,0,stoparea:2737,null,0,null,null
+15284,30001166,"Amsterdam, Barkpad",52.402621,4.911744,0,stoparea:2524,null,0,null,null
+14832,30001188,"Amsterdam, Barkpad",52.402683,4.911479,0,stoparea:2524,null,1,null,null
+417918,37223620,"Amsterdam, Barndegat",52.430039,4.86409,0,stoparea:122136,null,0,null,CXX:37223620
+417529,57123530,"Amsterdam, Barndegat",52.429986,4.864149,0,stoparea:122136,null,0,null,CXX:57123530
+2219207,57120010,"Amsterdam, Basisweg",52.392188,4.84322,0,stoparea:355747,null,0,null,CXX:57120010
+1538794,57120010,"Amsterdam, Basisweg",52.392152,4.843235,0,stoparea:299931,null,0,null,null
+2220349,57120020,"Amsterdam, Basisweg",52.392421,4.845068,0,stoparea:355747,null,0,null,CXX:57120020
+1538903,57120020,"Amsterdam, Basisweg",52.392449,4.845097,0,stoparea:299931,null,0,null,null
+14413,30001079,"Amsterdam, Beemsterstraat",52.397743,4.951937,0,stoparea:2325,null,1,null,null
+15088,30001091,"Amsterdam, Beemsterstraat",52.397596,4.951057,0,stoparea:2325,null,1,null,null
+15059,30001237,"Amsterdam, Beemsterstraat",52.397123,4.952105,0,stoparea:2325,null,0,null,null
+15683,30007307,"Amsterdam, Beethovenstraat",52.347001,4.878204,0,stoparea:2751,null,1,A,null
+14558,30007308,"Amsterdam, Beethovenstraat",52.346867,4.876327,0,stoparea:2751,null,1,K,null
+15097,30000023,"Amsterdam, Beukenplein",52.357016,4.91809,0,stoparea:2454,null,1,null,null
+15106,30000024,"Amsterdam, Beukenplein",52.35725,4.918073,0,stoparea:2454,null,1,null,null
+14480,30000020,"Amsterdam, Beukenweg",52.35906,4.916747,0,stoparea:2455,null,1,null,null
+14481,30000021,"Amsterdam, Beukenweg",52.358298,4.91721,0,stoparea:2455,null,1,null,null
+1541024,30007203,"Amsterdam, Biesbosch",52.313925,4.871764,0,stoparea:300283,null,1,null,null
+1541023,30007204,"Amsterdam, Biesbosch",52.313537,4.871445,0,stoparea:300030,null,1,null,null
+1547700,30000434,"Amsterdam, Bijlmerplein",52.314264,4.949382,0,stoparea:235955,null,0,null,null
+15326,30000434,"Amsterdam, Bijlmerplein",52.314573,4.950318,0,stoparea:2286,null,1,null,null
+2218497,57252791,"Amsterdam, Bijlmerplein",52.3143,4.949264,0,stoparea:355973,null,0,null,CXX:57252791
+15781,30006021,"Amsterdam, Bilderdijkstraat",52.367123,4.871762,0,stoparea:2786,null,1,null,null
+15783,30006023,"Amsterdam, Bilderdijkstraat",52.36736,4.872538,0,stoparea:2786,null,1,null,null
+1528999,30006034,"Amsterdam, Bilderdijkstraat",52.371056,4.870821,0,stoparea:2368,null,0,null,null
+15706,30006037,"Amsterdam, Bilderdijkstraat",52.370827,4.869854,0,stoparea:2368,null,0,null,null
+14521,30001048,"Amsterdam, Blijkmeer",52.408899,5.02478,0,stoparea:2554,null,0,null,null
+1537003,30001049,"Amsterdam, Blijkmeer",52.408953,5.024795,0,stoparea:2554,null,0,null,null
+14379,30001326,"Amsterdam, Bloemend.gouw 51",52.39605,5.008695,0,stoparea:2280,null,null,null,null
+14380,30001327,"Amsterdam, Bloemend.gouw 51",52.396059,5.008621,0,stoparea:2280,null,1,null,null
+15149,30001046,"Amsterdam, Bloemend.gouw 69",52.403324,5.018096,0,stoparea:2521,null,1,null,null
+15312,30001047,"Amsterdam, Bloemend.gouw 69",52.403215,5.017906,0,stoparea:2521,null,0,null,null
+15316,30002125,"Amsterdam, Bloemgracht",52.374172,4.876321,0,stoparea:2579,null,0,null,null
+15318,30002126,"Amsterdam, Bloemgracht",52.374496,4.876581,0,stoparea:2579,null,0,null,null
+433778,30008007,"Amsterdam, Bob Haarmslaan",52.368766,4.96921,0,stoparea:146270,null,1,null,null
+2066186,30008009,"Amsterdam, Bob Haarmslaan",52.36915,4.968589,0,stoparea:146270,null,0,null,null
+433779,30008009,"Amsterdam, Bob Haarmslaan",52.36915,4.968589,0,stoparea:146271,null,1,null,null
+433775,30008021,"Amsterdam, Bob Haarmslaan",52.369088,4.968942,0,stoparea:146268,null,0,null,null
+1530745,30008022,"Amsterdam, Bob Haarmslaan",52.370019,4.96792,0,stoparea:146268,null,0,null,null
+1356026,30007164,"Amsterdam, Bolestein",52.325089,4.859767,0,stoparea:269805,null,0,null,null
+15080,30002270,"Amsterdam, Bolstoen",52.391808,4.788575,0,stoparea:2683,null,1,null,null
+1689906,30008055,"Amsterdam, Borneolaan",52.371331,4.938188,0,stoparea:339160,null,1,null,null
+1689909,30008056,"Amsterdam, Borneolaan",52.371236,4.939231,0,stoparea:339160,null,1,null,null
+1689984,30008219,"Amsterdam, Borneolaan",52.370901,4.938618,0,stoparea:339160,null,0,null,null
+15878,30002291,"Amsterdam, Bornhout",52.396036,4.794762,0,stoparea:2463,null,0,null,null
+1379045,30002332,"Amsterdam, Bornhout",52.395732,4.793312,0,stoparea:2605,null,1,null,null
+15470,30003060,"Amsterdam, Bos en Lommerplein",52.37815,4.847181,0,stoparea:2807,null,0,null,null
+15469,30003061,"Amsterdam, Bos en Lommerplein",52.377781,4.845233,0,stoparea:2807,null,0,null,null
+14874,30003167,"Amsterdam, Bos en Lommerplein",52.377095,4.846504,0,stoparea:2807,null,0,null,null
+364153,57130310,"Amsterdam, Bos en Lommerplein",52.378159,4.847181,0,stoparea:124008,null,0,null,CXX:57130310
+364963,57130320,"Amsterdam, Bos en Lommerplein",52.377844,4.845247,0,stoparea:124008,null,0,null,CXX:57130320
+2218809,57130850,"Amsterdam, Bos en Lommerplein",52.377104,4.84646,0,stoparea:124008,null,1,null,CXX:57130850
+14871,30002166,"Amsterdam, Bos en Lommerweg",52.380164,4.855484,0,stoparea:2487,null,0,null,null
+14870,30002167,"Amsterdam, Bos en Lommerweg",52.381181,4.853798,0,stoparea:2487,null,0,null,null
+14996,30002177,"Amsterdam, Bos en Lommerweg",52.381008,4.85521,0,stoparea:2487,null,0,null,null
+15137,30003038,"Amsterdam, Bos en Lommerweg",52.380147,4.853693,0,stoparea:2487,null,1,null,null
+365141,57134320,"Amsterdam, Bos en Lommerweg",52.381044,4.855254,0,stoparea:124013,null,1,null,CXX:57134320
+357538,57134330,"Amsterdam, Bos en Lommerweg",52.380219,4.853707,0,stoparea:124013,null,0,null,CXX:57134330
+224299,30007331,"Amsterdam, Bouvigne",52.327923,4.883117,0,stoparea:73004,null,1,null,null
+224300,30007332,"Amsterdam, Bouvigne",52.328066,4.882939,0,stoparea:73004,null,1,null,null
+15634,30001353,"Amsterdam, BovenIJ ziekenhuis",52.405386,4.920017,0,stoparea:2395,null,0,null,null
+15710,30001354,"Amsterdam, BovenIJ ziekenhuis",52.405701,4.920102,0,stoparea:2395,null,1,null,null
+1377848,30001214,"Amsterdam, Bovenkruier",52.420114,4.884053,0,stoparea:2389,null,0,null,null
+14811,30001215,"Amsterdam, Bovenkruier",52.420285,4.884139,0,stoparea:2389,null,0,null,null
+1238178,30000074,"Amsterdam, Brinkstraat",52.342921,4.947984,0,stoparea:235953,null,0,null,null
+14798,30000074,"Amsterdam, Brinkstraat",52.342849,4.94797,0,stoparea:2379,null,0,null,null
+1238177,30000076,"Amsterdam, Brinkstraat",52.343234,4.947438,0,stoparea:235953,null,0,null,null
+14800,30000076,"Amsterdam, Brinkstraat",52.343243,4.947423,0,stoparea:2379,null,0,null,null
+581983,57152200,"Amsterdam, Brinkstraat",52.34318,4.947541,0,stoparea:183150,null,0,null,CXX:57152200
+1420660,57152430,"Amsterdam, Brinkstraat",52.342921,4.947882,0,stoparea:183150,null,0,null,CXX:57152430
+1524111,30004338,"Amsterdam, Brusselsingel",52.344886,4.807332,0,stoparea:2649,null,1,null,null
+1377850,30004339,"Amsterdam, Brusselsingel",52.345012,4.807404,0,stoparea:2649,null,0,null,null
+14957,30001089,"Amsterdam, Buikslotermeerdijk",52.401383,4.957088,0,stoparea:2396,null,0,null,null
+15087,30001090,"Amsterdam, Buikslotermeerdijk",52.401348,4.957162,0,stoparea:2396,null,1,null,null
+1523014,30001363,"Amsterdam, Buikslotermeerplein",52.399432,4.939681,0,stoparea:295945,null,0,null,null
+1523015,30001364,"Amsterdam, Buikslotermeerplein",52.399923,4.938868,0,stoparea:295945,null,0,null,null
+1762389,30009906,"Amsterdam, Buiksloterweg",52.382265,4.903179,0,stoparea:280678,null,1,null,null
+1440633,30001360,"Amsterdam, Buiksloterwegveer",52.383381,4.905738,0,stoparea:280678,null,1,null,null
+1440632,30001374,"Amsterdam, Buiksloterwegveer",52.383327,4.905621,0,stoparea:280678,null,1,null,null
+15294,30005081,"Amsterdam, Buiten Brouwersstraat",52.381507,4.89157,0,stoparea:2537,null,1,null,null
+15293,30005082,"Amsterdam, Buiten Brouwersstraat",52.381668,4.891289,0,stoparea:2537,null,1,null,null
+15435,30005079,"Amsterdam, Buiten Oranjestraat",52.383119,4.888056,0,stoparea:2746,null,1,null,null
+15295,30005080,"Amsterdam, Buiten Oranjestraat",52.383307,4.887819,0,stoparea:2746,null,1,null,null
+14986,30004030,"Amsterdam, Bullepad",52.361997,4.79968,0,stoparea:2879,null,1,null,null
+14700,30004031,"Amsterdam, Bullepad",52.362013,4.799342,0,stoparea:2879,null,1,null,null
+15143,30009524,"Amsterdam, Bullewijk",52.306931,4.952079,0,stoparea:2933,null,1,null,null
+15144,30009525,"Amsterdam, Bullewijk",52.30642,4.952333,0,stoparea:2933,null,0,null,null
+1691163,30001137,"Amsterdam, Bundlaan",52.388428,4.90248,0,stoparea:339379,null,1,null,null
+224272,30003051,"Amsterdam, Burg. Eliasstraat",52.38037,4.828017,0,stoparea:72991,null,1,null,null
+224271,30003052,"Amsterdam, Burg. Eliasstraat",52.380773,4.825647,0,stoparea:72991,null,0,null,null
+2175388,30003053,"Amsterdam, Burg. Fockstraat",52.37947,4.833404,0,stoparea:235555,null,0,null,null
+1378344,30003054,"Amsterdam, Burg. Fockstraat",52.379524,4.833389,0,stoparea:235555,null,1,null,null
+1217964,30003055,"Amsterdam, Burg. Fockstraat",52.379918,4.831078,0,stoparea:235555,null,0,null,null
+361326,57130120,"Amsterdam, Burg. Fockstraat",52.379972,4.83118,0,null,null,0,null,CXX:57130120
+356605,57130130,"Amsterdam, Burg. Fockstraat",52.379497,4.833301,0,null,null,0,null,CXX:57130130
+1525671,30003132,"Amsterdam, Burg. R\94ellstraat",52.376762,4.819501,0,stoparea:2929,null,1,null,null
+14746,30003174,"Amsterdam, Burg. R\94ellstraat",52.374762,4.818631,0,stoparea:2703,null,1,null,null
+14748,30003171,"Amsterdam, Burg. Rendorpstraat",52.374365,4.827682,0,stoparea:2304,null,0,null,null
+14751,30003172,"Amsterdam, Burg. Rendorpstraat",52.374451,4.826917,0,stoparea:2304,null,1,null,null
+15796,30003095,"Amsterdam, Burg. v. Leeuwenlaan",52.37641,4.813734,0,stoparea:2704,null,0,null,null
+15794,30003096,"Amsterdam, Burg. v. Leeuwenlaan",52.376255,4.813251,0,stoparea:2704,null,0,null,null
+15795,30003097,"Amsterdam, Burg. v. Leeuwenlaan",52.376509,4.811823,0,stoparea:2704,null,1,null,null
+1378359,30003098,"Amsterdam, Burg. v. Leeuwenlaan",52.376447,4.812089,0,stoparea:2704,null,1,null,null
+1217966,30003079,"Amsterdam, Burg. v.d. Pollstraat",52.373552,4.832479,0,stoparea:235558,null,1,null,null
+2175389,30003161,"Amsterdam, Burg.de Vlugtlaan",52.378684,4.838363,0,stoparea:28369,null,0,null,null
+103884,30003162,"Amsterdam, Burg.de Vlugtlaan",52.378836,4.838185,0,stoparea:28369,null,0,null,null
+1378348,30003163,"Amsterdam, Burg.de Vlugtlaan",52.378817,4.837936,0,stoparea:28369,null,0,null,null
+2214145,30003166,"Amsterdam, Burg.de Vlugtlaan",52.378686,4.838716,0,stoparea:28369,null,0,null,null
+96433,30003204,"Amsterdam, Burg.de Vlugtlaan",52.380006,4.838464,0,stoparea:28369,null,1,null,null
+96432,30003205,"Amsterdam, Burg.de Vlugtlaan",52.37951,4.838088,0,stoparea:28369,null,1,null,null
+1928615,57000072,"Amsterdam, Busstation Elandsgracht",52.369178,4.877186,0,stoparea:122141,null,0,null,CXX:57000072
+1928616,57000073,"Amsterdam, Busstation Elandsgracht",52.369151,4.877201,0,stoparea:122141,null,0,null,CXX:57000073
+1928507,57003570,"Amsterdam, Busstation Elandsgracht",52.369561,4.876433,0,stoparea:122141,null,0,null,CXX:57003570
+1999325,57003571,"Amsterdam, Busstation Elandsgracht",52.369418,4.876566,0,stoparea:122141,null,null,null,CXX:57003571
+1928506,57003573,"Amsterdam, Busstation Elandsgracht",52.369626,4.876843,0,stoparea:122141,null,0,null,CXX:57003573
+1529072,57003574,"Amsterdam, Busstation Elandsgracht",52.36959,4.876873,0,stoparea:122141,null,0,null,CXX:57003574
+1997270,30002178,"Amsterdam, C. de Bourbonstraat",52.381644,4.858742,0,stoparea:345824,null,0,null,null
+1997282,30002179,"Amsterdam, C. de Bourbonstraat",52.381028,4.859645,0,stoparea:345824,null,1,null,null
+15169,30000556,"Amsterdam, C. Mac Gillavrylaan",52.357631,4.944697,0,stoparea:2282,null,0,null,null
+15170,30000557,"Amsterdam, C. Mac Gillavrylaan",52.357719,4.944212,0,stoparea:2282,null,0,null,null
+14635,30008011,"Amsterdam, C. van Eesterenlaan",52.373345,4.938549,0,stoparea:2397,null,1,null,null
+14415,30008012,"Amsterdam, C. van Eesterenlaan",52.373562,4.938855,0,stoparea:2397,null,1,null,null
+1762388,30008048,"Amsterdam, C. van Eesterenlaan",52.37382,4.938074,0,stoparea:341537,null,0,null,null
+14625,30008233,"Amsterdam, C. van Eesterenlaan",52.373451,4.938122,0,stoparea:2397,null,1,null,null
+14484,30004051,"Amsterdam, C.K. Eloutstraat",52.354343,4.811377,0,stoparea:2457,null,1,null,null
+14483,30004052,"Amsterdam, C.K. Eloutstraat",52.35447,4.811683,0,stoparea:2457,null,1,null,null
+15874,30009023,"Amsterdam, Camperstraat",52.358401,4.913833,0,stoparea:2863,null,null,null,null
+15875,30009024,"Amsterdam, Camperstraat",52.358328,4.913393,0,stoparea:2863,null,0,null,null
+881350,30004304,"Amsterdam, Cateringweg",52.323424,4.800234,0,stoparea:222518,null,1,null,null
+881348,30004310,"Amsterdam, Cateringweg",52.323269,4.799752,0,stoparea:222518,null,1,null,null
+1528374,30009094,"Amsterdam, Ceintuurbaan",52.354603,4.901426,0,stoparea:2614,null,0,null,null
+15340,30009095,"Amsterdam, Ceintuurbaan",52.35506,4.901054,0,stoparea:2614,null,0,null,null
+1537582,30005011,"Amsterdam, Centraal Station",52.378106,4.899215,0,stoparea:285522,null,1,null,null
+1537584,30005022,"Amsterdam, Centraal Station",52.377718,4.901041,0,stoparea:285522,null,0,null,null
+2133692,30005024,"Amsterdam, Centraal Station",52.377364,4.898137,0,stoparea:285522,null,1,null,null
+2032198,30005029,"Amsterdam, Centraal Station",52.379004,4.903347,0,stoparea:285522,null,0,null,null
+1538650,30005096,"Amsterdam, Centraal Station",52.379675,4.900491,0,stoparea:285522,null,1,null,null
+1538697,30005097,"Amsterdam, Centraal Station",52.379542,4.900874,0,stoparea:285522,null,1,null,null
+1538651,30005100,"Amsterdam, Centraal Station",52.379748,4.900681,0,stoparea:285522,null,1,null,null
+1538652,30005101,"Amsterdam, Centraal Station",52.379614,4.901049,0,stoparea:285522,null,null,null,null
+1538699,30005103,"Amsterdam, Centraal Station",52.379382,4.901272,0,stoparea:285522,null,null,null,null
+1538655,30005104,"Amsterdam, Centraal Station",52.379248,4.901641,0,stoparea:285522,null,0,null,null
+1538656,30005105,"Amsterdam, Centraal Station",52.379321,4.901875,0,stoparea:285522,null,0,null,null
+1538653,30005106,"Amsterdam, Centraal Station",52.379188,4.902288,0,stoparea:285522,null,0,null,null
+1538654,30005107,"Amsterdam, Centraal Station",52.37916,4.90195,0,stoparea:285522,null,1,null,null
+1690783,30009500,"Amsterdam, Centraal Station",52.377359,4.901133,0,stoparea:2540,null,1,null,null
+1928474,30009501,"Amsterdam, Centraal Station",52.377492,4.900779,0,stoparea:2540,null,1,null,null
+1480231,30009575,"Amsterdam, Centraal Station",52.377954,4.899511,0,stoparea:285522,null,0,null,null
+1480230,30009576,"Amsterdam, Centraal Station",52.378208,4.899949,0,stoparea:285522,null,0,null,null
+319992,30009903,"Amsterdam, Centraal Station",52.380865,4.8992,0,stoparea:2695,null,0,null,null
+239520,30009905,"Amsterdam, Centraal Station",52.380705,4.899554,0,stoparea:2695,null,1,null,null
+319990,30009910,"Amsterdam, Centraal Station",52.379148,4.903478,0,stoparea:2695,null,0,null,null
+326920,57000312,"Amsterdam, Centraal Station",52.380166,4.89981,0,stoparea:111523,null,1,G-A,null
+326930,57000314,"Amsterdam, Centraal Station",52.379953,4.900429,0,stoparea:111523,null,1,G-B,null
+326931,57000315,"Amsterdam, Centraal Station",52.379953,4.900429,0,stoparea:111523,null,1,G-B,null
+326929,57000316,"Amsterdam, Centraal Station",52.380166,4.89981,0,stoparea:111523,null,1,G-A,null
+326927,57005010,"Amsterdam, Centraal Station",52.379321,4.901787,0,stoparea:111523,null,1,G-G,null
+1999202,57005030,"Amsterdam, Centraal Station",52.379776,4.900959,0,stoparea:121419,null,1,G-C,CXX:57005030
+2219778,57005040,"Amsterdam, Centraal Station",52.379722,4.901092,0,stoparea:121419,null,1,G-D,CXX:57005040
+2219779,57005041,"Amsterdam, Centraal Station",52.379722,4.901092,0,stoparea:121419,null,null,null,CXX:57005041
+1999182,57005070,"Amsterdam, Centraal Station",52.379525,4.901153,0,stoparea:121419,null,1,G-G,CXX:57005070
+1999162,57005090,"Amsterdam, Centraal Station",52.379614,4.900917,0,stoparea:121419,null,1,G-J,CXX:57005090
+1999249,57005110,"Amsterdam, Centraal Station",52.379685,4.900711,0,stoparea:121419,null,1,G-L,CXX:57005110
+1999106,57005120,"Amsterdam, Centraal Station",52.37972,4.900608,0,stoparea:121419,null,1,G-M,CXX:57005120
+1526443,57131520,"Amsterdam, Ch. de Bourbonstraat",52.381644,4.858801,0,null,null,1,null,CXX:57131520
+1526400,57131530,"Amsterdam, Ch. de Bourbonstraat",52.380965,4.859734,0,stoparea:296697,null,1,null,CXX:57131530
+14726,30003102,"Amsterdam, Confuciusplein",52.374469,4.811835,0,stoparea:2809,null,1,null,null
+14668,30003103,"Amsterdam, Confuciusplein",52.374587,4.812069,0,stoparea:2809,null,1,null,null
+14429,30002259,"Amsterdam, Contactweg",52.391952,4.856577,0,stoparea:2361,null,1,null,null
+103933,30002260,"Amsterdam, Contactweg",52.392158,4.854327,0,stoparea:2361,null,1,null,null
+15466,30006010,"Amsterdam, Corantijnstraat",52.361316,4.853259,0,stoparea:2800,null,0,null,null
+15467,30006013,"Amsterdam, Corantijnstraat",52.361802,4.853297,0,stoparea:2800,null,0,null,null
+15161,30007027,"Amsterdam, Corn. Schuytstraat",52.355973,4.870512,0,stoparea:2765,null,1,null,null
+15155,30007028,"Amsterdam, Corn. Schuytstraat",52.356047,4.870878,0,stoparea:2765,null,1,null,null
+15497,30004138,"Amsterdam, Cornelis Lelylaan",52.357635,4.826777,0,stoparea:2254,null,0,null,null
+15498,30004139,"Amsterdam, Cornelis Lelylaan",52.357981,4.827712,0,stoparea:2254,null,0,null,null
+1997254,30004142,"Amsterdam, Cornelis Lelylaan",52.358054,4.83577,0,stoparea:345819,null,1,null,null
+15866,30009119,"Amsterdam, Cornelis Troostplein",52.350005,4.891496,0,stoparea:2847,null,0,null,null
+14641,30009120,"Amsterdam, Cornelis Troostplein",52.350464,4.891608,0,stoparea:2847,null,0,null,null
+1522972,30006004,"Amsterdam, Cura\87aostraat",52.358608,4.850722,0,stoparea:2290,null,0,null,null
+14825,30000295,"Amsterdam, Dalsteindreef",52.324826,4.94234,0,stoparea:2409,null,0,null,null
+14826,30000296,"Amsterdam, Dalsteindreef",52.324808,4.942413,0,stoparea:2409,null,0,null,null
+15587,30005031,"Amsterdam, Dam",52.373408,4.893481,0,stoparea:2359,null,1,null,null
+322629,30005032,"Amsterdam, Dam",52.374927,4.895491,0,stoparea:2359,null,1,null,null
+15668,30005055,"Amsterdam, Dam",52.373125,4.890078,0,stoparea:2440,null,1,null,null
+15306,30005063,"Amsterdam, Dam",52.372444,4.890643,0,stoparea:2440,null,1,null,null
+15308,30005065,"Amsterdam, Dam",52.373676,4.890791,0,stoparea:2440,null,0,null,null
+15431,30005066,"Amsterdam, Dam",52.373179,4.890268,0,stoparea:2440,null,0,null,null
+15301,30005068,"Amsterdam, Dam",52.374361,4.891239,0,stoparea:2440,null,null,null,null
+2133690,30005138,"Amsterdam, Dam",52.373552,4.891306,0,stoparea:2440,null,0,null,null
+365351,57002550,"Amsterdam, Dam",52.374433,4.891223,0,null,null,0,null,CXX:57002550
+358941,57002560,"Amsterdam, Dam",52.373125,4.890078,0,null,null,0,null,CXX:57002560
+1377846,30000008,"Amsterdam, Dapperstraat",52.361106,4.929777,0,stoparea:2870,null,1,null,null
+14582,30000010,"Amsterdam, Dapperstraat",52.360923,4.928912,0,stoparea:2870,null,1,null,null
+322607,30007132,"Amsterdam, De Boelelaan",52.33511,4.867835,0,stoparea:26645,null,1,null,null
+322606,30007133,"Amsterdam, De Boelelaan",52.334965,4.867543,0,stoparea:26645,null,0,null,null
+1134037,30007510,"Amsterdam, De Boelelaan/Klencke",52.334549,4.88781,0,stoparea:232957,null,0,F,null
+86377,30007004,"Amsterdam, De Boelelaan/VU",52.335344,4.865866,0,stoparea:26645,null,1,null,null
+86376,30007005,"Amsterdam, De Boelelaan/VU",52.335224,4.867203,0,stoparea:26645,null,1,null,null
+1543998,30007138,"Amsterdam, De Boelelaan/VU",52.334756,4.869101,0,stoparea:300928,null,0,null,null
+1543997,30007139,"Amsterdam, De Boelelaan/VU",52.334484,4.868605,0,stoparea:300927,null,1,null,null
+103182,30007410,"Amsterdam, De Boelelaan/VU",52.3348,4.868866,0,stoparea:26645,null,null,B2,null
+103186,30007411,"Amsterdam, De Boelelaan/VU",52.334548,4.86881,0,stoparea:26645,null,null,B3,null
+1420149,57142260,"Amsterdam, De Boelelaan/VU",52.335274,4.866381,0,stoparea:122379,null,1,null,CXX:57142260
+359337,57142940,"Amsterdam, De Boelelaan/VU",52.334937,4.867485,0,stoparea:122379,null,0,null,CXX:57142940
+15218,30002154,"Amsterdam, De Clercqstraat",52.371189,4.870526,0,stoparea:2368,null,1,null,null
+15709,30006038,"Amsterdam, De Clercqstraat",52.370614,4.8704,0,stoparea:2368,null,1,null,null
+322640,30001069,"Amsterdam, De Egmondenstraat",52.393608,4.94948,0,stoparea:110908,null,1,null,null
+322598,30001070,"Amsterdam, De Egmondenstraat",52.394088,4.948094,0,stoparea:110908,null,0,null,null
+2218911,57252840,"Amsterdam, de Entree",52.311196,4.936449,0,null,null,0,null,CXX:57252840
+2220231,57252850,"Amsterdam, de Entree",52.311098,4.936758,0,stoparea:355736,null,0,null,CXX:57252850
+652264,30000578,"Amsterdam, De Flinesstraat",52.327453,4.92672,0,stoparea:196738,null,1,null,null
+652265,30000579,"Amsterdam, De Flinesstraat",52.327641,4.926468,0,stoparea:196730,null,0,null,null
+1537010,30009111,"Amsterdam, De Pijp",52.352725,4.890732,0,stoparea:285517,null,1,null,null
+1537009,30009114,"Amsterdam, De Pijp",52.352594,4.889486,0,stoparea:285517,null,1,null,null
+1480233,30009581,"Amsterdam, De Pijp",52.35296,4.891008,0,stoparea:285517,null,0,null,null
+1480220,30009582,"Amsterdam, De Pijp",52.353337,4.89093,0,stoparea:285517,null,0,null,null
+1997283,30002180,"Amsterdam, De Rijpgracht",52.378173,4.862396,0,stoparea:345823,null,0,null,null
+1997269,30002181,"Amsterdam, De Rijpgracht",52.377124,4.862893,0,stoparea:345823,null,1,null,null
+357588,57131540,"Amsterdam, De Rijpgracht",52.377151,4.862937,0,null,null,1,null,CXX:57131540
+1420709,57131550,"Amsterdam, De Rijpgracht",52.378164,4.862338,0,null,null,0,null,CXX:57131550
+14869,30002164,"Amsterdam, De Rijpstraat",52.377254,4.857766,0,stoparea:2486,null,0,null,null
+411172,30003114,"Amsterdam, De Sav. Lohmanstraat",52.375439,4.800794,0,stoparea:2811,null,0,null,null
+15214,30002150,"Amsterdam, De Wittenkade",52.3831,4.877173,0,stoparea:2383,null,1,null,null
+15215,30002151,"Amsterdam, De Wittenkade",52.383261,4.87695,0,stoparea:2383,null,0,null,null
+15274,30004111,"Amsterdam, Delflandlaan",52.35154,4.841913,0,stoparea:2495,null,1,null,null
+15379,30004120,"Amsterdam, Delflandlaan",52.351556,4.839697,0,stoparea:2495,null,0,null,null
+15404,30004387,"Amsterdam, Delflandlaan",52.351615,4.838742,0,stoparea:2708,null,1,null,null
+14660,30000113,"Amsterdam, Dennenrode",52.321911,4.951243,0,stoparea:2802,null,0,null,null
+14915,30000114,"Amsterdam, Dennenrode",52.322094,4.952136,0,stoparea:2802,null,0,null,null
+626954,57250410,"Amsterdam, Dennenrode",52.32192,4.951331,0,null,null,1,null,CXX:57250410
+2219127,57250421,"Amsterdam, Dennenrode",52.321922,4.9518,0,null,null,1,null,CXX:57250421
+14360,30004060,"Amsterdam, Derkinderenstraat",52.357965,4.83972,0,stoparea:2255,null,0,null,null
+14361,30004061,"Amsterdam, Derkinderenstraat",52.35794,4.840146,0,stoparea:2255,null,1,null,null
+15872,30004129,"Amsterdam, Derkinderenstraat",52.364155,4.839262,0,stoparea:2689,null,1,null,null
+14979,30004130,"Amsterdam, Derkinderenstraat",52.364067,4.83963,0,stoparea:2689,null,null,null,null
+1657408,30000432,"Amsterdam, Diemerbrug",52.338243,4.961427,0,stoparea:338653,null,1,null,null
+1657407,30000433,"Amsterdam, Diemerbrug",52.338376,4.960985,0,stoparea:338652,null,1,null,null
+384759,30000018,"Amsterdam, Diemerknoop",52.335374,5.002859,0,stoparea:78668,null,1,null,null
+384758,30000019,"Amsterdam, Diemerknoop",52.335428,5.002961,0,stoparea:78668,null,1,null,null
+14941,30008248,"Amsterdam, Diemerparklaan",52.355122,4.995466,0,stoparea:2607,null,1,null,null
+1522991,30008249,"Amsterdam, Diemerparklaan",52.355328,4.994995,0,stoparea:2607,null,0,null,null
+15061,30008270,"Amsterdam, Diemerparklaan",52.355668,4.994727,0,stoparea:2796,null,1,null,null
+15060,30008271,"Amsterdam, Diemerparklaan",52.354809,4.995733,0,stoparea:2796,null,null,null,null
+15055,30004008,"Amsterdam, Dijkgraafplein",52.355451,4.786467,0,stoparea:2780,null,0,null,null
+15056,30004009,"Amsterdam, Dijkgraafplein",52.355561,4.786891,0,stoparea:2780,null,0,null,null
+14409,30001077,"Amsterdam, Dijkmanshuizenstraat",52.396269,4.954405,0,stoparea:2316,null,1,null,null
+14412,30001078,"Amsterdam, Dijkmanshuizenstraat",52.395497,4.954751,0,stoparea:2316,null,null,null,null
+1692124,30009001,"Amsterdam, Dintelstraat",52.341916,4.893641,0,stoparea:285515,null,1,null,null
+1692123,30009003,"Amsterdam, Dintelstraat",52.341922,4.892892,0,stoparea:285515,null,1,null,null
+14973,30001403,"Amsterdam, Distelweg",52.394514,4.902678,0,stoparea:2655,null,1,null,null
+14977,30001404,"Amsterdam, Distelweg",52.394224,4.902314,0,stoparea:2655,null,1,null,null
+15791,30009901,"Amsterdam, Distelweg",52.395773,4.896479,0,stoparea:2697,null,1,null,null
+648505,57232220,"Amsterdam, Ditlaar",52.341673,4.800961,0,null,null,1,null,CXX:57232220
+648564,57232230,"Amsterdam, Ditlaar",52.341665,4.801123,0,null,null,1,null,CXX:57232230
+1535321,30000157,"Amsterdam, Dolingadreef",52.319249,4.948468,0,stoparea:299002,null,0,null,null
+1535328,30000158,"Amsterdam, Dolingadreef",52.318955,4.949013,0,stoparea:299002,null,0,null,null
+626928,57252740,"Amsterdam, Dolingadreef",52.319293,4.948218,0,null,null,1,null,CXX:57252740
+15831,30001337,"Amsterdam, Dorpsweg 38",52.391754,4.994907,0,stoparea:2788,null,1,null,null
+15830,30001338,"Amsterdam, Dorpsweg 38",52.392436,4.994505,0,stoparea:2788,null,1,null,null
+354305,57221210,"Amsterdam, Dortmuiden",52.397563,4.780343,0,stoparea:121628,null,1,null,CXX:57221210
+360248,57221220,"Amsterdam, Dortmuiden",52.397953,4.777457,0,stoparea:121628,null,0,null,CXX:57221220
+15825,30000351,"Amsterdam, Dostojevskisingel",52.322751,4.94525,0,stoparea:2778,null,0,null,null
+15826,30000352,"Amsterdam, Dostojevskisingel",52.323144,4.944571,0,stoparea:2778,null,1,null,null
+15798,30003099,"Amsterdam, Dr. H. Colijnstraat",52.376934,4.806722,0,stoparea:2248,null,1,null,null
+14665,30003100,"Amsterdam, Dr. H. Colijnstraat",52.376949,4.806266,0,stoparea:2248,null,0,null,null
+14669,30003104,"Amsterdam, Dr. H. Colijnstraat",52.374715,4.807089,0,stoparea:2810,null,0,null,null
+14670,30003105,"Amsterdam, Dr. H. Colijnstraat",52.374626,4.807251,0,stoparea:2810,null,1,null,null
+1528997,30003123,"Amsterdam, Dr. H. Colijnstraat",52.382447,4.805651,0,stoparea:297353,null,null,null,null
+1692117,30007258,"Amsterdam, Drentepark",52.33611,4.889362,0,stoparea:339561,null,0,null,null
+14936,30001226,"Amsterdam, Druivenstraat",52.412742,4.898702,0,stoparea:2592,null,1,null,null
+14935,30001227,"Amsterdam, Druivenstraat",52.412326,4.898104,0,stoparea:2592,null,1,null,null
+15641,30001358,"Amsterdam, Durgerd.dijk 143",52.378927,4.994375,0,stoparea:2400,null,0,null,null
+14511,30001022,"Amsterdam, Durgerd.dijk 36",52.375799,4.986149,0,stoparea:2748,null,1,null,null
+15437,30001020,"Amsterdam, Durgerd.dijk 4",52.376311,4.978156,0,stoparea:2503,null,0,null,null
+15436,30001021,"Amsterdam, Durgerd.dijk 4",52.376123,4.978495,0,stoparea:2503,null,1,null,null
+14980,30002283,"Amsterdam, Dynamostraat",52.398691,4.848254,0,stoparea:2333,null,0,null,null
+14981,30002284,"Amsterdam, Dynamostraat",52.398573,4.847976,0,stoparea:2333,null,0,null,null
+1237822,30000118,"Amsterdam, Echtenstein",52.324683,4.959811,0,stoparea:236006,null,0,null,null
+1419754,30000118,"Amsterdam, Echtenstein",52.324628,4.959519,0,stoparea:2575,null,0,null,null
+1237823,30000119,"Amsterdam, Echtenstein",52.324999,4.960131,0,stoparea:236006,null,0,null,null
+14920,30000119,"Amsterdam, Echtenstein",52.324827,4.959722,0,stoparea:2575,null,0,null,null
+2220681,57254030,"Amsterdam, Echtenstein",52.324665,4.959768,0,null,null,0,null,CXX:57254030
+1420326,57254040,"Amsterdam, Echtenstein",52.325045,4.960263,0,null,null,0,null,CXX:57254040
+15519,30004394,"Amsterdam, Ecuplein",52.349243,4.787124,0,stoparea:2763,null,1,null,null
+15266,30004407,"Amsterdam, Ecuplein",52.349707,4.788174,0,stoparea:2843,null,1,null,null
+1480619,30004408,"Amsterdam, Ecuplein",52.349809,4.788863,0,stoparea:2843,null,0,null,null
+1378507,30000514,"Amsterdam, Eekholt",52.326816,4.965395,0,stoparea:236007,null,1,null,null
+616364,30000514,"Amsterdam, Eekholt",52.326825,4.965409,0,stoparea:185086,null,1,null,null
+1237639,30000528,"Amsterdam, Eekholt",52.327245,4.967268,0,stoparea:236007,null,1,null,null
+1689989,30000528,"Amsterdam, Eekholt",52.327199,4.967063,0,stoparea:339162,null,1,null,null
+626854,57251960,"Amsterdam, Eekholt",52.326861,4.965482,0,stoparea:123722,null,1,null,CXX:57251960
+2220316,57251971,"Amsterdam, Eekholt",52.327236,4.967283,0,stoparea:123722,null,1,null,CXX:57251971
+1928470,30007103,"Amsterdam, Egelenburg",52.327751,4.862141,0,stoparea:232963,null,0,null,null
+15135,30003036,"Amsterdam, Egidiusstraat",52.378903,4.850756,0,stoparea:2928,null,1,null,null
+15877,30003037,"Amsterdam, Egidiusstraat",52.379023,4.851503,0,stoparea:2928,null,1,null,null
+940038,57134300,"Amsterdam, Egidiusstraat",52.379014,4.851489,0,null,null,0,null,CXX:57134300
+358280,57134310,"Amsterdam, Egidiusstraat",52.378957,4.85074,0,null,null,0,null,CXX:57134310
+15779,30006027,"Amsterdam, Elandsgracht",52.368087,4.878549,0,stoparea:2682,null,0,null,null
+15784,30006028,"Amsterdam, Elandsgracht",52.369745,4.877414,0,stoparea:2682,null,0,null,null
+15785,30006029,"Amsterdam, Elandsgracht",52.36852,4.876841,0,stoparea:2682,null,0,null,null
+1928701,57002610,"Amsterdam, Elandsgracht",52.368158,4.878269,0,stoparea:121769,null,0,null,CXX:57002610
+1999266,57002620,"Amsterdam, Elandsgracht",52.369512,4.877579,0,stoparea:121769,null,0,null,CXX:57002620
+1928610,57002370,"Amsterdam, Emmastraat",52.353329,4.870205,0,null,null,0,null,CXX:57002370
+1928594,57002380,"Amsterdam, Emmastraat",52.352841,4.86955,0,null,null,0,null,CXX:57002380
+1377866,30003034,"Amsterdam, Erasmusgracht",52.376441,4.846909,0,stoparea:2927,null,1,null,null
+15815,30007150,"Amsterdam, Europaboulevard",52.333991,4.889738,0,stoparea:2744,null,1,null,null
+15814,30007151,"Amsterdam, Europaboulevard",52.335196,4.890106,0,stoparea:2744,null,1,null,null
+1547427,30009004,"Amsterdam, Europaplein",52.339924,4.892166,0,stoparea:285515,null,0,null,null
+1547426,30009005,"Amsterdam, Europaplein",52.340436,4.892278,0,stoparea:285515,null,1,null,null
+1480221,30009583,"Amsterdam, Europaplein",52.341853,4.891382,0,stoparea:285515,null,1,B14,null
+1480224,30009584,"Amsterdam, Europaplein",52.341242,4.891477,0,stoparea:285515,null,1,B15,null
+1762390,30009184,"Amsterdam, Ferdinand Bolstraat",52.357959,4.891481,0,stoparea:341538,null,0,null,null
+1762391,30009188,"Amsterdam, Ferdinand Bolstraat",52.35799,4.89239,0,stoparea:341538,null,0,null,null
+15153,30000044,"Amsterdam, Fizeaustraat",52.345977,4.924326,0,stoparea:2268,null,1,null,null
+14490,30000046,"Amsterdam, Fizeaustraat",52.345888,4.924635,0,stoparea:2268,null,1,null,null
+15207,30008044,"Amsterdam, Flevopark",52.365161,4.951493,0,stoparea:2334,null,0,null,null
+15210,30008047,"Amsterdam, Flevopark",52.365221,4.950847,0,stoparea:2334,null,0,null,null
+1689991,30001402,"Amsterdam, Floraweg",52.398995,4.906141,0,stoparea:339165,null,0,null,null
+1093617,57110950,"Amsterdam, Floraweg",52.399012,4.906126,0,null,null,1,null,CXX:57110950
+1093637,57110960,"Amsterdam, Floraweg",52.398227,4.907589,0,null,null,1,null,CXX:57110960
+15386,30000152,"Amsterdam, Florijn",52.317588,4.958589,0,stoparea:2690,null,0,null,null
+15387,30000153,"Amsterdam, Florijn",52.31778,4.959716,0,stoparea:2690,null,0,null,null
+1377839,30001420,"Amsterdam, Fluitschipstraat",52.403636,4.91601,0,stoparea:2249,null,null,null,null
+14734,30001421,"Amsterdam, Fluitschipstraat",52.403771,4.916184,0,stoparea:2249,null,0,null,null
+640284,30000518,"Amsterdam, Foppingadreef",52.312684,4.949676,0,stoparea:194176,null,1,null,null
+2220488,57252651,"Amsterdam, Foppingadreef",52.312729,4.949881,0,stoparea:356157,null,0,null,CXX:57252651
+360766,57252660,"Amsterdam, Foppingadreef",52.312773,4.949617,0,stoparea:121521,null,0,null,CXX:57252660
+1237657,57252660,"Amsterdam, Foppingadreef",52.312674,4.949574,0,stoparea:236038,null,0,null,null
+15447,30002132,"Amsterdam, Fred. Hendrikplants.",52.378626,4.875432,0,stoparea:2770,null,0,null,null
+15448,30002133,"Amsterdam, Fred. Hendrikplants.",52.378418,4.875214,0,stoparea:2770,null,0,null,null
+15445,30002136,"Amsterdam, Fred. Hendrikplants.",52.379003,4.875355,0,stoparea:2770,null,0,null,null
+15113,30002143,"Amsterdam, Fred. Hendrikplants.",52.378719,4.874065,0,stoparea:2770,null,0,null,null
+15800,30002301,"Amsterdam, Fred. Hendrikplants.",52.378526,4.875213,0,stoparea:2770,null,0,null,null
+1419755,30002302,"Amsterdam, Fred. Hendrikplants.",52.37859,4.875492,0,stoparea:2770,null,0,null,null
+1530749,30008057,"Amsterdam, Frederiksplein",52.359712,4.90024,0,stoparea:2619,null,1,null,null
+2066920,30008064,"Amsterdam, Frederiksplein",52.359887,4.89899,0,stoparea:2619,null,0,null,null
+14952,30008065,"Amsterdam, Frederiksplein",52.360257,4.899368,0,stoparea:2619,null,0,null,null
+14784,30008066,"Amsterdam, Frederiksplein",52.359368,4.897513,0,stoparea:2619,null,0,null,null
+2220754,30008067,"Amsterdam, Frederiksplein",52.359425,4.898188,0,stoparea:2619,null,0,null,null
+2066921,30008068,"Amsterdam, Frederiksplein",52.360446,4.899527,0,stoparea:2619,null,0,null,null
+1530854,30009102,"Amsterdam, Frederiksplein",52.358683,4.899047,0,stoparea:2346,null,0,null,null
+15324,30002128,"Amsterdam, G. v.Ledenberchstraat",52.375207,4.870626,0,stoparea:2585,null,null,null,null
+15323,30002129,"Amsterdam, G. v.Ledenberchstraat",52.375091,4.870803,0,stoparea:2585,null,1,null,null
+327334,30001339,"Amsterdam, G.J. Scheurleerweg",52.403912,4.929114,0,stoparea:2785,null,1,null,null
+327331,30001340,"Amsterdam, G.J. Scheurleerweg",52.403732,4.929146,0,stoparea:2785,null,0,null,null
+1420192,57000030,"Amsterdam, G.v. Ledenberchstraat",52.375074,4.870892,0,stoparea:121900,null,1,null,CXX:57000030
+1420730,57000040,"Amsterdam, G.v. Ledenberchstraat",52.375252,4.870655,0,stoparea:121900,null,1,null,CXX:57000040
+15408,30000220,"Amsterdam, Gaasp",52.314813,4.992947,0,stoparea:2782,null,1,null,null
+15828,30000221,"Amsterdam, Gaasp",52.31437,4.992144,0,stoparea:2782,null,0,null,null
+103166,30000304,"Amsterdam, Gaasperplas",52.31121,4.985104,0,stoparea:27867,null,0,null,null
+103874,30000315,"Amsterdam, Gaasperplas",52.311254,4.985075,0,stoparea:27867,null,0,null,null
+103850,30000322,"Amsterdam, Gaasperplas",52.311147,4.985164,0,stoparea:27867,null,0,null,null
+1522986,30000323,"Amsterdam, Gaasperplas",52.311093,4.985194,0,stoparea:27867,null,null,null,null
+96436,30009550,"Amsterdam, Gaasperplas",52.311225,4.984488,0,stoparea:27867,null,0,null,null
+96434,30009555,"Amsterdam, Gaasperplas",52.310804,4.984683,0,stoparea:27867,null,0,null,null
+103172,30000321,"Amsterdam, Gaasperplas (uitstap)",52.310913,4.985136,0,stoparea:27867,null,0,null,null
+676682,57253030,"Amsterdam, Gebouw Atlas",52.307819,4.944167,0,stoparea:197989,null,1,null,null
+673152,57253040,"Amsterdam, Gebouw Atlas",52.30677,4.944808,0,stoparea:197989,null,1,null,null
+14988,30004032,"Amsterdam, Geer Ban",52.362906,4.803602,0,stoparea:2881,null,1,null,null
+14987,30004033,"Amsterdam, Geer Ban",52.362837,4.804234,0,stoparea:2881,null,1,null,null
+15041,30000128,"Amsterdam, Geerdinkhof",52.32287,4.980775,0,stoparea:2764,null,1,null,null
+15040,30000129,"Amsterdam, Geerdinkhof",52.323641,4.980254,0,stoparea:2764,null,1,null,null
+418307,57252240,"Amsterdam, Geerdinkhof",52.323659,4.980313,0,null,null,0,null,CXX:57252240
+96450,30009530,"Amsterdam, Gein",52.296391,4.988478,0,stoparea:30800,null,1,null,null
+96473,30009531,"Amsterdam, Gein",52.296269,4.98952,0,stoparea:30800,null,1,null,null
+15516,30000186,"Amsterdam, Geinbrug",52.304426,5.013126,0,stoparea:2738,null,null,B2,null
+1523016,30000187,"Amsterdam, Geinbrug",52.304479,5.012774,0,stoparea:2738,null,null,B1,null
+680782,30007301,"Amsterdam, Gelderlandplein NO",52.331888,4.879213,0,stoparea:201976,null,1,F,null
+652257,30007122,"Amsterdam, Gelderlandplein Nrd.",52.332065,4.876644,0,stoparea:196733,null,0,null,null
+652258,30007123,"Amsterdam, Gelderlandplein Nrd.",52.332154,4.876364,0,stoparea:196733,null,0,null,null
+652268,30007299,"Amsterdam, Gelderlandplein Oost",52.330954,4.879591,0,stoparea:196741,null,0,null,null
+652256,30007300,"Amsterdam, Gelderlandplein Oost",52.330756,4.879373,0,stoparea:196741,null,1,G,null
+15329,30000124,"Amsterdam, Geldershoofd",52.324957,4.970913,0,stoparea:2760,null,0,null,null
+1379025,30000125,"Amsterdam, Geldershoofd",52.325172,4.970882,0,stoparea:2760,null,0,null,null
+359093,57252160,"Amsterdam, Geldershoofd",52.325181,4.970823,0,null,null,1,null,CXX:57252160
+75252,30007083,"Amsterdam, Gerrit v.d. Veenstraat",52.349208,4.877357,0,stoparea:25163,null,1,null,null
+75251,30007084,"Amsterdam, Gerrit v.d. Veenstraat",52.348866,4.877199,0,stoparea:25163,null,1,null,null
+2218926,57140010,"Amsterdam, Gerrit v.d. Veenstraat",52.348794,4.877215,0,stoparea:356148,null,1,null,CXX:57140010
+2220252,57140020,"Amsterdam, Gerrit v.d. Veenstraat",52.349415,4.877384,0,stoparea:356148,null,1,null,CXX:57140020
+237989,30000146,"Amsterdam, Gooioord",52.320483,4.969063,0,stoparea:2493,null,1,null,null
+15269,30000147,"Amsterdam, Gooioord",52.319945,4.969361,0,stoparea:2493,null,1,null,null
+1239320,30001139,"Amsterdam, Grasweg",52.388556,4.905079,0,stoparea:177455,null,1,null,null
+15411,30004214,"Amsterdam, Griendstraat",52.358345,4.779426,0,stoparea:2717,null,0,null,null
+15827,30004215,"Amsterdam, Griendstraat",52.358949,4.779917,0,stoparea:2717,null,0,null,null
+15195,30001179,"Amsterdam, Grootzeil",52.408782,4.924273,0,stoparea:2317,null,1,null,null
+14835,30001180,"Amsterdam, Grootzeil",52.408185,4.923162,0,stoparea:2317,null,1,null,null
+1377869,30000126,"Amsterdam, Grubbehoeve",52.323519,4.976266,0,stoparea:2759,null,1,null,null
+15032,30000127,"Amsterdam, Grubbehoeve",52.323857,4.977656,0,stoparea:2759,null,1,null,null
+362238,57252220,"Amsterdam, Grubbehoeve",52.323609,4.976338,0,null,null,0,null,CXX:57252220
+2219009,57140030,"Amsterdam, Guido Gezellestraat",52.345169,4.882877,0,stoparea:356164,null,0,null,CXX:57140030
+2219950,57140040,"Amsterdam, Guido Gezellestraat",52.345159,4.882496,0,stoparea:356164,null,0,null,CXX:57140040
+521112,30007200,"Amsterdam, Gustav Mahlerplein",52.336609,4.873628,0,stoparea:165458,null,0,null,null
+15370,30000573,"Amsterdam, H.J.E. Wenckebachweg",52.341221,4.919372,0,stoparea:2677,null,0,null,null
+15371,30000574,"Amsterdam, H.J.E. Wenckebachweg",52.341284,4.919562,0,stoparea:2677,null,1,null,null
+15719,30000347,"Amsterdam, Haardstee",52.311161,4.95104,0,stoparea:2542,null,0,null,null
+14620,30000348,"Amsterdam, Haardstee",52.311045,4.951364,0,stoparea:2542,null,1,null,null
+1762155,30007050,"Amsterdam, Haarlemmermeerstation",52.348833,4.857445,0,stoparea:2478,null,0,null,null
+1962875,30007062,"Amsterdam, Haarlemmermeerstation",52.34922,4.857543,0,stoparea:341528,null,0,null,null
+1762161,30007116,"Amsterdam, Haarlemmermeerstation",52.349238,4.857601,0,stoparea:341528,null,0,null,null
+1999137,57002170,"Amsterdam, Haarlemmermeerstation",52.349077,4.85778,0,stoparea:344511,null,0,null,CXX:57002170
+1999117,57142160,"Amsterdam, Haarlemmermeerstation",52.349012,4.857325,0,stoparea:344511,null,0,null,CXX:57142160
+14488,30007044,"Amsterdam, Haarlemmermeerstraat",52.355371,4.850438,0,stoparea:2459,null,1,null,null
+14487,30007045,"Amsterdam, Haarlemmermeerstraat",52.355119,4.850236,0,stoparea:2459,null,0,null,null
+15692,30002113,"Amsterdam, Haarlemmerplein",52.385159,4.883715,0,stoparea:2468,null,0,null,null
+15687,30002114,"Amsterdam, Haarlemmerplein",52.384843,4.88341,0,stoparea:2468,null,1,null,null
+1379038,30001130,"Amsterdam, Hagedoornplein",52.387439,4.913596,0,stoparea:2416,null,0,null,null
+1379040,30001131,"Amsterdam, Hagedoornplein",52.387483,4.913346,0,stoparea:2416,null,1,null,null
+1529001,30004313,"Amsterdam, Hageland",52.344438,4.811359,0,stoparea:297354,null,0,null,null
+1529432,57232670,"Amsterdam, Hageland",52.344464,4.811168,0,stoparea:157188,null,0,null,CXX:57232670
+499719,57232680,"Amsterdam, Hageland",52.344928,4.812277,0,stoparea:157188,null,0,null,CXX:57232680
+15620,30000209,"Amsterdam, Hakfort",52.307987,4.955764,0,stoparea:2461,null,0,null,null
+15502,30000210,"Amsterdam, Hakfort",52.308049,4.955411,0,stoparea:2461,null,0,null,null
+15422,30001119,"Amsterdam, Hamerstraat",52.386262,4.922672,0,stoparea:2727,null,0,null,null
+15758,30001121,"Amsterdam, Hamerstraat",52.386004,4.921,0,stoparea:2727,null,1,null,null
+1535312,30002081,"Amsterdam, Haparandaweg",52.39451,4.87212,0,stoparea:298112,null,0,null,null
+1538475,30002160,"Amsterdam, Haparandaweg",52.394716,4.873895,0,stoparea:298112,null,0,null,null
+1538474,30002161,"Amsterdam, Haparandaweg",52.3946,4.874043,0,stoparea:298112,null,1,null,null
+2032008,30002168,"Amsterdam, Haparandaweg",52.394704,4.873116,0,stoparea:298112,null,0,null,null
+15759,30001122,"Amsterdam, Havikslaan",52.385319,4.91829,0,stoparea:2627,null,0,null,null
+15760,30001123,"Amsterdam, Havikslaan",52.385029,4.917603,0,stoparea:2627,null,1,null,null
+103904,30004114,"Amsterdam, Heemstedestraat",52.351511,4.833723,0,stoparea:26647,null,0,null,null
+103905,30004116,"Amsterdam, Heemstedestraat",52.351486,4.834164,0,stoparea:26647,null,0,null,null
+96454,30004320,"Amsterdam, Heemstedestraat",52.353086,4.83435,0,stoparea:26647,null,1,null,null
+96453,30004321,"Amsterdam, Heemstedestraat",52.352555,4.834209,0,stoparea:26647,null,1,null,null
+103917,30004389,"Amsterdam, Heemstedestraat",52.351437,4.835354,0,stoparea:26647,null,null,null,null
+15906,30009923,"Amsterdam, Hempontplein",52.418051,4.826983,0,stoparea:2942,null,0,null,null
+1379032,30004057,"Amsterdam, Hemsterhuisstraat",52.359175,4.821899,0,stoparea:177442,null,1,null,null
+560935,30004058,"Amsterdam, Hemsterhuisstraat",52.359121,4.821826,0,stoparea:177442,null,null,null,null
+1301871,30004006,"Amsterdam, Henk Sneevlietweg",52.345774,4.83312,0,stoparea:246315,null,0,null,null
+14616,30004318,"Amsterdam, Henk Sneevlietweg",52.346796,4.83456,0,stoparea:2698,null,0,null,null
+14617,30004319,"Amsterdam, Henk Sneevlietweg",52.346265,4.834391,0,stoparea:2698,null,1,null,null
+2220458,57134040,"Amsterdam, Henk Sneevlietweg",52.343448,4.82791,0,stoparea:356258,null,0,null,CXX:57134040
+2218817,57134110,"Amsterdam, Henk Sneevlietweg",52.344237,4.827533,0,stoparea:356258,null,0,null,CXX:57134110
+14673,30003108,"Amsterdam, Herman Bonpad",52.367962,4.800805,0,stoparea:2813,null,0,null,null
+14674,30003109,"Amsterdam, Herman Bonpad",52.368931,4.800645,0,stoparea:2813,null,0,null,null
+14555,30002333,"Amsterdam, Herwijk",52.39572,4.787288,0,stoparea:2606,null,1,null,null
+15853,30001064,"Amsterdam, Het Breed",52.398299,4.932434,0,stoparea:2820,null,1,null,null
+15852,30001065,"Amsterdam, Het Breed",52.39809,4.931893,0,stoparea:2820,null,1,null,null
+1689902,30008183,"Amsterdam, Het Funen",52.367459,4.931605,0,stoparea:339154,null,1,null,null
+1689903,30008184,"Amsterdam, Het Funen",52.367483,4.930871,0,stoparea:339154,null,1,null,null
+1377841,30001001,"Amsterdam, Hilversumstraat",52.390254,4.958842,0,stoparea:2444,null,0,null,null
+15675,30001002,"Amsterdam, Hilversumstraat",52.389733,4.958979,0,stoparea:2444,null,0,null,null
+14926,30004015,"Amsterdam, Hoekenes",52.358022,4.799277,0,stoparea:2587,null,1,null,null
+14925,30004016,"Amsterdam, Hoekenes",52.357911,4.798545,0,stoparea:2587,null,0,null,null
+14449,30004411,"Amsterdam, Hoekenes",52.352436,4.801832,0,stoparea:2729,null,0,null,null
+15423,30004412,"Amsterdam, Hoekenes",52.352556,4.802608,0,stoparea:2729,null,0,null,null
+2066923,30000464,"Amsterdam, Hogeschool InHolland",52.326876,4.959585,0,stoparea:347282,null,1,null,null
+2066924,30000465,"Amsterdam, Hogeschool InHolland",52.326904,4.959878,0,stoparea:347282,null,1,null,null
+15491,30000167,"Amsterdam, Hogevecht",52.309475,4.959562,0,stoparea:2873,null,1,null,null
+1377853,30000168,"Amsterdam, Hogevecht",52.30945,4.959973,0,stoparea:2873,null,0,null,null
+1377867,30000039,"Amsterdam, Hogeweg",52.353579,4.930838,0,stoparea:2260,null,0,null,null
+15156,30000040,"Amsterdam, Hogeweg",52.353212,4.931355,0,stoparea:2260,null,0,null,null
+322641,30007247,"Amsterdam, Hogewerf",52.334189,4.879378,0,stoparea:110912,null,0,null,null
+322611,30007248,"Amsterdam, Hogewerf",52.334574,4.878933,0,stoparea:110912,null,1,null,null
+15616,30000172,"Amsterdam, Holendrechtplein",52.299524,4.964026,0,stoparea:2377,null,1,null,null
+15617,30000173,"Amsterdam, Holendrechtplein",52.299107,4.963092,0,stoparea:2377,null,1,null,null
+1241788,57252670,"Amsterdam, Holterbergweg",52.308482,4.94136,0,stoparea:123229,null,1,null,CXX:57252670
+417088,57252680,"Amsterdam, Holterbergweg",52.308899,4.939845,0,stoparea:123229,null,1,null,CXX:57252680
+15181,30004104,"Amsterdam, Hoofddorpplein",52.350738,4.849496,0,stoparea:2293,null,0,null,null
+15180,30004105,"Amsterdam, Hoofddorpplein",52.350675,4.849424,0,stoparea:2293,null,0,null,null
+14489,30007046,"Amsterdam, Hoofddorpplein",52.35201,4.850479,0,stoparea:2293,null,0,null,null
+14479,30007048,"Amsterdam, Hoofddorpplein",52.351541,4.850103,0,stoparea:2293,null,0,null,null
+207054,30007049,"Amsterdam, Hoofddorpplein",52.35117,4.849579,0,stoparea:2293,null,1,null,null
+1522988,30003012,"Amsterdam, Hoofdweg",52.364323,4.852371,0,stoparea:295939,null,1,null,null
+1548224,30006114,"Amsterdam, Hoofdweg",52.364251,4.854442,0,stoparea:295939,null,1,null,null
+237982,30008254,"Amsterdam, Hoogte Kadijk",52.36663,4.924214,0,stoparea:78040,null,0,null,null
+237981,30008255,"Amsterdam, Hoogte Kadijk",52.366875,4.924828,0,stoparea:78040,null,1,null,null
+14963,30002194,"Amsterdam, Hornhaven",52.394667,4.808752,0,stoparea:2640,null,0,null,null
+14964,30002197,"Amsterdam, Hornhaven",52.39502,4.80744,0,stoparea:2640,null,1,null,null
+1420531,57221070,"Amsterdam, Hornhaven",52.395093,4.807513,0,stoparea:121592,null,1,null,CXX:57221070
+417001,57221140,"Amsterdam, Hornhaven",52.394739,4.808619,0,stoparea:121592,null,1,null,CXX:57221140
+15556,30002104,"Amsterdam, Houtmankade",52.390858,4.883929,0,stoparea:2266,null,1,null,null
+1535306,30002163,"Amsterdam, Houtmankade",52.391121,4.884411,0,stoparea:2266,null,1,null,null
+15449,30002130,"Amsterdam, Hugo de Grootplein",52.374389,4.872588,0,stoparea:2585,null,1,null,null
+15450,30002131,"Amsterdam, Hugo de Grootplein",52.374966,4.872919,0,stoparea:2585,null,0,null,null
+14929,30000065,"Amsterdam, Hugo de Vrieslaan",52.351015,4.934871,0,stoparea:2588,null,1,null,null
+1237453,30000066,"Amsterdam, Hugo de Vrieslaan",52.350711,4.935446,0,stoparea:235952,null,0,null,null
+14927,30000066,"Amsterdam, Hugo de Vrieslaan",52.350729,4.935402,0,stoparea:2588,null,0,null,null
+582029,57152170,"Amsterdam, Hugo de Vrieslaan",52.35073,4.935549,0,stoparea:183139,null,0,null,CXX:57152170
+15495,30000169,"Amsterdam, Huigenbos",52.306666,4.960762,0,stoparea:2878,null,1,null,null
+15614,30000170,"Amsterdam, Huigenbos",52.306891,4.960833,0,stoparea:2878,null,0,null,null
+1529034,30004226,"Amsterdam, IBM",52.340705,4.827534,0,stoparea:297358,null,0,null,null
+1535304,30004275,"Amsterdam, IBM",52.341049,4.82797,0,stoparea:297358,null,0,null,null
+2220730,57134020,"Amsterdam, IBM",52.341076,4.828013,0,stoparea:355952,null,0,null,CXX:57134020
+2218734,57134130,"Amsterdam, IBM",52.340732,4.827548,0,stoparea:355952,null,1,null,CXX:57134130
+14626,30008232,"Amsterdam, IJ tunnel",52.37227,4.909559,0,stoparea:2710,null,1,null,null
+14824,30008252,"Amsterdam, IJburg",52.350954,5.004324,0,stoparea:2406,null,1,null,null
+1537007,30001014,"Amsterdam, IJdijk",52.383888,4.963119,0,stoparea:2653,null,1,G-J,null
+15767,30001015,"Amsterdam, IJdijk",52.384085,4.962735,0,stoparea:2653,null,1,G-H,null
+15711,30009911,"Amsterdam, IJplein",52.381774,4.908281,0,stoparea:2496,null,1,null,null
+1377843,30007205,"Amsterdam, IJsbaanpad",52.341689,4.857736,0,stoparea:2833,null,0,null,null
+14677,30007207,"Amsterdam, IJsbaanpad",52.340511,4.857559,0,stoparea:2833,null,1,null,null
+1523644,57003010,"Amsterdam, IJtunnel",52.372288,4.909617,0,null,null,1,null,null
+1523158,57003130,"Amsterdam, IJtunnel",52.372297,4.909529,0,null,null,1,null,CXX:57003130
+15854,30001067,"Amsterdam, Ilperveldstraat",52.395037,4.944647,0,stoparea:2821,null,1,null,null
+15861,30001068,"Amsterdam, Ilperveldstraat",52.394958,4.945162,0,stoparea:2821,null,1,null,null
+15256,30004405,"Amsterdam, Inaristraat",52.350303,4.783425,0,stoparea:2919,null,0,null,null
+15264,30004406,"Amsterdam, Inaristraat",52.350365,4.783146,0,stoparea:2919,null,0,null,null
+14873,30008119,"Amsterdam, Insulindeweg",52.36476,4.947651,0,stoparea:2643,null,0,null,null
+15071,30008120,"Amsterdam, Insulindeweg",52.364688,4.947637,0,stoparea:2643,null,0,null,null
+1401131,30002296,"Amsterdam, Isolatorweg",52.395109,4.851045,0,stoparea:2460,null,0,null,null
+14849,30002297,"Amsterdam, Isolatorweg",52.395231,4.850132,0,stoparea:2460,null,1,null,null
+1528384,30003145,"Amsterdam, J. Cabeliaustraat",52.382466,4.804094,0,stoparea:297213,null,1,null,null
+15530,30001108,"Amsterdam, J. Drijverweg",52.399431,4.944368,0,stoparea:2852,null,1,null,null
+15531,30001109,"Amsterdam, J. Drijverweg",52.399646,4.944204,0,stoparea:2852,null,1,null,null
+14659,30006016,"Amsterdam, J.P. Heijestraat",52.364727,4.862394,0,stoparea:2799,null,1,null,null
+1378345,30006017,"Amsterdam, J.P. Heijestraat",52.364874,4.862921,0,stoparea:2799,null,1,null,null
+15131,30006048,"Amsterdam, J.P. Heijestraat",52.360375,4.865851,0,stoparea:2912,null,1,null,null
+15132,30006049,"Amsterdam, J.P. Heijestraat",52.360549,4.866715,0,stoparea:2912,null,1,null,null
+14385,30004208,"Amsterdam, Jac. Veltmanstraat",52.351534,4.830964,0,stoparea:2523,null,0,null,null
+15695,30009175,"Amsterdam, James Wattstraat",52.351534,4.922757,0,stoparea:2469,null,0,null,null
+15694,30009176,"Amsterdam, James Wattstraat",52.351159,4.923289,0,stoparea:2469,null,0,null,null
+15223,30002159,"Amsterdam, Jan Evertsenstraat",52.371842,4.859431,0,stoparea:2370,null,1,null,null
+14657,30002220,"Amsterdam, Jan Evertsenstraat",52.372039,4.859414,0,stoparea:2370,null,0,null,null
+15051,30004001,"Amsterdam, Jan Rebelstraat",52.361563,4.783081,0,stoparea:2775,null,0,null,null
+15391,30004002,"Amsterdam, Jan Rebelstraat",52.361946,4.784221,0,stoparea:2775,null,0,null,null
+15662,30008083,"Amsterdam, Jan Schaeferbrug",52.376579,4.921936,0,stoparea:2831,null,1,null,null
+15663,30008084,"Amsterdam, Jan Schaeferbrug",52.376525,4.921702,0,stoparea:2831,null,1,null,null
+1378358,30003076,"Amsterdam, Jan Tooropstraat",52.371421,4.838101,0,stoparea:2300,null,0,null,null
+408777,30003077,"Amsterdam, Jan Tooropstraat",52.371718,4.83817,0,stoparea:2300,null,0,null,null
+15492,30004131,"Amsterdam, Jan Tooropstraat",52.364031,4.835755,0,stoparea:2804,null,null,null,null
+15493,30004132,"Amsterdam, Jan Tooropstraat",52.36411,4.835372,0,stoparea:2804,null,1,null,null
+96431,30003202,"Amsterdam, Jan v.Galenstraat",52.372469,4.835312,0,stoparea:30792,null,0,null,null
+96430,30003203,"Amsterdam, Jan v.Galenstraat",52.371963,4.834922,0,stoparea:30792,null,0,null,null
+1762153,30002184,"Amsterdam, Jan van Galenstraat",52.374847,4.860336,0,stoparea:341527,null,0,null,null
+1762160,30002221,"Amsterdam, Jan van Galenstraat",52.375324,4.858421,0,stoparea:341527,null,1,null,null
+1762159,30002222,"Amsterdam, Jan van Galenstraat",52.373996,4.858745,0,stoparea:341527,null,1,null,null
+1762158,30003025,"Amsterdam, Jan van Galenstraat",52.373419,4.848546,0,stoparea:341529,null,0,null,null
+1961658,30003028,"Amsterdam, Jan van Galenstraat",52.372047,4.849209,0,stoparea:341529,null,0,null,null
+1762154,30003169,"Amsterdam, Jan van Galenstraat",52.373011,4.83601,0,stoparea:30792,null,1,null,null
+1762156,30003170,"Amsterdam, Jan van Galenstraat",52.37324,4.83495,0,stoparea:30792,null,1,null,null
+2175390,30003215,"Amsterdam, Jan van Galenstraat",52.373208,4.835905,0,stoparea:351965,null,0,null,null
+1762392,30003216,"Amsterdam, Jan van Galenstraat",52.372834,4.836497,0,stoparea:30792,null,0,null,null
+1524112,30004442,"Amsterdam, Jan van Zutphenplantsoen",52.348839,4.796155,0,stoparea:296187,null,0,null,null
+1524113,30004443,"Amsterdam, Jan van Zutphenplantsoen",52.348553,4.796365,0,stoparea:296187,null,1,null,null
+2175392,30003070,"Amsterdam, Jan Voermanstraat",52.369605,4.83805,0,stoparea:2301,null,1,null,null
+15574,30003071,"Amsterdam, Jan Voermanstraat",52.369489,4.838183,0,stoparea:2302,null,1,null,null
+15561,30003181,"Amsterdam, Jan Voermanstraat",52.369703,4.837887,0,stoparea:2301,null,1,null,null
+15562,30003182,"Amsterdam, Jan Voermanstraat",52.369589,4.83852,0,stoparea:2301,null,1,null,null
+2220642,57134750,"Amsterdam, Jan Voermanstraat",52.369658,4.837873,0,null,null,0,null,CXX:57134750
+2218264,57134760,"Amsterdam, Jan Voermanstraat",52.369472,4.838345,0,null,null,0,null,CXX:57134760
+322628,30003187,"Amsterdam, Jan Zwanenburghof",52.382996,4.818907,0,stoparea:110894,null,0,null,null
+1377861,30003188,"Amsterdam, Jan Zwanenburghof",52.382672,4.81875,0,stoparea:110894,null,0,null,null
+418996,57130330,"Amsterdam, Jan Zwanenburghof",52.382761,4.818499,0,stoparea:121055,null,1,null,CXX:57130330
+416921,57130340,"Amsterdam, Jan Zwanenburghof",52.382944,4.819128,0,stoparea:121055,null,1,null,CXX:57130340
+1379044,30002290,"Amsterdam, Jarmuiden",52.390658,4.79053,0,stoparea:2464,null,null,null,null
+14967,30008110,"Amsterdam, Javaplein",52.364052,4.938555,0,stoparea:2648,null,0,null,null
+1378346,30008111,"Amsterdam, Javaplein",52.364177,4.938246,0,stoparea:2648,null,0,null,null
+14966,30008113,"Amsterdam, Javaplein",52.363957,4.939496,0,stoparea:2648,null,0,null,null
+14969,30008114,"Amsterdam, Javaplein",52.364119,4.939553,0,stoparea:2648,null,1,null,null
+14358,30004062,"Amsterdam, Johan Huizingalaan",52.35781,4.825821,0,stoparea:2254,null,1,null,null
+14359,30004063,"Amsterdam, Johan Huizingalaan",52.357785,4.826261,0,stoparea:2254,null,1,null,null
+15271,30004112,"Amsterdam, Johan Huizingalaan",52.349234,4.827426,0,stoparea:2494,null,1,null,null
+15272,30004113,"Amsterdam, Johan Huizingalaan",52.349073,4.827502,0,stoparea:2494,null,0,null,null
+358968,57134070,"Amsterdam, Johan Huizingalaan",52.349288,4.827352,0,stoparea:121673,null,0,null,CXX:57134070
+939416,57134080,"Amsterdam, Johan Huizingalaan",52.349108,4.827472,0,stoparea:121673,null,1,null,CXX:57134080
+15076,30001417,"Amsterdam, Johan v.Hasseltweg",52.387846,4.923096,0,stoparea:2827,null,0,null,null
+1377865,30001446,"Amsterdam, Johan v.Hasseltweg",52.387918,4.923228,0,stoparea:2827,null,1,null,null
+1301874,30004115,"Amsterdam, John M.Keynesplein",52.3401,4.825003,0,stoparea:246318,null,0,null,null
+1301872,30004145,"Amsterdam, John M.Keynesplein",52.340366,4.824324,0,stoparea:246312,null,0,null,null
+15489,30004135,"Amsterdam, Justus Lipsiusstraat",52.361511,4.827257,0,stoparea:2871,null,1,null,null
+15490,30004136,"Amsterdam, Justus Lipsiusstraat",52.360818,4.827045,0,stoparea:2871,null,0,null,null
+15774,30008051,"Amsterdam, K. 's-Gravesandestr.",52.362355,4.913659,0,stoparea:2662,null,0,null,null
+15637,30008052,"Amsterdam, K. 's-Gravesandestr.",52.362713,4.915505,0,stoparea:2662,null,1,null,null
+15682,30008179,"Amsterdam, K. 's-Gravesandestr.",52.362198,4.914805,0,stoparea:2662,null,1,null,null
+1760391,57320060,"Amsterdam, Kaapstadweg",52.412342,4.740177,0,null,null,null,null,CXX:57320060
+1760342,57320070,"Amsterdam, Kaapstadweg",52.410984,4.740035,0,null,null,null,null,CXX:57320070
+1377864,30002064,"Amsterdam, Kabelweg",52.39205,4.848276,0,stoparea:2514,null,null,null,null
+103858,30002065,"Amsterdam, Kabelweg",52.391701,4.848618,0,stoparea:2514,null,1,null,null
+1377873,30002257,"Amsterdam, Kabelweg",52.39271,4.847269,0,stoparea:2514,null,1,null,null
+1377872,30002258,"Amsterdam, Kabelweg",52.392638,4.847123,0,stoparea:2514,null,1,null,null
+15313,30008027,"Amsterdam, Kadijksplein",52.370749,4.913569,0,stoparea:2576,null,1,null,null
+15299,30008028,"Amsterdam, Kadijksplein",52.370991,4.913273,0,stoparea:2576,null,1,null,null
+15594,30001410,"Amsterdam, Kadoelenpad",52.413908,4.911403,0,stoparea:2646,null,0,null,null
+13985,57115010,"Amsterdam, Kadoelenpad",52.413926,4.911373,0,null,null,1,null,null
+287417,57115020,"Amsterdam, Kadoelenpad",52.41336,4.911276,0,null,null,1,null,null
+381674,57142040,"Amsterdam, Kalfjeslaan",52.322149,4.857675,0,stoparea:123641,null,1,null,CXX:57142040
+364384,57242840,"Amsterdam, Kalfjeslaan",52.322516,4.857363,0,stoparea:123641,null,1,null,CXX:57242840
+15304,30002014,"Amsterdam, Kapoeasweg",52.390122,4.82807,0,stoparea:2556,null,0,null,null
+14448,30002096,"Amsterdam, Kapoeasweg",52.390153,4.82688,0,stoparea:2556,null,1,null,null
+14965,30002190,"Amsterdam, Karel Doormanstraat",52.378895,4.856954,0,stoparea:2644,null,0,null,null
+673853,57253540,"Amsterdam, Karspeldreef",52.304396,4.946928,0,stoparea:197936,null,1,null,null
+676378,57253550,"Amsterdam, Karspeldreef",52.305517,4.946345,0,stoparea:197936,null,1,null,null
+322608,30007014,"Amsterdam, Kastelenstraat",52.325831,4.879444,0,stoparea:110901,null,1,null,null
+322612,30007021,"Amsterdam, Kastelenstraat",52.326191,4.879557,0,stoparea:110901,null,0,null,null
+15622,30004278,"Amsterdam, Kasterleepark",52.346304,4.810615,0,stoparea:2386,null,0,null,null
+15621,30004279,"Amsterdam, Kasterleepark",52.346387,4.81104,0,stoparea:2386,null,0,null,null
+15303,30002015,"Amsterdam, Kastrupstraat",52.39013,4.833579,0,stoparea:2555,null,1,null,null
+14447,30002097,"Amsterdam, Kastrupstraat",52.390163,4.832947,0,stoparea:2555,null,null,null,null
+355204,57221151,"Amsterdam, Kastrupstraat",52.390139,4.833564,0,stoparea:123654,null,0,null,CXX:57221151
+364962,57221152,"Amsterdam, Kastrupstraat",52.3902,4.833123,0,stoparea:123654,null,0,null,CXX:57221152
+648579,30008005,"Amsterdam, Kattenburg",52.376123,4.92247,0,stoparea:155277,null,1,null,null
+495786,30008006,"Amsterdam, Kattenburg",52.376476,4.920718,0,stoparea:155277,null,1,null,null
+1689899,30008015,"Amsterdam, Kattenburgerplein",52.370625,4.916169,0,stoparea:339155,null,1,null,null
+1689905,30008025,"Amsterdam, Kattenburgerplein",52.370795,4.915962,0,stoparea:339157,null,1,null,null
+240457,30008032,"Amsterdam, Kattenburgerstraat",52.372547,4.918205,0,stoparea:2314,null,1,null,null
+2175499,30008038,"Amsterdam, Kattenburgerstraat",52.373198,4.919211,0,stoparea:2314,null,1,null,null
+15211,30008041,"Amsterdam, Kattenburgerstraat",52.373136,4.919344,0,stoparea:2314,null,0,null,null
+14622,30008236,"Amsterdam, Kattenburgerstraat",52.376077,4.92203,0,stoparea:2831,null,0,null,null
+14621,30008237,"Amsterdam, Kattenburgerstraat",52.376145,4.921265,0,stoparea:2831,null,0,null,null
+1420664,57114530,"Amsterdam, Keerkringpark",52.413202,4.879825,0,stoparea:121956,null,1,null,CXX:57114530
+360965,57114540,"Amsterdam, Keerkringpark",52.412852,4.879814,0,stoparea:121956,null,1,null,CXX:57114540
+15231,30006073,"Amsterdam, Keizersgracht",52.366046,4.886663,0,stoparea:2565,null,1,null,null
+15230,30006074,"Amsterdam, Keizersgracht",52.365882,4.886239,0,stoparea:2565,null,0,null,null
+14955,30008060,"Amsterdam, Keizersgracht",52.363677,4.898332,0,stoparea:2623,null,0,null,null
+14956,30008061,"Amsterdam, Keizersgracht",52.363937,4.898285,0,stoparea:2623,null,1,null,null
+15619,30000179,"Amsterdam, Kelbergen",52.313509,4.971797,0,stoparea:2381,null,0,null,null
+15510,30000180,"Amsterdam, Kelbergen",52.313544,4.97143,0,stoparea:2381,null,1,null,null
+14789,30001084,"Amsterdam, Kerklaan",52.407297,4.964482,0,stoparea:2620,null,0,null,null
+14951,30001085,"Amsterdam, Kerklaan",52.407333,4.964467,0,stoparea:2620,null,1,null,null
+15268,30000144,"Amsterdam, Kikkenstein",52.316801,4.972368,0,stoparea:2491,null,null,null,null
+15224,30000145,"Amsterdam, Kikkenstein",52.316218,4.972711,0,stoparea:2491,null,null,null,null
+15777,30006024,"Amsterdam, Kinkerstraat",52.367063,4.872306,0,stoparea:2786,null,0,null,null
+15778,30006025,"Amsterdam, Kinkerstraat",52.36743,4.872008,0,stoparea:2786,null,0,null,null
+1690097,30001401,"Amsterdam, Klaprozenweg",52.398385,4.906574,0,stoparea:339165,null,1,null,null
+1217724,57113330,"Amsterdam, Klaprozenweg",52.403276,4.896102,0,null,null,1,null,CXX:57113330
+1928601,57113820,"Amsterdam, Klaprozenweg",52.404089,4.894947,0,null,null,0,null,CXX:57113820
+14516,30008209,"Amsterdam, KNSM-laan",52.377076,4.946016,0,stoparea:2511,null,0,null,null
+322618,30002018,"Amsterdam, Koivistokade",52.397897,4.875768,0,stoparea:110899,null,1,null,null
+322619,30002019,"Amsterdam, Koivistokade",52.397904,4.875371,0,stoparea:110899,null,0,null,null
+14814,30001210,"Amsterdam, Kometensingel",52.416521,4.882623,0,stoparea:2480,null,1,null,null
+14815,30001211,"Amsterdam, Kometensingel",52.41663,4.882843,0,stoparea:2480,null,0,null,null
+15229,30006075,"Amsterdam, Koningsplein",52.367136,4.889425,0,stoparea:2408,null,0,null,null
+15228,30006076,"Amsterdam, Koningsplein",52.36689,4.888576,0,stoparea:2408,null,0,null,null
+15182,30000134,"Amsterdam, Koornhorst",52.31907,4.984007,0,stoparea:2294,null,0,null,null
+15183,30000135,"Amsterdam, Koornhorst",52.319313,4.98396,0,stoparea:2294,null,1,null,null
+939984,57252280,"Amsterdam, Koornhorst",52.31925,4.984049,0,null,null,0,null,CXX:57252280
+14367,30004068,"Amsterdam, Koos Vorrinkweg",52.35291,4.799682,0,stoparea:2262,null,1,null,null
+1524109,30004069,"Amsterdam, Koos Vorrinkweg",52.352001,4.799328,0,stoparea:2262,null,null,null,null
+15446,30002137,"Amsterdam, Kostverlorenstraat",52.379679,4.871734,0,stoparea:2769,null,1,null,null
+15451,30002138,"Amsterdam, Kostverlorenstraat",52.379526,4.871706,0,stoparea:2769,null,1,null,null
+103169,30000141,"Amsterdam, Kraaienneststation",52.316032,4.978681,0,stoparea:28104,null,0,null,null
+103162,30000552,"Amsterdam, Kraaienneststation",52.31686,4.981563,0,stoparea:28104,null,1,null,null
+103898,30000553,"Amsterdam, Kraaienneststation",52.316012,4.980735,0,stoparea:28104,null,0,null,null
+96451,30009548,"Amsterdam, Kraaienneststation",52.316825,4.979407,0,stoparea:28104,null,0,null,null
+96452,30009549,"Amsterdam, Kraaienneststation",52.316323,4.979632,0,stoparea:28104,null,0,null,null
+382039,57252320,"Amsterdam, Kraaienneststation",52.316715,4.981256,0,stoparea:120663,null,0,null,CXX:57252320
+2032209,30007390,"Amsterdam, Kronenburg",52.316148,4.87055,0,stoparea:346519,null,1,B,null
+2032208,30007391,"Amsterdam, Kronenburg",52.315565,4.870703,0,stoparea:346519,null,1,C,null
+2032213,30007392,"Amsterdam, Kronenburg",52.31667,4.870529,0,stoparea:346519,null,0,null,null
+2032212,30007393,"Amsterdam, Kronenburg",52.316218,4.870036,0,stoparea:346519,null,1,null,null
+237987,30009177,"Amsterdam, Krugerplein",52.353072,4.920759,0,stoparea:78044,null,0,null,null
+237988,30009178,"Amsterdam, Krugerplein",52.352973,4.920804,0,stoparea:78044,null,0,null,null
+15048,30000053,"Amsterdam, Kruislaan",52.34742,4.939677,0,stoparea:2773,null,1,null,null
+15053,30000054,"Amsterdam, Kruislaan",52.347121,4.93899,0,stoparea:2773,null,1,null,null
+1238176,30000070,"Amsterdam, Kruislaan",52.347978,4.939892,0,stoparea:235951,null,0,null,null
+14802,30000070,"Amsterdam, Kruislaan",52.347897,4.939936,0,stoparea:2773,null,0,null,null
+1238175,30000071,"Amsterdam, Kruislaan",52.347603,4.940512,0,stoparea:235951,null,0,null,null
+15678,30000071,"Amsterdam, Kruislaan",52.347612,4.940453,0,stoparea:2773,null,1,null,null
+582011,57152640,"Amsterdam, Kruislaan",52.347648,4.940541,0,stoparea:183115,null,0,null,CXX:57152640
+581912,57152650,"Amsterdam, Kruislaan",52.347896,4.939658,0,stoparea:183115,null,0,null,CXX:57152650
+15841,30004328,"Amsterdam, L. Bouwmeesterstraat",52.35613,4.822319,0,stoparea:2844,null,1,null,null
+15840,30004329,"Amsterdam, L. Bouwmeesterstraat",52.356166,4.822172,0,stoparea:2844,null,1,null,null
+14520,30002066,"Amsterdam, La Guardiaweg",52.391904,4.84008,0,stoparea:2515,null,1,null,null
+15782,30002273,"Amsterdam, La Guardiaweg",52.391519,4.840364,0,stoparea:2515,null,1,null,null
+2220424,57120040,"Amsterdam, La Guardiaweg",52.391564,4.840363,0,null,null,0,null,CXX:57120040
+1795494,57120040,"Amsterdam, La Guardiaweg",52.391904,4.84008,0,stoparea:342144,null,1,null,null
+1795332,57120050,"Amsterdam, La Guardiaweg",52.391519,4.840364,0,stoparea:342144,null,0,null,null
+103916,30004383,"Amsterdam, La Meye",52.352995,4.773819,0,stoparea:32963,null,1,null,null
+15624,30004276,"Amsterdam, Laan v.Vlaanderen",52.346437,4.815677,0,stoparea:2473,null,1,null,null
+15623,30004277,"Amsterdam, Laan v.Vlaanderen",52.346485,4.816425,0,stoparea:2473,null,1,null,null
+675642,57250310,"Amsterdam, Laarderhoogtweg",52.302976,4.947103,0,stoparea:197935,null,0,null,null
+673114,57250320,"Amsterdam, Laarderhoogtweg",52.303689,4.947961,0,stoparea:197935,null,0,null,null
+14666,30003101,"Amsterdam, Lambertus Zijlplein",52.377266,4.803002,0,stoparea:2808,null,1,null,null
+14999,30003157,"Amsterdam, Lambertus Zijlplein",52.377268,4.803384,0,stoparea:2808,null,0,null,null
+14845,30001434,"Amsterdam, Lange Vonder",52.421909,4.896454,0,stoparea:2447,null,1,null,null
+1795380,57111240,"Amsterdam, Lange Vonder",52.421872,4.896146,0,stoparea:342105,null,0,null,null
+1795315,57111250,"Amsterdam, Lange Vonder",52.421909,4.896454,0,stoparea:342105,null,1,null,null
+1544014,30007504,"Amsterdam, Langerhuize",52.295014,4.877934,0,stoparea:300919,null,1,E,null
+1999239,57232260,"Amsterdam, Langsom",52.341581,4.793332,0,stoparea:123574,null,1,null,CXX:57232260
+418708,57232460,"Amsterdam, Langsom",52.341733,4.793139,0,stoparea:123574,null,0,null,CXX:57232460
+14593,30000307,"Amsterdam, Leerdamhof",52.307405,4.974024,0,stoparea:2672,null,0,null,null
+103164,30000314,"Amsterdam, Leerdamhof",52.305388,4.97526,0,stoparea:2672,null,0,null,null
+1530748,30006062,"Amsterdam, Leidseplein",52.363272,4.883244,0,stoparea:297750,null,1,null,null
+1530736,30006063,"Amsterdam, Leidseplein",52.364762,4.880643,0,stoparea:297750,null,null,null,null
+1531125,30006067,"Amsterdam, Leidseplein",52.364314,4.883012,0,stoparea:297750,null,1,null,null
+1530734,30006089,"Amsterdam, Leidseplein",52.363091,4.880853,0,stoparea:297750,null,1,null,null
+1999141,57002410,"Amsterdam, Leidseplein",52.363281,4.881056,0,stoparea:120623,null,1,null,CXX:57002410
+1059712,57002413,"Amsterdam, Leidseplein",52.36187,4.88119,0,stoparea:175883,null,0,null,CXX:57002413
+1215823,57002413,"Amsterdam, Leidseplein",52.361951,4.881203,0,stoparea:197938,null,0,null,null
+675468,57002414,"Amsterdam, Leidseplein",52.362667,4.880564,0,stoparea:197938,null,0,null,null
+1999139,57002414,"Amsterdam, Leidseplein",52.362632,4.880638,0,stoparea:175883,null,0,null,CXX:57002414
+1999140,57002415,"Amsterdam, Leidseplein",52.364744,4.880731,0,stoparea:120623,null,1,null,CXX:57002415
+2219783,57002425,"Amsterdam, Leidseplein",52.364735,4.880746,0,stoparea:120623,null,1,null,CXX:57002425
+14595,30000305,"Amsterdam, Leusdenhof",52.309812,4.978489,0,stoparea:2673,null,1,null,null
+14594,30000306,"Amsterdam, Leusdenhof",52.309901,4.978371,0,stoparea:2673,null,1,null,null
+15283,30008207,"Amsterdam, Levantplein",52.377073,4.942858,0,stoparea:2510,null,0,null,null
+14515,30008208,"Amsterdam, Levantplein",52.377116,4.942388,0,stoparea:2510,null,0,null,null
+1537008,30001016,"Amsterdam, Liergouw",52.381769,4.966253,0,stoparea:2654,null,1,G-E,null
+237992,30001017,"Amsterdam, Liergouw",52.381886,4.966163,0,stoparea:2654,null,1,G-F,null
+1537006,30001388,"Amsterdam, Liergouw",52.383079,4.970485,0,stoparea:2501,null,1,null,null
+15276,30001389,"Amsterdam, Liergouw",52.383349,4.970761,0,stoparea:2501,null,1,null,null
+15052,30000055,"Amsterdam, Linnaeusparkweg",52.348649,4.941543,0,stoparea:2776,null,0,null,null
+15839,30000537,"Amsterdam, Linnaeusparkweg",52.349247,4.942755,0,stoparea:2776,null,1,null,null
+14579,30000017,"Amsterdam, Linnaeusstraat",52.360129,4.925735,0,stoparea:2661,null,1,null,null
+14913,30000444,"Amsterdam, Linnaeusstraat",52.35991,4.9249,0,stoparea:2661,null,0,null,null
+14502,30000048,"Amsterdam, Lorentzlaan",52.345827,4.931974,0,stoparea:2485,null,1,null,null
+14503,30000049,"Amsterdam, Lorentzlaan",52.346399,4.931308,0,stoparea:2485,null,1,null,null
+1480616,30004413,"Amsterdam, Louis Davidsstraat",52.353835,4.808507,0,stoparea:2756,null,0,null,null
+15850,30004414,"Amsterdam, Louis Davidsstraat",52.353928,4.809107,0,stoparea:2756,null,0,null,null
+1537937,30004415,"Amsterdam, Louis Davidsstraat",52.353713,4.807598,0,stoparea:2756,null,0,null,null
+1530746,30004424,"Amsterdam, Louis Davidsstraat",52.353599,4.807996,0,stoparea:2756,null,0,null,null
+15607,30004091,"Amsterdam, Louweshoek",52.346311,4.823119,0,stoparea:2356,null,0,null,null
+15737,30004088,"Amsterdam, Louwesweg",52.346694,4.824362,0,stoparea:2570,null,null,null,null
+15738,30004089,"Amsterdam, Louwesweg",52.346707,4.825139,0,stoparea:2570,null,0,null,null
+1420483,57132860,"Amsterdam, Louwesweg",52.346679,4.825096,0,stoparea:157170,null,0,null,CXX:57132860
+499797,57232630,"Amsterdam, Louwesweg",52.346739,4.824332,0,stoparea:157170,null,1,null,CXX:57232630
+1522974,30008250,"Amsterdam, Lumierestraat",52.352764,4.99992,0,stoparea:78041,null,0,null,null
+237983,30008251,"Amsterdam, Lumierestraat",52.352978,4.999419,0,stoparea:78041,null,0,null,null
+237979,30008285,"Amsterdam, Lumierestraat",52.352433,5.000187,0,stoparea:78041,null,1,null,null
+237976,30008286,"Amsterdam, Lumierestraat",52.353319,4.999151,0,stoparea:78041,null,0,null,null
+15337,30009090,"Amsterdam, Lutmastraat",52.351483,4.90331,0,stoparea:2612,null,0,null,null
+1528373,30009091,"Amsterdam, Lutmastraat",52.351842,4.90313,0,stoparea:2612,null,0,null,null
+14706,30001205,"Amsterdam, Maanstraat",52.412147,4.887347,0,stoparea:2885,null,0,null,null
+14709,30001206,"Amsterdam, Maanstraat",52.412225,4.886832,0,stoparea:2885,null,1,null,null
+15615,30000171,"Amsterdam, Maasdrielhof",52.302205,4.964836,0,stoparea:2376,null,0,null,null
+15612,30000174,"Amsterdam, Maasdrielhof",52.301803,4.965485,0,stoparea:2376,null,0,null,null
+14519,30004234,"Amsterdam, Maaseikpad",52.348596,4.816089,0,stoparea:2513,null,0,null,null
+1377851,30004235,"Amsterdam, Maaseikpad",52.348146,4.815919,0,stoparea:2513,null,0,null,null
+15588,30004098,"Amsterdam, Maassluisstraat",52.347002,4.838329,0,stoparea:2355,null,1,null,null
+15603,30004099,"Amsterdam, Maassluisstraat",52.346969,4.838975,0,stoparea:2355,null,0,null,null
+1692119,30009068,"Amsterdam, Maasstraat",52.342898,4.896359,0,stoparea:339562,null,1,null,null
+1692118,30009069,"Amsterdam, Maasstraat",52.343107,4.896841,0,stoparea:339562,null,1,null,null
+14853,30009078,"Amsterdam, Maasstraat",52.34681,4.89476,0,stoparea:2930,null,null,null,null
+14854,30009079,"Amsterdam, Maasstraat",52.347065,4.895447,0,stoparea:2930,null,null,null,null
+15775,30009160,"Amsterdam, Maasstraat",52.340723,4.896398,0,stoparea:2666,null,0,null,null
+1379033,30009161,"Amsterdam, Maasstraat",52.340471,4.898441,0,stoparea:2666,null,0,null,null
+14715,30008225,"Amsterdam, Majanggracht",52.379044,4.929342,0,stoparea:2905,null,0,null,null
+14716,30008226,"Amsterdam, Majanggracht",52.378683,4.931358,0,stoparea:2905,null,0,null,null
+15013,30003023,"Amsterdam, Marco Polostraat",52.370879,4.855199,0,stoparea:2733,null,1,null,null
+15012,30003024,"Amsterdam, Marco Polostraat",52.370952,4.855463,0,stoparea:2733,null,1,null,null
+979085,30009121,"Amsterdam, Marie Heinekenplein",52.357219,4.89077,0,stoparea:225956,null,0,null,null
+1535324,30009122,"Amsterdam, Marie Heinekenplein",52.356913,4.890656,0,stoparea:225956,null,1,null,null
+14793,30001080,"Amsterdam, Markengouw",52.399211,4.952981,0,stoparea:2624,null,1,null,null
+14792,30001081,"Amsterdam, Markengouw",52.399212,4.953098,0,stoparea:2624,null,0,null,null
+15804,30002182,"Amsterdam, Markthallen",52.375677,4.866949,0,stoparea:2410,null,1,null,null
+14837,30002183,"Amsterdam, Markthallen",52.375756,4.866669,0,stoparea:2410,null,0,null,null
+1539947,30002121,"Amsterdam, Marnixplein",52.378388,4.878593,0,stoparea:300022,null,1,null,null
+1539948,30002122,"Amsterdam, Marnixplein",52.378056,4.878861,0,stoparea:300022,null,1,null,null
+1547431,30002192,"Amsterdam, Marnixplein",52.377731,4.8786,0,stoparea:300950,null,1,null,null
+1547432,30002193,"Amsterdam, Marnixplein",52.377416,4.878442,0,stoparea:300950,null,1,null,null
+1544161,30002195,"Amsterdam, Marnixplein",52.378579,4.879178,0,stoparea:300950,null,1,null,null
+1544162,30002196,"Amsterdam, Marnixplein",52.379003,4.879511,0,stoparea:300950,null,1,null,null
+14513,30005077,"Amsterdam, Marnixstraat",52.372283,4.876152,0,stoparea:2859,null,1,null,null
+1529002,30005154,"Amsterdam, Marnixstraat",52.372073,4.875361,0,stoparea:2859,null,1,null,null
+1547436,30005155,"Amsterdam, Marnixstraat",52.37201,4.875377,0,stoparea:301737,null,1,null,null
+382041,57002591,"Amsterdam, Marnixstraat",52.372446,4.876253,0,stoparea:121121,null,0,null,CXX:57002591
+416591,57002601,"Amsterdam, Marnixstraat",52.37234,4.876885,0,stoparea:121121,null,0,null,CXX:57002601
+15197,30001177,"Amsterdam, Masthof",52.412239,4.925574,0,stoparea:2319,null,0,null,null
+15196,30001178,"Amsterdam, Masthof",52.411944,4.926004,0,stoparea:2319,null,1,null,null
+15250,30004401,"Amsterdam, Matterhorn",52.353915,4.774378,0,stoparea:2832,null,1,null,null
+15082,30004402,"Amsterdam, Matterhorn",52.353719,4.774777,0,stoparea:2832,null,0,null,null
+14431,30004416,"Amsterdam, Matterhorn",52.35441,4.774577,0,stoparea:2832,null,1,null,null
+1379037,30004417,"Amsterdam, Matterhorn",52.354961,4.775113,0,stoparea:2832,null,1,null,null
+1999277,57132760,"Amsterdam, Matterhorn",52.354402,4.77468,0,stoparea:122402,null,1,null,CXX:57132760
+1420603,57132770,"Amsterdam, Matterhorn",52.354988,4.775186,0,stoparea:122402,null,1,null,CXX:57132770
+15157,30000041,"Amsterdam, Maxwellstraat",52.348031,4.93019,0,stoparea:2270,null,0,null,null
+14543,30009008,"Amsterdam, Maxwellstraat",52.347134,4.928409,0,stoparea:2270,null,null,null,null
+15697,30009179,"Amsterdam, Maxwellstraat",52.348239,4.928265,0,stoparea:2270,null,1,null,null
+14606,30004049,"Amsterdam, Meer en Vaart",52.356469,4.810586,0,stoparea:2692,null,0,null,null
+14485,30004050,"Amsterdam, Meer en Vaart",52.356367,4.809941,0,stoparea:2692,null,1,null,null
+15514,30000184,"Amsterdam, Meernhof",52.299223,4.967841,0,stoparea:2895,null,1,null,null
+15513,30000185,"Amsterdam, Meernhof",52.299715,4.967103,0,stoparea:2895,null,null,C,null
+675949,57252490,"Amsterdam, Meibergdreef",52.293685,4.952575,0,stoparea:197937,null,0,null,null
+675818,57252500,"Amsterdam, Meibergdreef",52.293838,4.952661,0,stoparea:197937,null,0,null,null
+15078,30001411,"Amsterdam, Meidoornplein",52.38754,4.9117,0,stoparea:2829,null,0,null,null
+15079,30001412,"Amsterdam, Meidoornplein",52.387357,4.911071,0,stoparea:2829,null,0,null,null
+15014,30003022,"Amsterdam, Mercatorplein",52.370122,4.8507,0,stoparea:2706,null,1,null,null
+14998,30003150,"Amsterdam, Mercatorplein",52.370317,4.850111,0,stoparea:2706,null,1,null,null
+14879,30003168,"Amsterdam, Mercatorplein",52.370242,4.851521,0,stoparea:2706,null,1,null,null
+14753,30003178,"Amsterdam, Mercatorplein",52.370801,4.849914,0,stoparea:2706,null,1,null,null
+2220633,57134000,"Amsterdam, Mercatorplein",52.370262,4.850053,0,stoparea:355760,null,0,null,CXX:57134000
+2220120,57134160,"Amsterdam, Mercatorplein",52.370676,4.850033,0,stoparea:355760,null,0,null,CXX:57134160
+15413,30001116,"Amsterdam, Merelstraat",52.389866,4.924926,0,stoparea:2721,null,0,null,null
+15412,30001117,"Amsterdam, Merelstraat",52.389956,4.925057,0,stoparea:2721,null,0,null,null
+1522993,30001400,"Amsterdam, Metaalbewerkerweg",52.401383,4.905704,0,stoparea:295940,null,1,null,null
+1530852,30001413,"Amsterdam, Metaalbewerkerweg",52.401593,4.906407,0,stoparea:295940,null,0,null,null
+14710,30001203,"Amsterdam, Meteorensingel",52.410214,4.891572,0,stoparea:2887,null,0,null,null
+14707,30001204,"Amsterdam, Meteorensingel",52.410329,4.891071,0,stoparea:2887,null,0,null,null
+14705,30001208,"Amsterdam, Meteorenweg",52.414791,4.881394,0,stoparea:2884,null,0,null,null
+14704,30001209,"Amsterdam, Meteorenweg",52.414718,4.881306,0,stoparea:2884,null,0,null,null
+1535314,30003115,"Amsterdam, Michel de Klerkhof",52.37608,4.797701,0,stoparea:298999,null,0,null,null
+1535313,30003116,"Amsterdam, Michel de Klerkhof",52.37625,4.797567,0,stoparea:298999,null,1,null,null
+1237036,30000330,"Amsterdam, Middenweg",52.35042,4.934539,0,stoparea:236005,null,0,null,null
+14499,30000330,"Amsterdam, Middenweg",52.350447,4.934554,0,stoparea:2588,null,0,null,null
+15605,30000512,"Amsterdam, Middenweg",52.350202,4.933896,0,stoparea:2588,null,1,null,null
+1419855,57152150,"Amsterdam, Middenweg",52.350465,4.934598,0,stoparea:183151,null,0,null,CXX:57152150
+14357,30007091,"Amsterdam, Minervaplein",52.346771,4.872997,0,stoparea:2252,null,1,null,null
+1377840,30007094,"Amsterdam, Minervaplein",52.346695,4.872044,0,stoparea:2252,null,1,null,null
+15400,30001379,"Amsterdam, Molenaarsweg",52.421467,4.887462,0,stoparea:2705,null,1,null,null
+1795382,57111260,"Amsterdam, Molenaarsweg",52.421462,4.886301,0,stoparea:342106,null,0,null,null
+1795488,57111270,"Amsterdam, Molenaarsweg",52.421467,4.887462,0,stoparea:342106,null,0,null,null
+359031,57112990,"Amsterdam, Molenaarsweg",52.421117,4.891906,0,stoparea:122482,null,0,null,CXX:57112990
+358700,57113340,"Amsterdam, Molenaarsweg",52.42204,4.891205,0,stoparea:122482,null,1,null,CXX:57113340
+556602,30002172,"Amsterdam, Molenwerf",52.386204,4.845526,0,stoparea:177363,null,1,null,null
+1535319,30002174,"Amsterdam, Molenwerf",52.386011,4.846469,0,stoparea:177363,null,1,null,null
+15640,30001359,"Amsterdam, Molenwijk",52.418069,4.893616,0,stoparea:2399,null,0,null,null
+15505,30001361,"Amsterdam, Molenwijk",52.418024,4.893631,0,stoparea:2399,null,1,null,null
+15503,30001362,"Amsterdam, Molenwijk",52.41797,4.893646,0,stoparea:2399,null,0,null,null
+15399,30001377,"Amsterdam, Molenwijk",52.418266,4.893555,0,stoparea:2399,null,1,null,null
+15068,30008129,"Amsterdam, Molukkenstraat",52.3615,4.93861,0,stoparea:2816,null,1,null,null
+1377847,30008190,"Amsterdam, Molukkenstraat",52.361574,4.939344,0,stoparea:2816,null,null,null,null
+15064,30008290,"Amsterdam, Molukkenstraat",52.361721,4.940164,0,stoparea:2816,null,0,null,null
+15063,30008291,"Amsterdam, Molukkenstraat",52.361805,4.941,0,stoparea:2816,null,0,null,null
+1689990,30001151,"Amsterdam, Mosplein",52.393571,4.914074,0,stoparea:339163,null,1,null,null
+1689992,30001155,"Amsterdam, Mosplein",52.393003,4.913581,0,stoparea:339163,null,1,null,null
+1928592,57112500,"Amsterdam, Mosplein",52.392999,4.91267,0,stoparea:122480,null,null,null,CXX:57112500
+1999151,57112600,"Amsterdam, Mosplein",52.393234,4.912932,0,stoparea:122480,null,null,null,CXX:57112600
+15540,30005048,"Amsterdam, Mr. Visserplein",52.367663,4.906114,0,stoparea:2242,null,0,null,null
+15669,30005056,"Amsterdam, Mr. Visserplein",52.367939,4.905391,0,stoparea:2242,null,1,null,null
+14699,30000001,"Amsterdam, Muiderpoortstation",52.361325,4.932872,0,stoparea:2877,null,1,B,null
+14701,30000005,"Amsterdam, Muiderpoortstation",52.361217,4.9328,0,stoparea:2877,null,1,null,null
+14702,30000006,"Amsterdam, Muiderpoortstation",52.361058,4.933682,0,stoparea:2877,null,1,null,null
+14703,30000007,"Amsterdam, Muiderpoortstation",52.361175,4.933563,0,stoparea:2877,null,1,null,null
+1240727,30000441,"Amsterdam, Muiderpoortstation",52.360883,4.932539,0,stoparea:2877,null,0,null,null
+1377854,30007006,"Amsterdam, Museumplein",52.356427,4.879799,0,stoparea:2545,null,1,null,null
+1377849,30007007,"Amsterdam, Museumplein",52.356902,4.8795,0,stoparea:2545,null,1,null,null
+1928588,57002450,"Amsterdam, Museumplein",52.355585,4.878516,0,stoparea:120898,null,0,null,CXX:57002450
+1928628,57002460,"Amsterdam, Museumplein",52.355877,4.879482,0,stoparea:120898,null,0,null,CXX:57002460
+14624,30008234,"Amsterdam, Muziekgeb. Bimhuis",52.377237,4.913162,0,stoparea:2709,null,1,null,null
+14623,30008235,"Amsterdam, Muziekgeb. Bimhuis",52.377236,4.912898,0,stoparea:2709,null,1,null,null
+14978,30004100,"Amsterdam, Naaldwijkstraat",52.346887,4.842484,0,stoparea:2295,null,1,null,null
+14972,30004101,"Amsterdam, Naaldwijkstraat",52.346842,4.842587,0,stoparea:2295,null,1,null,null
+14875,30003164,"Amsterdam, Nachtwachtlaan",52.364209,4.843108,0,stoparea:2507,null,0,null,null
+14876,30003165,"Amsterdam, Nachtwachtlaan",52.364093,4.843315,0,stoparea:2507,null,1,null,null
+15744,30001346,"Amsterdam, Nageljongenstraat",52.40824,4.898942,0,stoparea:2598,null,0,null,null
+15745,30001347,"Amsterdam, Nageljongenstraat",52.408154,4.899781,0,stoparea:2598,null,0,null,null
+15888,30002316,"Amsterdam, Naritaweg",52.387837,4.821886,0,stoparea:2904,null,1,null,null
+15889,30002317,"Amsterdam, Naritaweg",52.387905,4.821018,0,stoparea:2904,null,0,null,null
+15216,30002152,"Amsterdam, Nassaukade",52.380834,4.879064,0,stoparea:2367,null,null,null,null
+15217,30002153,"Amsterdam, Nassaukade",52.38132,4.879205,0,stoparea:2367,null,1,null,null
+1689900,30002111,"Amsterdam, Nassauplein",52.385257,4.881466,0,stoparea:339153,null,0,null,null
+1689901,30002112,"Amsterdam, Nassauplein",52.385437,4.881494,0,stoparea:339153,null,0,null,null
+327333,30009902,"Amsterdam, NDSM",52.400939,4.891735,0,stoparea:111592,null,1,null,null
+506848,30000177,"Amsterdam, Nelson Mandelapark",52.310948,4.964357,0,stoparea:160329,null,0,null,null
+506849,30000178,"Amsterdam, Nelson Mandelapark",52.31101,4.964034,0,stoparea:160329,null,0,null,null
+14675,30007339,"Amsterdam, Nieuw Herlaer",52.326019,4.889857,0,stoparea:2814,null,1,null,null
+15718,30007340,"Amsterdam, Nieuw Herlaer",52.325913,4.890313,0,stoparea:2814,null,0,A,null
+506850,30002043,"Amsterdam, Nieuwe Hemweg",52.401076,4.850972,0,stoparea:2818,null,0,null,null
+15761,30002055,"Amsterdam, Nieuwe Hemweg",52.401679,4.849099,0,stoparea:2818,null,0,null,null
+15859,30001062,"Amsterdam, Nieuwe Purmerweg",52.394485,4.934133,0,stoparea:2825,null,0,null,null
+15858,30001063,"Amsterdam, Nieuwe Purmerweg",52.394181,4.934504,0,stoparea:2825,null,0,null,null
+15300,30005069,"Amsterdam, Nieuwezijds Kolk",52.376286,4.893728,0,stoparea:2551,null,1,null,null
+14510,30005070,"Amsterdam, Nieuwezijds Kolk",52.375752,4.892838,0,stoparea:2551,null,1,null,null
+382103,57002530,"Amsterdam, Nieuwezijds Kolk",52.375968,4.893056,0,null,null,0,null,CXX:57002530
+381851,57002540,"Amsterdam, Nieuwezijds Kolk",52.376123,4.893554,0,null,null,0,null,CXX:57002540
+14893,30009502,"Amsterdam, Nieuwmarkt",52.371931,4.901295,0,stoparea:2539,null,1,null,null
+14894,30009503,"Amsterdam, Nieuwmarkt",52.37194,4.901236,0,stoparea:2539,null,1,null,null
+411168,30003113,"Amsterdam, Nolensstraat",52.375225,4.800988,0,stoparea:2811,null,0,null,null
+1480228,30009571,"Amsterdam, Noord",52.40117,4.931229,0,stoparea:285520,null,0,null,null
+1480227,30009572,"Amsterdam, Noord",52.40192,4.932368,0,stoparea:285520,null,0,null,null
+1522970,30001422,"Amsterdam, Noorderpark",52.389018,4.919558,0,stoparea:285519,null,0,null,null
+1522990,30001423,"Amsterdam, Noorderpark",52.389304,4.919217,0,stoparea:285519,null,1,null,null
+1480226,30009573,"Amsterdam, Noorderpark",52.388553,4.917889,0,stoparea:285519,null,0,null,null
+1480232,30009574,"Amsterdam, Noorderpark",52.389459,4.919774,0,stoparea:285519,null,0,null,null
+521107,30007166,"Amsterdam, Noordhollandstraat",52.32362,4.865006,0,stoparea:165453,null,1,null,null
+74363,30002115,"Amsterdam, Nw. Willemsstraat",52.381157,4.880867,0,stoparea:24952,null,1,null,null
+74362,30002118,"Amsterdam, Nw. Willemsstraat",52.381273,4.88088,0,stoparea:24952,null,1,null,null
+361455,57221010,"Amsterdam, Oceaangroep",52.404498,4.758896,0,stoparea:122897,null,0,null,CXX:57221010
+547320,57320010,"Amsterdam, Oceaangroep",52.404976,4.7593,0,stoparea:122897,null,0,null,CXX:57320010
+15302,30002013,"Amsterdam, Oderweg",52.390109,4.821445,0,stoparea:2553,null,1,null,null
+14445,30002095,"Amsterdam, Oderweg",52.390184,4.820284,0,stoparea:2553,null,1,null,null
+354332,57221111,"Amsterdam, Oderweg",52.390083,4.821563,0,stoparea:123843,null,0,null,CXX:57221111
+364042,57221112,"Amsterdam, Oderweg",52.390255,4.820107,0,stoparea:123843,null,0,null,CXX:57221112
+221056,30004432,"Amsterdam, Oeverpad",52.364926,4.804926,0,stoparea:2946,null,null,null,null
+221055,30004433,"Amsterdam, Oeverpad",52.364476,4.804771,0,stoparea:2946,null,1,null,null
+1134043,30007107,"Amsterdam, Oldenaller",52.332155,4.866212,0,stoparea:232962,null,0,null,null
+1134039,30007144,"Amsterdam, Oldengaarde",52.332141,4.881837,0,stoparea:232960,null,1,null,null
+1693304,30001414,"Amsterdam, Olof Palmeplein",52.396791,4.940119,0,stoparea:339172,null,0,null,null
+1690100,30001415,"Amsterdam, Olof Palmeplein",52.396683,4.940164,0,stoparea:339172,null,0,null,null
+1690101,30001416,"Amsterdam, Olof Palmeplein",52.396718,4.939841,0,stoparea:339172,null,0,null,null
+14355,30007097,"Amsterdam, Olympiaplein",52.3463,4.865826,0,stoparea:2250,null,1,null,null
+14354,30007098,"Amsterdam, Olympiaplein",52.346366,4.866588,0,stoparea:2250,null,1,null,null
+14777,30007108,"Amsterdam, Olympiaweg",52.34528,4.858735,0,stoparea:2349,null,0,null,null
+14572,30007120,"Amsterdam, Olympiaweg",52.34526,4.858339,0,stoparea:2349,null,1,null,null
+103861,30007121,"Amsterdam, Olympisch Stadion",52.343807,4.856962,0,stoparea:32959,null,0,null,null
+103872,30007202,"Amsterdam, Olympisch Stadion",52.344049,4.856842,0,stoparea:32959,null,1,null,null
+2066171,57140450,"Amsterdam, Olympisch Stadion",52.343817,4.857197,0,null,null,1,null,CXX:57140450
+2066174,57140460,"Amsterdam, Olympisch Stadion",52.344102,4.856606,0,null,null,1,null,CXX:57140460
+2220752,30008088,"Amsterdam, Oosteinde",52.359961,4.901661,0,stoparea:356348,null,1,null,null
+652255,30008204,"Amsterdam, Oostelijke Handelskade",52.375229,4.930483,0,stoparea:196735,null,1,null,null
+652254,30008206,"Amsterdam, Oostelijke Handelskade",52.375068,4.930778,0,stoparea:196734,null,1,null,null
+1689907,30008194,"Amsterdam, Oostenburgergracht",52.367916,4.924303,0,stoparea:339158,null,1,null,null
+1689908,30008195,"Amsterdam, Oostenburgergracht",52.3678,4.924524,0,stoparea:339159,null,1,null,null
+15636,30001351,"Amsterdam, Oosterlengte",52.405827,4.92232,0,stoparea:2497,null,0,null,null
+15635,30001352,"Amsterdam, Oosterlengte",52.406113,4.922067,0,stoparea:2497,null,0,null,null
+366918,57111351,"Amsterdam, Oosterlengte",52.405791,4.922276,0,stoparea:122460,null,1,null,CXX:57111351
+1795362,57111351,"Amsterdam, Oosterlengte",52.406096,4.922141,0,stoparea:342143,null,0,null,null
+1795298,57111352,"Amsterdam, Oosterlengte",52.405854,4.92229,0,stoparea:342143,null,1,null,null
+1999315,57111352,"Amsterdam, Oosterlengte",52.406177,4.922111,0,stoparea:122460,null,0,null,CXX:57111352
+1522982,30000029,"Amsterdam, Oostpoort",52.35707,4.927191,0,stoparea:295938,null,1,null,null
+1522971,30000030,"Amsterdam, Oostpoort",52.357392,4.926938,0,stoparea:295938,null,0,null,null
+14812,30001212,"Amsterdam, Oostzanerdijk",52.420238,4.881493,0,stoparea:2391,null,1,null,null
+14813,30001213,"Amsterdam, Oostzanerdijk",52.42037,4.88083,0,stoparea:2391,null,1,null,null
+1538968,57111280,"Amsterdam, Oostzanerdijk",52.42036,4.880801,0,stoparea:299925,null,1,null,null
+1538935,57111290,"Amsterdam, Oostzanerdijk",52.420193,4.881479,0,stoparea:299925,null,1,null,null
+1544947,30007195,"Amsterdam, Oranjebaan",52.302786,4.87311,0,stoparea:301105,null,0,null,null
+2217604,30007199,"Amsterdam, Oranjebaan",52.303612,4.87093,0,stoparea:355357,null,1,null,null
+1524121,30004000,"Amsterdam, Osdorper Ban",52.360199,4.788722,0,stoparea:296184,null,0,null,null
+103888,30004010,"Amsterdam, Osdorper Ban",52.35978,4.789389,0,stoparea:32958,null,0,null,null
+648490,57232240,"Amsterdam, Osdorperweg",52.34322,4.797653,0,null,null,1,null,CXX:57232240
+648471,57232250,"Amsterdam, Osdorperweg",52.343192,4.797346,0,null,null,1,null,CXX:57232250
+14804,30004021,"Amsterdam, Osdorpplein",52.35913,4.803226,0,stoparea:2382,null,1,null,null
+14801,30004022,"Amsterdam, Osdorpplein",52.359624,4.80322,0,stoparea:2382,null,1,null,null
+15609,30004096,"Amsterdam, Ottho Heldringstraat",52.346918,4.833795,0,stoparea:2698,null,null,null,null
+15608,30004097,"Amsterdam, Ottho Heldringstraat",52.346969,4.833046,0,stoparea:2698,null,1,null,null
+15417,30004418,"Amsterdam, Oude Haagseweg",52.334076,4.811376,0,stoparea:2723,null,1,null,null
+14425,30004419,"Amsterdam, Oude Haagseweg",52.333411,4.809668,0,stoparea:2723,null,null,null,null
+1377852,30004314,"Amsterdam, Oudenaardeplantsoen",52.34495,4.803824,0,stoparea:2694,null,0,null,null
+14961,30004340,"Amsterdam, Oudenaardeplantsoen",52.345032,4.80416,0,stoparea:2694,null,1,null,null
+15807,30007400,"Amsterdam, Overamstel",52.331569,4.917273,0,stoparea:2739,null,1,null,null
+15806,30007401,"Amsterdam, Overamstel",52.331649,4.917214,0,stoparea:2739,null,1,null,null
+15582,30009563,"Amsterdam, Overamstel",52.331797,4.918151,0,stoparea:2739,null,0,null,null
+15126,30006043,"Amsterdam, Overtoom",52.362994,4.875099,0,stoparea:2771,null,1,null,null
+15129,30006044,"Amsterdam, Overtoom",52.363452,4.874829,0,stoparea:2771,null,1,null,null
+1538646,30008034,"Amsterdam, P. Hendrikkade (uitstaphalte)",52.376852,4.902387,0,stoparea:285522,null,1,null,null
+14843,30001436,"Amsterdam, P.A. v. Heijningestraat",52.422067,4.89976,0,stoparea:2446,null,0,null,null
+362221,57111530,"Amsterdam, P.A. van Heijningestraat",52.422067,4.89976,0,null,null,1,null,CXX:57111530
+1420040,57111540,"Amsterdam, P.A. van Heijningestraat",52.422137,4.899363,0,null,null,1,null,CXX:57111540
+103890,30008299,"Amsterdam, P.Oosterhuisstraat",52.351972,5.00794,0,stoparea:2801,null,1,null,null
+103868,30008300,"Amsterdam, P.Oosterhuisstraat",52.351933,5.006928,0,stoparea:2801,null,1,null,null
+672981,57253480,"Amsterdam, Paasheuvelweg",52.296301,4.9551,0,stoparea:197940,null,1,null,null
+675710,57253490,"Amsterdam, Paasheuvelweg",52.296762,4.955873,0,stoparea:197940,null,1,null,null
+1301867,30004163,"Amsterdam, Parkeerdek",52.342346,4.828643,0,stoparea:246316,null,1,null,null
+1480617,30007270,"Amsterdam, Parnassusweg",52.338062,4.86874,0,stoparea:2734,null,0,null,null
+15016,30007271,"Amsterdam, Parnassusweg",52.338178,4.868665,0,stoparea:2734,null,1,null,null
+1523004,30000051,"Amsterdam, Pekelharingstraat",52.345511,4.936526,0,stoparea:295941,null,1,null,null
+1523003,30000052,"Amsterdam, Pekelharingstraat",52.345782,4.936773,0,stoparea:295941,null,1,null,null
+322603,30008222,"Amsterdam, Peter Martensstraat",52.348819,5.013911,0,stoparea:110903,null,0,null,null
+322604,30008223,"Amsterdam, Peter Martensstraat",52.34855,5.014207,0,stoparea:110903,null,1,null,null
+14809,30001216,"Amsterdam, Petmolen",52.4179,4.885518,0,stoparea:2387,null,0,null,null
+14808,30001219,"Amsterdam, Petmolen",52.417193,4.886232,0,stoparea:2387,null,0,null,null
+495784,30008004,"Amsterdam, Piet Heinkade",52.377433,4.912719,0,stoparea:155281,null,0,null,null
+14482,30004053,"Amsterdam, Piet Wiedijkstraat",52.355135,4.815374,0,stoparea:2456,null,1,null,null
+1379027,30004054,"Amsterdam, Piet Wiedijkstraat",52.355216,4.815344,0,stoparea:2456,null,1,null,null
+1524117,30004427,"Amsterdam, Pieter Calandlaan",52.350133,4.794259,0,stoparea:296191,null,0,null,null
+1524116,30004428,"Amsterdam, Pieter Calandlaan",52.351408,4.793905,0,stoparea:296190,null,null,null,null
+15251,30004403,"Amsterdam, Pilatus",52.352894,4.776961,0,stoparea:2917,null,1,null,null
+15252,30004404,"Amsterdam, Pilatus",52.352965,4.776681,0,stoparea:2917,null,0,null,null
+14833,30001189,"Amsterdam, Pinksterbloemstraat",52.398525,4.912214,0,stoparea:2430,null,null,null,null
+14730,30001191,"Amsterdam, Pinksterbloemstraat",52.398812,4.912035,0,stoparea:2430,null,0,null,null
+2220750,30008036,"Amsterdam, Plantage Kerklaan",52.366157,4.911548,0,stoparea:356347,null,1,null,null
+2220749,30008037,"Amsterdam, Plantage Kerklaan",52.365841,4.911199,0,stoparea:356347,null,0,null,null
+1689910,30008046,"Amsterdam, Plantage Lepellaan",52.36522,4.915287,0,stoparea:339161,null,1,null,null
+2220756,30008170,"Amsterdam, Plantage Parklaan",52.367993,4.909898,0,stoparea:356349,null,0,null,null
+15703,30002200,"Amsterdam, Pleimuiden",52.391807,4.784873,0,stoparea:2482,null,0,null,null
+15713,30003087,"Amsterdam, Plein '40 - '45",52.381594,4.820629,0,stoparea:2502,null,0,null,null
+14453,30003129,"Amsterdam, Plein '40 - '45",52.380751,4.821124,0,stoparea:2502,null,null,null,null
+15892,30003130,"Amsterdam, Plein '40 - '45",52.381208,4.822675,0,stoparea:2502,null,null,null,null
+415533,57130090,"Amsterdam, Plein '40-45",52.381108,4.822544,0,stoparea:123194,null,0,null,CXX:57130090
+418083,57130160,"Amsterdam, Plein '40-45",52.381719,4.820627,0,stoparea:123194,null,1,null,CXX:57130160
+1524122,30004326,"Amsterdam, Plesmanlaan",52.350634,4.810163,0,stoparea:2805,null,0,null,null
+15848,30004327,"Amsterdam, Plesmanlaan",52.350582,4.810442,0,stoparea:2805,null,0,null,null
+15799,30002309,"Amsterdam, Plesostraat",52.387949,4.826453,0,stoparea:2707,null,0,null,null
+15886,30002310,"Amsterdam, Plesostraat",52.387886,4.828495,0,stoparea:2707,null,0,null,null
+15512,30001369,"Amsterdam, Pomonastraat",52.408864,4.895467,0,stoparea:2893,null,1,null,null
+1377845,30001370,"Amsterdam, Pomonastraat",52.408828,4.895468,0,stoparea:2893,null,0,null,null
+14840,30008103,"Amsterdam, Pontanusstraat",52.365926,4.928097,0,stoparea:2437,null,1,null,null
+14841,30008104,"Amsterdam, Pontanusstraat",52.365923,4.927231,0,stoparea:2437,null,1,null,null
+1522966,30009900,"Amsterdam, Pontsteiger",52.393107,4.886445,0,stoparea:295934,null,0,null,null
+15847,30004324,"Amsterdam, Postjesweg",52.365057,4.834024,0,stoparea:2804,null,1,null,null
+15846,30004325,"Amsterdam, Postjesweg",52.364678,4.833853,0,stoparea:2804,null,1,null,null
+1523005,30006015,"Amsterdam, Postjesweg",52.363527,4.853159,0,stoparea:295939,null,0,null,null
+1544358,30006115,"Amsterdam, Postjesweg",52.364785,4.853188,0,stoparea:295939,null,1,null,null
+14741,30009064,"Amsterdam, Pres. Kennedylaan",52.340871,4.901738,0,stoparea:2472,null,0,null,null
+14740,30009065,"Amsterdam, Pres. Kennedylaan",52.340953,4.901898,0,stoparea:2472,null,1,null,null
+15517,30004390,"Amsterdam, Presanella",52.351797,4.7768,0,stoparea:2900,null,null,null,null
+1377856,30009030,"Amsterdam, Prins Bernhardplein",52.348693,4.918105,0,stoparea:2392,null,0,null,null
+14438,30009031,"Amsterdam, Prins Bernhardplein",52.349196,4.917791,0,stoparea:2392,null,0,null,null
+14400,30008031,"Amsterdam, Prins Hendrikkade",52.374479,4.904557,0,stoparea:2516,null,1,null,null
+326934,57003020,"Amsterdam, Prins Hendrikkade",52.373409,4.906624,0,stoparea:111522,null,0,null,null
+326895,57003031,"Amsterdam, Prins Hendrikkade",52.376977,4.902165,0,stoparea:111522,null,0,null,null
+2032082,57003031,"Amsterdam, Prins Hendrikkade",52.376807,4.902431,0,stoparea:123611,null,0,null,CXX:57003031
+326872,57003040,"Amsterdam, Prins Hendrikkade",52.373908,4.905782,0,stoparea:111522,null,0,null,null
+1541459,57003041,"Amsterdam, Prins Hendrikkade",52.373846,4.905782,0,stoparea:123611,null,0,null,CXX:57003041
+15233,30006071,"Amsterdam, Prinsengracht",52.365094,4.884647,0,stoparea:2634,null,1,null,null
+15232,30006072,"Amsterdam, Prinsengracht",52.364957,4.884282,0,stoparea:2634,null,0,null,null
+14953,30008062,"Amsterdam, Prinsengracht",52.361981,4.898996,0,stoparea:2363,null,1,null,null
+14954,30008063,"Amsterdam, Prinsengracht",52.362241,4.898935,0,stoparea:2363,null,0,null,null
+1762152,30007130,"Amsterdam, Prinses Irenestraat",52.342023,4.868194,0,stoparea:341526,null,1,null,null
+1762151,30007131,"Amsterdam, Prinses Irenestraat",52.34303,4.868329,0,stoparea:341526,null,1,null,null
+1762005,30007186,"Amsterdam, Prinses Irenestraat",52.3426,4.876772,0,stoparea:341499,null,0,null,null
+1762006,30007187,"Amsterdam, Prinses Irenestraat",52.34313,4.876781,0,stoparea:341499,null,0,null,null
+2220647,57142170,"Amsterdam, Prinses Irenestraat",52.342968,4.876885,0,null,null,1,null,CXX:57142170
+2218584,57142210,"Amsterdam, Prinses Irenestraat",52.34268,4.876727,0,null,null,1,null,CXX:57142210
+2219090,57251940,"Amsterdam, Provincialeweg",52.327683,4.971914,0,stoparea:356138,null,0,null,CXX:57251940
+2220419,57251951,"Amsterdam, Provincialeweg",52.328552,4.973534,0,stoparea:356138,null,null,null,CXX:57251951
+14630,30001058,"Amsterdam, Purmerplein",52.390782,4.945865,0,stoparea:2716,null,0,null,null
+14631,30001059,"Amsterdam, Purmerplein",52.390458,4.945692,0,stoparea:2716,null,null,null,null
+1522981,30001006,"Amsterdam, Purmerweg",52.390027,4.948473,0,stoparea:2442,null,1,B2,null
+15671,30001007,"Amsterdam, Purmerweg",52.389992,4.948708,0,stoparea:2442,null,0,A3,null
+15186,30008288,"Amsterdam, R.J.H. Fortuynplein",52.372261,4.94671,0,stoparea:2297,null,0,null,null
+1134042,30007106,"Amsterdam, Radboud",52.327763,4.866967,0,stoparea:232961,null,1,null,null
+15054,30000059,"Amsterdam, Radioweg",52.353369,4.939456,0,stoparea:2779,null,1,null,null
+14931,30000060,"Amsterdam, Radioweg",52.353631,4.939791,0,stoparea:2779,null,1,null,null
+96480,30009528,"Amsterdam, Reigersbos",52.295585,4.973636,0,stoparea:30797,null,1,null,null
+96481,30009529,"Amsterdam, Reigersbos",52.295661,4.974735,0,stoparea:30797,null,1,null,null
+15626,30000201,"Amsterdam, Reigersbroeck",52.310552,5.000962,0,stoparea:2390,null,0,null,null
+15699,30000202,"Amsterdam, Reigersbroeck",52.311331,4.999811,0,stoparea:2390,null,0,null,null
+14795,30004028,"Amsterdam, Reimerswaalstraat",52.360981,4.794261,0,stoparea:2470,null,1,null,null
+14796,30004029,"Amsterdam, Reimerswaalstraat",52.361159,4.795624,0,stoparea:2470,null,1,null,null
+15542,30005046,"Amsterdam, Rembrandtplein",52.366257,4.896277,0,stoparea:2244,null,1,null,null
+15541,30005047,"Amsterdam, Rembrandtplein",52.366233,4.897026,0,stoparea:2244,null,0,null,null
+15627,30000206,"Amsterdam, Rhenenhof",52.29808,4.970036,0,stoparea:2479,null,1,null,null
+15628,30000207,"Amsterdam, Rhenenhof",52.298379,4.970825,0,stoparea:2479,null,1,null,null
+14648,30006081,"Amsterdam, Rhijnvis Feithstraat",52.359056,4.860391,0,stoparea:2787,null,0,null,null
+14647,30006082,"Amsterdam, Rhijnvis Feithstraat",52.358837,4.859674,0,stoparea:2787,null,0,null,null
+14629,30008238,"Amsterdam, Rietlandpark",52.373218,4.933499,0,stoparea:2715,null,0,null,null
+14628,30008239,"Amsterdam, Rietlandpark",52.37296,4.934133,0,stoparea:2715,null,0,null,null
+15175,30008260,"Amsterdam, Rietlandpark",52.372934,4.934442,0,stoparea:2715,null,0,null,null
+15176,30008261,"Amsterdam, Rietlandpark",52.373007,4.934808,0,stoparea:2715,null,1,null,null
+103915,30007323,"Amsterdam, Rijksmuseum",52.359768,4.883548,0,stoparea:32951,null,0,null,null
+103914,30007324,"Amsterdam, Rijksmuseum",52.360172,4.883323,0,stoparea:32951,null,1,null,null
+939762,57003050,"Amsterdam, Rijksmuseum",52.360145,4.883338,0,null,null,0,null,CXX:57003050
+381813,57003090,"Amsterdam, Rijksmuseum",52.35992,4.883341,0,null,null,1,null,CXX:57003090
+15564,30004133,"Amsterdam, Robert Fruinlaan",52.364036,4.829104,0,stoparea:2876,null,1,null,null
+15488,30004134,"Amsterdam, Robert Fruinlaan",52.363987,4.830103,0,stoparea:2876,null,1,null,null
+14424,30001110,"Amsterdam, Rode Kruisstraat",52.394553,4.928476,0,stoparea:2353,null,1,null,null
+14423,30001111,"Amsterdam, Rode Kruisstraat",52.394878,4.928811,0,stoparea:2353,null,1,null,null
+15021,30007015,"Amsterdam, Roelof Hartplein",52.353147,4.882067,0,stoparea:2740,null,0,null,null
+15019,30007016,"Amsterdam, Roelof Hartplein",52.352746,4.882864,0,stoparea:2740,null,1,null,null
+15020,30007017,"Amsterdam, Roelof Hartplein",52.352635,4.882058,0,stoparea:2740,null,1,null,null
+2220748,30008154,"Amsterdam, Roetersstraat",52.362569,4.91094,0,stoparea:356346,null,1,null,null
+2220751,30008155,"Amsterdam, Roetersstraat",52.362138,4.911136,0,stoparea:356346,null,1,null,null
+1538696,30005035,"Amsterdam, Rokin",52.369394,4.892102,0,stoparea:285521,null,0,null,null
+1538698,30005036,"Amsterdam, Rokin",52.369853,4.892302,0,stoparea:285521,null,1,null,null
+1480229,30009577,"Amsterdam, Rokin",52.369278,4.892294,0,stoparea:285521,null,0,null,null
+1480223,30009578,"Amsterdam, Rokin",52.369737,4.892421,0,stoparea:285521,null,0,null,null
+1377857,30002127,"Amsterdam, Rozengracht",52.372525,4.875841,0,stoparea:2859,null,null,null,null
+15925,30006030,"Amsterdam, Rozengracht",52.371878,4.875907,0,stoparea:2859,null,0,null,null
+2220383,57000020,"Amsterdam, Rozengracht",52.372013,4.87592,0,stoparea:355602,null,0,null,CXX:57000020
+365944,57320020,"Amsterdam, Ruigoord Dorp",52.407668,4.749989,0,stoparea:122142,null,0,null,CXX:57320020
+354043,57320030,"Amsterdam, Ruigoord Dorp",52.406952,4.752292,0,stoparea:122142,null,0,null,CXX:57320030
+1547444,30004042,"Amsterdam, Ruimzicht",52.35951,4.807581,0,stoparea:300278,null,0,null,null
+1541016,30004043,"Amsterdam, Ruimzicht",52.35978,4.807489,0,stoparea:300278,null,0,null,null
+14457,30007311,"Amsterdam, Ruysdaelkade",52.360239,4.886537,0,stoparea:2679,null,null,null,null
+14459,30007312,"Amsterdam, Ruysdaelkade",52.360303,4.886683,0,stoparea:2679,null,null,null,null
+103880,30004026,"Amsterdam, Saaftingestraat",52.360025,4.790017,0,stoparea:32958,null,0,null,null
+103883,30004027,"Amsterdam, Saaftingestraat",52.360401,4.791406,0,stoparea:32958,null,0,null,null
+1544008,30007513,"Amsterdam, Sacharovlaan",52.281796,4.832642,0,stoparea:300913,null,1,A,null
+411169,30003117,"Amsterdam, Sam van Houtenstraat",52.378688,4.797902,0,stoparea:140123,null,0,null,null
+411171,30003118,"Amsterdam, Sam van Houtenstraat",52.379767,4.798005,0,stoparea:140123,null,1,null,null
+14493,30000336,"Amsterdam, Schaarsbergenstraat",52.292656,4.981578,0,stoparea:2474,null,0,null,null
+14494,30000337,"Amsterdam, Schaarsbergenstraat",52.292754,4.981299,0,stoparea:2474,null,0,null,null
+14655,30002342,"Amsterdam, Scharenburg",52.395708,4.779692,0,stoparea:2798,null,0,null,null
+14857,30009072,"Amsterdam, Scheldeplein",52.343845,4.890567,0,stoparea:2466,null,0,null,null
+1692121,30009073,"Amsterdam, Scheldeplein",52.344449,4.891133,0,stoparea:2466,null,1,null,null
+15890,30009070,"Amsterdam, Scheldestraat",52.347022,4.889519,0,stoparea:2467,null,1,null,null
+14860,30009071,"Amsterdam, Scheldestraat",52.347418,4.889617,0,stoparea:2467,null,0,null,null
+14855,30009074,"Amsterdam, Scheldestraat",52.347478,4.891157,0,stoparea:2465,null,0,null,null
+14856,30009075,"Amsterdam, Scheldestraat",52.347264,4.891615,0,stoparea:2465,null,0,null,null
+15764,30001012,"Amsterdam, Schellingw.dijk 175",52.385723,4.958503,0,stoparea:2652,null,1,G-B,null
+15765,30001013,"Amsterdam, Schellingw.dijk 175",52.385643,4.958798,0,stoparea:2652,null,1,G-C,null
+15762,30001010,"Amsterdam, Schellingw.dijk 83",52.386354,4.953958,0,stoparea:2532,null,1,G-L,null
+237994,30001011,"Amsterdam, Schellingw.dijk 83",52.386425,4.953796,0,stoparea:2532,null,1,G-K,null
+14495,30000334,"Amsterdam, Scherpenzeelstraat",52.292767,4.9774,0,stoparea:2475,null,0,null,null
+14496,30000335,"Amsterdam, Scherpenzeelstraat",52.292874,4.977238,0,stoparea:2475,null,0,null,null
+14497,30000332,"Amsterdam, Schoonhovendreef",52.293818,4.974488,0,stoparea:2476,null,0,null,null
+14498,30000333,"Amsterdam, Schoonhovendreef",52.294025,4.974633,0,stoparea:2476,null,1,null,null
+560638,30000554,"Amsterdam, Science Park",52.354472,4.950879,0,stoparea:177382,null,0,null,null
+560639,30000555,"Amsterdam, Science Park",52.354857,4.950332,0,stoparea:177382,null,0,null,null
+652260,30000491,"Amsterdam, Science Park Aer",52.354782,4.952182,0,stoparea:196737,null,1,null,null
+652259,30000492,"Amsterdam, Science Park Aer",52.355207,4.952692,0,stoparea:196737,null,1,null,null
+14588,30000494,"Amsterdam, Science Park Aqua",52.356012,4.954167,0,stoparea:2669,null,0,null,null
+1401153,30000497,"Amsterdam, Science Park Aqua",52.356084,4.954137,0,stoparea:2669,null,0,null,null
+652270,30000506,"Amsterdam, Science Park Terra",52.354346,4.958307,0,stoparea:196743,null,0,null,null
+1533427,30000507,"Amsterdam, Science Park Terra",52.354138,4.957722,0,stoparea:196743,null,1,null,null
+1379603,30002311,"Amsterdam, Seineweg",52.38632,4.818571,0,stoparea:2903,null,0,null,null
+15885,30002312,"Amsterdam, Seineweg",52.386538,4.81892,0,stoparea:2903,null,1,null,null
+14693,30004140,"Amsterdam, Sierplein",52.355031,4.827324,0,stoparea:2925,null,1,null,null
+14692,30004141,"Amsterdam, Sierplein",52.354914,4.827384,0,stoparea:2925,null,1,null,null
+381854,57134050,"Amsterdam, Sierplein",52.355228,4.827233,0,null,null,0,null,CXX:57134050
+363275,57134100,"Amsterdam, Sierplein",52.355346,4.827378,0,null,null,0,null,CXX:57134100
+1690104,30001194,"Amsterdam, Slijperweg",52.399216,4.907681,0,stoparea:339165,null,0,null,null
+15792,30003090,"Amsterdam, Slotermeerlaan",52.37596,4.817279,0,stoparea:2703,null,1,null,null
+15793,30003091,"Amsterdam, Slotermeerlaan",52.37542,4.820766,0,stoparea:2703,null,1,null,null
+1501556,30003176,"Amsterdam, Sloterpark",52.372948,4.818904,0,stoparea:2303,null,0,null,null
+14908,30001156,"Amsterdam, Sneeuwbalstraat",52.39633,4.913957,0,stoparea:2656,null,0,null,null
+1377842,30001158,"Amsterdam, Sneeuwbalstraat",52.396384,4.914133,0,stoparea:2656,null,0,null,null
+15070,30008121,"Amsterdam, Soembawastraat",52.362248,4.943917,0,stoparea:2819,null,1,null,null
+15069,30008124,"Amsterdam, Soembawastraat",52.362147,4.943463,0,stoparea:2819,null,1,null,null
+14542,30002086,"Amsterdam, Solebaystraat",52.385011,4.85594,0,stoparea:2584,null,1,null,null
+506851,30002319,"Amsterdam, Solebaystraat",52.384316,4.855405,0,stoparea:2584,null,1,null,null
+14522,30002060,"Amsterdam, Spaarndammerdijk",52.392607,4.860404,0,stoparea:2517,null,0,null,null
+14523,30002061,"Amsterdam, Spaarndammerdijk",52.392399,4.862037,0,stoparea:2517,null,0,null,null
+1540138,30002103,"Amsterdam, Spaarndammerstraat",52.392162,4.877656,0,stoparea:298112,null,1,null,null
+1532160,30002170,"Amsterdam, Spaarndammerstraat",52.392313,4.877228,0,stoparea:298112,null,1,null,null
+14762,30009518,"Amsterdam, Spaklerweg",52.340184,4.920894,0,stoparea:2331,null,0,null,null
+14761,30009519,"Amsterdam, Spaklerweg",52.339897,4.921029,0,stoparea:2331,null,0,null,null
+15578,30009566,"Amsterdam, Spaklerweg",52.33986,4.920854,0,stoparea:2331,null,0,null,null
+15579,30009567,"Amsterdam, Spaklerweg",52.340239,4.92107,0,stoparea:2331,null,0,null,null
+15520,30001106,"Amsterdam, Spelderholt",52.401273,4.944232,0,stoparea:2914,null,1,null,null
+15081,30001107,"Amsterdam, Spelderholt",52.401093,4.94419,0,stoparea:2914,null,1,null,null
+15003,30006059,"Amsterdam, Spiegelgracht",52.360711,4.887618,0,stoparea:2713,null,1,null,null
+15661,30008080,"Amsterdam, Spiegelgracht",52.361068,4.88691,0,stoparea:2713,null,0,null,null
+648510,57232200,"Amsterdam, Sportpark Sloten",52.341346,4.807466,0,null,null,0,null,CXX:57232200
+648568,57232210,"Amsterdam, Sportpark Sloten",52.341423,4.806761,0,null,null,0,null,CXX:57232210
+15756,30001126,"Amsterdam, Spreeuwenpark",52.384512,4.914127,0,stoparea:2626,null,0,null,null
+15757,30001127,"Amsterdam, Spreeuwenpark",52.385204,4.914296,0,stoparea:2626,null,1,null,null
+15305,30005061,"Amsterdam, Spui",52.369329,4.889327,0,stoparea:2557,null,0,null,null
+1377855,30005062,"Amsterdam, Spui",52.369095,4.889257,0,stoparea:2557,null,0,null,null
+14421,30009100,"Amsterdam, Stadhouderskade",52.358477,4.899182,0,stoparea:2346,null,1,null,null
+15818,30007087,"Amsterdam, Stadionweg",52.347148,4.876881,0,stoparea:2751,null,0,null,null
+15816,30007088,"Amsterdam, Stadionweg",52.346653,4.876872,0,stoparea:2751,null,0,null,null
+15199,30001175,"Amsterdam, Staghof",52.413701,4.922531,0,stoparea:2321,null,0,null,null
+15198,30001176,"Amsterdam, Staghof",52.413406,4.922946,0,stoparea:2321,null,0,null,null
+14934,30001222,"Amsterdam, Standerdmolen",52.416202,4.892181,0,stoparea:2591,null,0,null,null
+14933,30001223,"Amsterdam, Standerdmolen",52.416306,4.893268,0,stoparea:2591,null,0,null,null
+417703,57130100,"Amsterdam, Stat. De Vlugtlaan",52.378954,4.83836,0,stoparea:123172,null,1,null,CXX:57130100
+356143,57130150,"Amsterdam, Stat. De Vlugtlaan",52.378772,4.837877,0,stoparea:123172,null,1,null,CXX:57130150
+14619,30001277,"Amsterdam, Statenjachtstraat",52.407905,4.913642,0,stoparea:2924,null,0,null,null
+14612,30001278,"Amsterdam, Statenjachtstraat",52.407905,4.913804,0,stoparea:2924,null,0,null,null
+1538644,30000559,"Amsterdam, Station Bijlmer ArenA",52.311193,4.947521,0,stoparea:197939,null,1,H,null
+103176,30000560,"Amsterdam, Station Bijlmer ArenA",52.311255,4.947476,0,stoparea:28103,null,null,null,null
+1240728,30000561,"Amsterdam, Station Bijlmer ArenA",52.311327,4.947417,0,stoparea:28103,null,null,null,null
+1379028,30000562,"Amsterdam, Station Bijlmer ArenA",52.311381,4.947358,0,stoparea:28103,null,0,null,null
+1928477,30000566,"Amsterdam, Station Bijlmer ArenA",52.311658,4.947091,0,stoparea:344469,null,0,null,null
+1535303,30000568,"Amsterdam, Station Bijlmer ArenA",52.311121,4.947624,0,stoparea:28103,null,0,null,null
+96476,30009522,"Amsterdam, Station Bijlmer ArenA",52.312611,4.946935,0,stoparea:28103,null,1,null,null
+96477,30009523,"Amsterdam, Station Bijlmer ArenA",52.311928,4.947132,0,stoparea:28103,null,1,null,null
+1928634,57250000,"Amsterdam, Station Bijlmer ArenA",52.311435,4.947386,0,stoparea:338631,null,1,A,CXX:57250000
+936628,57250500,"Amsterdam, Station Bijlmer ArenA",52.311658,4.947105,0,stoparea:197939,null,1,A,null
+2032091,57250500,"Amsterdam, Station Bijlmer ArenA",52.311587,4.947282,0,stoparea:338631,null,1,B,CXX:57250500
+1657080,57250510,"Amsterdam, Station Bijlmer ArenA",52.31148,4.947357,0,stoparea:338631,null,1,C,CXX:57250510
+2219531,57250520,"Amsterdam, Station Bijlmer ArenA",52.311282,4.947505,0,stoparea:338631,null,1,H,CXX:57250520
+1236874,57250520,"Amsterdam, Station Bijlmer ArenA",52.311139,4.947565,0,stoparea:197939,null,0,J,null
+1927005,57250530,"Amsterdam, Station Bijlmer ArenA",52.311489,4.947342,0,stoparea:338631,null,1,B,CXX:57250530
+2180952,57250563,"Amsterdam, Station Bijlmer ArenA",52.311471,4.947371,0,stoparea:338631,null,1,D,CXX:57250563
+2220510,57250590,"Amsterdam, Station Bijlmer ArenA",52.311274,4.94752,0,stoparea:338631,null,1,K,CXX:57250590
+2218245,30000244,"Amsterdam, Station Diemen Zuid",52.330788,4.955322,0,stoparea:2279,null,1,null,null
+2218246,30000245,"Amsterdam, Station Diemen Zuid",52.330722,4.954619,0,stoparea:2279,null,1,null,null
+547561,57252550,"Amsterdam, Station Gaasperplas",52.31103,4.985091,0,stoparea:121755,null,0,null,CXX:57252550
+1861776,30000116,"Amsterdam, Station Ganzenhoef",52.322375,4.972727,0,stoparea:343182,null,0,null,null
+103168,30000199,"Amsterdam, Station Ganzenhoef",52.323087,4.973292,0,stoparea:28772,null,null,A4,null
+103170,30000200,"Amsterdam, Station Ganzenhoef",52.322976,4.975082,0,stoparea:28772,null,0,null,null
+96444,30009546,"Amsterdam, Station Ganzenhoef",52.323984,4.972858,0,stoparea:28772,null,0,null,null
+96445,30009547,"Amsterdam, Station Ganzenhoef",52.323311,4.973231,0,stoparea:28772,null,0,null,null
+419566,57252180,"Amsterdam, Station Ganzenhoef",52.323033,4.973336,0,stoparea:121606,null,1,null,CXX:57252180
+103926,30000345,"Amsterdam, Station Gein",52.296249,4.98911,0,stoparea:30800,null,0,null,null
+103171,30000346,"Amsterdam, Station Gein",52.296439,4.989357,0,stoparea:30800,null,1,null,null
+103167,30000205,"Amsterdam, Station Holendrecht",52.297168,4.958654,0,stoparea:28102,null,0,null,null
+103919,30000211,"Amsterdam, Station Holendrecht",52.29707,4.958889,0,stoparea:28102,null,1,null,null
+96478,30009526,"Amsterdam, Station Holendrecht",52.298403,4.959873,0,stoparea:28102,null,0,null,null
+96479,30009527,"Amsterdam, Station Holendrecht",52.297802,4.960216,0,stoparea:28102,null,1,null,null
+1237117,57250440,"Amsterdam, Station Holendrecht",52.297133,4.959123,0,stoparea:197942,null,0,E,null
+1894980,57252470,"Amsterdam, Station Holendrecht",52.297115,4.95905,0,stoparea:197942,null,1,D,null
+1379029,30004123,"Amsterdam, Station Lelylaan",52.356683,4.834554,0,stoparea:26648,null,0,null,null
+745048,30004124,"Amsterdam, Station Lelylaan",52.356692,4.834716,0,stoparea:26648,null,1,null,null
+103852,30004195,"Amsterdam, Station Lelylaan",52.357878,4.834598,0,stoparea:26648,null,1,null,null
+103851,30004196,"Amsterdam, Station Lelylaan",52.357901,4.83382,0,stoparea:26648,null,0,null,null
+96456,30004322,"Amsterdam, Station Lelylaan",52.358174,4.834462,0,stoparea:26648,null,0,null,null
+96455,30004323,"Amsterdam, Station Lelylaan",52.357661,4.834263,0,stoparea:26648,null,0,null,null
+1999215,57132700,"Amsterdam, Station Lelylaan",52.356718,4.834392,0,stoparea:123389,null,1,A,CXX:57132700
+1999247,57132710,"Amsterdam, Station Lelylaan",52.356709,4.834525,0,stoparea:123389,null,1,A,CXX:57132710
+1522994,30001305,"Amsterdam, Station Noord",52.402638,4.932155,0,stoparea:285520,null,1,null,null
+2031493,30001307,"Amsterdam, Station Noord",52.402602,4.932096,0,stoparea:285520,null,1,null,null
+1522985,30001314,"Amsterdam, Station Noord",52.402077,4.933424,0,stoparea:285520,null,null,null,null
+1525666,30001315,"Amsterdam, Station Noord",52.402059,4.933395,0,stoparea:285520,null,0,null,null
+1541106,30001316,"Amsterdam, Station Noord",52.402041,4.933366,0,stoparea:285520,null,0,null,null
+1542940,57110000,"Amsterdam, Station Noord",52.402932,4.931373,0,stoparea:295977,null,null,A1,CXX:57110000
+1542939,57110006,"Amsterdam, Station Noord",52.402431,4.931995,0,stoparea:295977,null,null,A6,CXX:57110006
+2219496,57111006,"Amsterdam, Station Noord",52.402449,4.931936,0,stoparea:295977,null,null,A6,CXX:57111006
+1727027,57111010,"Amsterdam, Station Noord",52.402638,4.932155,0,stoparea:340229,null,null,A1,null
+1726992,57111011,"Amsterdam, Station Noord",52.402638,4.932155,0,stoparea:340229,null,null,A1,null
+1726989,57111012,"Amsterdam, Station Noord",52.402593,4.932096,0,stoparea:340229,null,null,A2,null
+1726993,57111013,"Amsterdam, Station Noord",52.402557,4.932067,0,stoparea:340229,null,null,A3,null
+1726990,57111014,"Amsterdam, Station Noord",52.402521,4.931994,0,stoparea:340229,null,null,A5,null
+1726991,57111015,"Amsterdam, Station Noord",52.402485,4.931936,0,stoparea:340229,null,null,A4,null
+1726994,57111017,"Amsterdam, Station Noord",52.402377,4.931834,0,stoparea:340229,null,null,A7,null
+1727013,57111034,"Amsterdam, Station Noord",52.401924,4.933235,0,stoparea:340229,null,null,B4,null
+1727014,57111035,"Amsterdam, Station Noord",52.401887,4.933191,0,stoparea:340229,null,null,B5,null
+15900,30007260,"Amsterdam, Station RAI",52.337087,4.890775,0,stoparea:2936,null,1,null,null
+1547425,30007261,"Amsterdam, Station RAI",52.33696,4.890688,0,stoparea:2936,null,0,null,null
+15917,30007404,"Amsterdam, Station RAI",52.337397,4.889817,0,stoparea:2936,null,null,A1,null
+15916,30007405,"Amsterdam, Station RAI",52.33788,4.88921,0,stoparea:2936,null,null,A3,null
+103163,30000235,"Amsterdam, Station Reigersbos",52.296323,4.973746,0,stoparea:30797,null,1,null,null
+103856,30000331,"Amsterdam, Station Reigersbos",52.297373,4.973502,0,stoparea:30797,null,1,null,null
+15746,30000529,"Amsterdam, Station Science Park",52.352304,4.947818,0,stoparea:2613,null,0,null,null
+15838,30000538,"Amsterdam, Station Science Park",52.352395,4.948081,0,stoparea:2613,null,1,null,null
+14852,30002294,"Amsterdam, Station Sloterdijk",52.389329,4.838995,0,stoparea:2872,null,0,null,null
+14851,30002295,"Amsterdam, Station Sloterdijk",52.388806,4.838781,0,stoparea:2872,null,0,null,null
+14863,30002360,"Amsterdam, Station Sloterdijk",52.388561,4.83827,0,stoparea:2872,null,0,null,null
+1378360,30002361,"Amsterdam, Station Sloterdijk",52.388333,4.839316,0,stoparea:2872,null,1,null,null
+14866,30002365,"Amsterdam, Station Sloterdijk",52.388222,4.83873,0,stoparea:2872,null,null,null,null
+14865,30002366,"Amsterdam, Station Sloterdijk",52.388132,4.838731,0,stoparea:2872,null,null,null,null
+14864,30002367,"Amsterdam, Station Sloterdijk",52.388015,4.838762,0,stoparea:2872,null,1,null,null
+2031495,30002368,"Amsterdam, Station Sloterdijk",52.387935,4.838777,0,stoparea:2872,null,1,null,null
+1136391,30002370,"Amsterdam, Station Sloterdijk",52.38771,4.838795,0,stoparea:2872,null,0,null,null
+2031496,30002371,"Amsterdam, Station Sloterdijk",52.387485,4.838827,0,stoparea:2872,null,0,null,null
+1928681,57120070,"Amsterdam, Station Sloterdijk",52.387836,4.838779,0,stoparea:299926,null,1,G,null
+359584,57125010,"Amsterdam, Station Sloterdijk",52.388447,4.838727,0,stoparea:121684,null,1,A,CXX:57125010
+2220576,57125020,"Amsterdam, Station Sloterdijk",52.388313,4.839066,0,stoparea:121684,null,1,B,CXX:57125020
+2219242,57125030,"Amsterdam, Station Sloterdijk",52.388277,4.839038,0,stoparea:121684,null,1,B,CXX:57125030
+1134725,57225021,"Amsterdam, Station Sloterdijk",52.388402,4.838801,0,stoparea:121684,null,1,A,CXX:57225021
+15058,30000548,"Amsterdam, Station Spaklerweg",52.337843,4.921975,0,stoparea:2783,null,1,null,null
+15057,30000549,"Amsterdam, Station Spaklerweg",52.337752,4.921756,0,stoparea:2783,null,0,null,null
+1540142,30007190,"Amsterdam, Station Zuid",52.340896,4.87352,0,stoparea:285518,null,0,null,null
+1997271,30007191,"Amsterdam, Station Zuid",52.340724,4.873404,0,stoparea:285518,null,1,null,null
+1540146,30007193,"Amsterdam, Station Zuid",52.340886,4.873344,0,stoparea:285518,null,0,null,null
+1540145,30007266,"Amsterdam, Station Zuid",52.340703,4.872524,0,stoparea:285518,null,0,null,null
+1539944,30007268,"Amsterdam, Station Zuid",52.340818,4.874283,0,stoparea:285518,null,0,null,null
+1539946,30007269,"Amsterdam, Station Zuid",52.340825,4.87374,0,stoparea:285518,null,0,null,null
+238001,30007409,"Amsterdam, Station Zuid",52.339315,4.873758,0,stoparea:78049,null,null,B1,null
+238000,30009562,"Amsterdam, Station Zuid",52.339078,4.875096,0,stoparea:78049,null,0,null,null
+1480225,30009585,"Amsterdam, Station Zuid",52.339254,4.874111,0,stoparea:285518,null,1,null,null
+1542966,57142220,"Amsterdam, Station Zuid",52.340978,4.873856,0,stoparea:122716,null,0,F,CXX:57142220
+1691212,57142221,"Amsterdam, Station Zuid",52.340884,4.872859,0,stoparea:122716,null,1,E1,CXX:57142221
+1542968,57142224,"Amsterdam, Station Zuid",52.34097,4.874032,0,stoparea:122716,null,0,F,CXX:57142224
+1691213,57142225,"Amsterdam, Station Zuid",52.340874,4.872757,0,stoparea:122716,null,1,E1,CXX:57142225
+15368,30000570,"Amsterdam, Stationsweg",52.324173,4.931404,0,stoparea:2676,null,0,null,null
+15369,30000571,"Amsterdam, Stationsweg",52.324244,4.93111,0,stoparea:2676,null,1,null,null
+652252,30000338,"Amsterdam, Staverdenplein",52.292824,4.986018,0,stoparea:196729,null,1,null,null
+652253,30000339,"Amsterdam, Staverdenplein",52.292895,4.985842,0,stoparea:196729,null,1,null,null
+14945,30008244,"Amsterdam, Steigereiland",52.362802,4.980835,0,stoparea:2610,null,0,null,null
+14946,30008245,"Amsterdam, Steigereiland",52.363133,4.980127,0,stoparea:2610,null,0,null,null
+15177,30008268,"Amsterdam, Steigereiland",52.363509,4.979933,0,stoparea:2289,null,1,null,null
+15178,30008269,"Amsterdam, Steigereiland",52.362544,4.981454,0,stoparea:2289,null,1,null,null
+547260,57114550,"Amsterdam, Stenendokweg",52.407447,4.891926,0,null,null,0,null,CXX:57114550
+1999234,57114560,"Amsterdam, Stenendokweg",52.4063,4.892703,0,null,null,1,null,CXX:57114560
+15139,30009520,"Amsterdam, Strandvliet",52.318665,4.94136,0,stoparea:2932,null,0,null,null
+15140,30009521,"Amsterdam, Strandvliet",52.318253,4.941526,0,stoparea:2932,null,1,null,null
+15569,30006001,"Amsterdam, Surinameplein",52.358068,4.85252,0,stoparea:2290,null,1,null,null
+15568,30006002,"Amsterdam, Surinameplein",52.35807,4.850905,0,stoparea:2290,null,1,null,null
+15565,30006008,"Amsterdam, Surinameplein",52.358138,4.852093,0,stoparea:2290,null,1,null,null
+15462,30006019,"Amsterdam, Ten Katestraat",52.365918,4.867372,0,stoparea:2797,null,0,null,null
+15780,30006020,"Amsterdam, Ten Katestraat",52.366036,4.867737,0,stoparea:2797,null,null,null,null
+15089,30001092,"Amsterdam, Th. Weeversweg",52.398254,4.94438,0,stoparea:2838,null,1,null,null
+15090,30001093,"Amsterdam, Th. Weeversweg",52.398218,4.944498,0,stoparea:2838,null,1,null,null
+15285,30001167,"Amsterdam, Tjalkstraat",52.404924,4.910074,0,stoparea:2525,null,0,null,null
+15286,30001168,"Amsterdam, Tjalkstraat",52.40572,4.911167,0,stoparea:2525,null,0,null,null
+1690103,30008221,"Amsterdam, Tosaristraat",52.379749,4.92346,0,stoparea:339173,null,0,null,null
+1693305,30008229,"Amsterdam, Tosaristraat",52.379487,4.923095,0,stoparea:339173,null,0,null,null
+1379601,30003106,"Amsterdam, Troelstralaan",52.374715,4.80145,0,stoparea:2811,null,1,null,null
+224266,30003111,"Amsterdam, Troelstralaan",52.374978,4.802033,0,stoparea:2811,null,1,null,null
+652266,30000150,"Amsterdam, Tulastraat",52.31994,4.965357,0,stoparea:196740,null,0,null,null
+652267,30000151,"Amsterdam, Tulastraat",52.319852,4.965842,0,stoparea:196740,null,0,null,null
+1524124,30004036,"Amsterdam, Tussen Meer",52.356659,4.790737,0,stoparea:296188,null,0,null,null
+1524123,30004037,"Amsterdam, Tussen Meer",52.357009,4.790732,0,stoparea:296193,null,0,null,null
+15201,30001173,"Amsterdam, Tussendek",52.412528,4.919237,0,stoparea:2323,null,1,null,null
+1377870,30001174,"Amsterdam, Tussendek",52.413134,4.919965,0,stoparea:2323,null,1,null,null
+521113,30007168,"Amsterdam, V. d. Boechorststraat",52.323613,4.861369,0,stoparea:165451,null,1,null,null
+15099,30004055,"Amsterdam, V. M. Broekmanstraat",52.3568,4.821459,0,stoparea:2844,null,0,null,null
+14557,30004056,"Amsterdam, V. M. Broekmanstraat",52.356459,4.82139,0,stoparea:2844,null,0,null,null
+15115,30002141,"Amsterdam, V.d. Hoopstraat",52.383394,4.870369,0,stoparea:2867,null,1,null,null
+1379030,30002142,"Amsterdam, V.d. Hoopstraat",52.383349,4.870311,0,stoparea:2867,null,0,null,null
+15191,30008131,"Amsterdam, Valentijnkade",52.358838,4.940736,0,stoparea:2310,null,1,null,null
+15192,30008132,"Amsterdam, Valentijnkade",52.359,4.940793,0,stoparea:2310,null,0,null,null
+15258,30007031,"Amsterdam, Valeriusplein",52.353328,4.863747,0,stoparea:2477,null,null,null,null
+15259,30007032,"Amsterdam, Valeriusplein",52.353182,4.863264,0,stoparea:2477,null,0,null,null
+1378363,30001124,"Amsterdam, Valkenweg",52.383097,4.913276,0,stoparea:2625,null,1,null,null
+15755,30001125,"Amsterdam, Valkenweg",52.383045,4.913775,0,stoparea:2625,null,0,null,null
+14901,30007002,"Amsterdam, Van Baerlestraat",52.358398,4.878367,0,stoparea:2547,null,1,null,null
+14900,30007003,"Amsterdam, Van Baerlestraat",52.358837,4.878083,0,stoparea:2547,null,1,null,null
+15402,30007321,"Amsterdam, Van Baerlestraat",52.358275,4.878955,0,stoparea:2547,null,null,null,null
+14750,30007322,"Amsterdam, Van Baerlestraat",52.35844,4.879717,0,stoparea:2547,null,1,null,null
+15452,30002139,"Amsterdam, Van Beuningenplein",52.381375,4.871127,0,stoparea:2772,null,1,null,null
+15116,30002140,"Amsterdam, Van Beuningenplein",52.381222,4.871114,0,stoparea:2772,null,1,null,null
+103928,30007165,"Amsterdam, Van Boshuizenstraat",52.324041,4.868815,0,stoparea:26650,null,0,null,null
+1997284,30007418,"Amsterdam, Van Boshuizenstraat",52.325444,4.869019,0,stoparea:26650,null,1,null,null
+103185,30007419,"Amsterdam, Van Boshuizenstraat",52.324878,4.868967,0,stoparea:26650,null,1,null,null
+2220234,57142280,"Amsterdam, van Boshuizenstraat",52.324086,4.868771,0,stoparea:356159,null,0,null,CXX:57142280
+96468,30009516,"Amsterdam, Van der Madeweg",52.329857,4.930172,0,stoparea:30795,null,0,null,null
+96467,30009517,"Amsterdam, Van der Madeweg",52.329454,4.930484,0,stoparea:30795,null,1,null,null
+96457,30009564,"Amsterdam, Van der Madeweg",52.329903,4.930333,0,stoparea:30795,null,0,null,null
+96458,30009565,"Amsterdam, Van der Madeweg",52.3294,4.930323,0,stoparea:30795,null,0,null,null
+15112,30002145,"Amsterdam, Van Hallstraat",52.384183,4.869904,0,stoparea:2867,null,0,null,null
+14452,30002320,"Amsterdam, Van Hallstraat",52.38527,4.86782,0,stoparea:2559,null,1,null,null
+14451,30002321,"Amsterdam, Van Hallstraat",52.385382,4.868642,0,stoparea:2559,null,1,null,null
+1060386,30007157,"Amsterdam, Van Heenvlietlaan",52.324938,4.883019,0,stoparea:73002,null,1,null,null
+224290,30007158,"Amsterdam, Van Heenvlietlaan",52.324859,4.883342,0,stoparea:73002,null,1,null,null
+1795405,57111220,"Amsterdam, Van Heijningestraat",52.422101,4.899378,0,stoparea:342133,null,1,null,null
+1795280,57111230,"Amsterdam, Van Heijningestraat",52.422067,4.89976,0,stoparea:342133,null,1,null,null
+15111,30002146,"Amsterdam, Van L.Stirumstraat",52.385444,4.874766,0,stoparea:2866,null,null,null,null
+15110,30002147,"Amsterdam, Van L.Stirumstraat",52.385482,4.875177,0,stoparea:2866,null,1,null,null
+15109,30002148,"Amsterdam, Van L.Stirumstraat",52.384269,4.875176,0,stoparea:2865,null,1,null,null
+15108,30002149,"Amsterdam, Van L.Stirumstraat",52.384429,4.874895,0,stoparea:2865,null,1,null,null
+15600,30007170,"Amsterdam, Van Nijenrodeweg",52.32823,4.86906,0,stoparea:2341,null,0,null,null
+15599,30007171,"Amsterdam, Van Nijenrodeweg",52.327357,4.868659,0,stoparea:2341,null,0,null,null
+356917,57142340,"Amsterdam, Van Nijenrodeweg",52.326724,4.857606,0,null,null,1,null,CXX:57142340
+363330,57142350,"Amsterdam, Van Nijenrodeweg",52.327082,4.857411,0,null,null,1,null,CXX:57142350
+15341,30009096,"Amsterdam, Van Woustraat",52.354954,4.901628,0,stoparea:2614,null,0,null,null
+15342,30009097,"Amsterdam, Van Woustraat",52.354682,4.900838,0,stoparea:2614,null,1,null,null
+15120,30009185,"Amsterdam, Van Woustraat",52.35785,4.899746,0,stoparea:2346,null,0,null,null
+15118,30009187,"Amsterdam, Van Woustraat",52.357985,4.899892,0,stoparea:2346,null,0,null,null
+15086,30008058,"Amsterdam, Veelaan",52.368307,4.939613,0,stoparea:2834,null,0,null,null
+330892,30008059,"Amsterdam, Veelaan",52.367758,4.939443,0,stoparea:2834,null,0,null,null
+15152,30000421,"Amsterdam, Veenendaalplein",52.30147,4.980853,0,stoparea:2259,null,0,null,null
+15150,30000422,"Amsterdam, Veenendaalplein",52.301559,4.980412,0,stoparea:2259,null,0,null,null
+14943,30008246,"Amsterdam, Vennepluimstraat",52.357489,4.991041,0,stoparea:2608,null,null,null,null
+14944,30008247,"Amsterdam, Vennepluimstraat",52.357695,4.99057,0,stoparea:2608,null,1,null,null
+15188,30008281,"Amsterdam, Vennepluimstraat",52.35714,4.991397,0,stoparea:2608,null,1,null,null
+15187,30008282,"Amsterdam, Vennepluimstraat",52.358008,4.990332,0,stoparea:2608,null,1,null,null
+96448,30009540,"Amsterdam, Venserpolder",52.326727,4.946047,0,stoparea:30801,null,1,null,null
+96449,30009541,"Amsterdam, Venserpolder",52.326792,4.946647,0,stoparea:30801,null,1,null,null
+2220422,57252810,"Amsterdam, Ventweg",52.309673,4.930658,0,stoparea:356032,null,0,null,CXX:57252810
+2218995,57252820,"Amsterdam, Ventweg",52.309618,4.930395,0,stoparea:356032,null,0,null,CXX:57252820
+15354,30009544,"Amsterdam, Verrijn Stuartweg",52.328815,4.966549,0,stoparea:2471,null,1,null,null
+15355,30009545,"Amsterdam, Verrijn Stuartweg",52.328439,4.966934,0,stoparea:2471,null,0,null,null
+408780,30009048,"Amsterdam, Victorieplein",52.346592,4.905109,0,stoparea:136661,null,0,null,null
+408779,30009049,"Amsterdam, Victorieplein",52.34637,4.905699,0,stoparea:136661,null,0,null,null
+1377863,30009050,"Amsterdam, Victorieplein",52.346996,4.904988,0,stoparea:136661,null,1,null,null
+401224,30009051,"Amsterdam, Victorieplein",52.346454,4.906534,0,stoparea:136661,null,1,null,null
+1541495,30008072,"Amsterdam, Vijzelgracht",52.359533,4.891595,0,stoparea:285516,null,1,null,null
+1541494,30008073,"Amsterdam, Vijzelgracht",52.359463,4.892271,0,stoparea:285516,null,1,null,null
+1480234,30009579,"Amsterdam, Vijzelgracht",52.359799,4.890726,0,stoparea:285516,null,0,null,null
+1480222,30009580,"Amsterdam, Vijzelgracht",52.360303,4.890955,0,stoparea:285516,null,0,null,null
+1530738,30001005,"Amsterdam, Volendammerweg",52.39306,4.956802,0,stoparea:78043,null,0,null,null
+1530743,30001443,"Amsterdam, Volendammerweg",52.392557,4.956968,0,stoparea:78043,null,0,null,null
+15770,30001018,"Amsterdam, Volkstuin",52.379435,4.974455,0,stoparea:2552,null,1,G-G,null
+15771,30001019,"Amsterdam, Volkstuin",52.379757,4.974041,0,stoparea:2552,null,0,null,null
+1537001,30001324,"Amsterdam, Volkstuin",52.386604,4.968704,0,stoparea:2281,null,1,null,null
+14382,30001325,"Amsterdam, Volkstuin",52.386775,4.968717,0,stoparea:2281,null,1,null,null
+15203,30001171,"Amsterdam, Voordek",52.410488,4.916774,0,stoparea:2324,null,0,null,null
+15202,30001172,"Amsterdam, Voordek",52.411002,4.91743,0,stoparea:2324,null,0,null,null
+680575,30001382,"Amsterdam, Vorticellaweg",52.419755,4.908047,0,stoparea:78045,null,1,null,null
+642318,57112410,"Amsterdam, Vorticellaweg",52.419745,4.90793,0,stoparea:123187,null,0,null,CXX:57112410
+680672,57112410,"Amsterdam, Vorticellaweg",52.419754,4.907944,0,stoparea:2170,null,0,null,null
+680668,57112800,"Amsterdam, Vorticellaweg",52.419942,4.907751,0,stoparea:2170,null,0,null,null
+1420533,57112800,"Amsterdam, Vorticellaweg",52.419942,4.907678,0,stoparea:123187,null,0,null,CXX:57112800
+15482,30002088,"Amsterdam, Vredenhof",52.385199,4.863782,0,stoparea:2580,null,1,null,null
+15483,30002089,"Amsterdam, Vredenhof",52.385273,4.862386,0,stoparea:2580,null,0,null,null
+2066276,57142030,"Amsterdam, VU MC Hoofdingang",52.335337,4.860262,0,stoparea:122415,null,1,null,CXX:57142030
+2066271,57143070,"Amsterdam, VU MC Hoofdingang",52.33489,4.860766,0,stoparea:122415,null,1,null,CXX:57143070
+939615,57142590,"Amsterdam, VU Medisch Centrum",52.334667,4.857262,0,stoparea:123228,null,1,null,CXX:57142590
+364459,57142600,"Amsterdam, VU Medisch Centrum",52.334866,4.857465,0,stoparea:123228,null,0,null,CXX:57142600
+1999087,30007303,"Amsterdam, VUmc",52.335151,4.860968,0,stoparea:345962,null,1,E,null
+1999086,30007350,"Amsterdam, VUmc",52.335192,4.860058,0,stoparea:345962,null,1,null,null
+1134040,30007136,"Amsterdam, VUmc/Boechorststraat",52.334472,4.861856,0,stoparea:232958,null,0,null,null
+1689987,30000343,"Amsterdam, W. Gertenbachstraat",52.298631,4.989147,0,stoparea:196739,null,1,null,null
+652271,30000344,"Amsterdam, W. Gertenbachstraat",52.298883,4.989291,0,stoparea:196739,null,1,null,null
+15453,30003197,"Amsterdam, W. Schoutenstraat",52.36737,4.852378,0,stoparea:2790,null,0,null,null
+15461,30003198,"Amsterdam, W. Schoutenstraat",52.36702,4.852588,0,stoparea:2790,null,1,null,null
+1762150,30007196,"Amsterdam, W. van Weldammelaan",52.335042,4.876947,0,stoparea:341525,null,0,null,null
+14743,30009060,"Amsterdam, Waalstraat",52.344625,4.901036,0,stoparea:2429,null,1,null,null
+1692120,30009061,"Amsterdam, Waalstraat",52.344426,4.900598,0,stoparea:2429,null,0,null,null
+14744,30009063,"Amsterdam, Waalstraat",52.344653,4.901315,0,stoparea:2429,null,0,null,null
+15237,30009082,"Amsterdam, Waalstraat",52.346561,4.899738,0,stoparea:2413,null,1,null,null
+15236,30009083,"Amsterdam, Waalstraat",52.346806,4.900323,0,stoparea:2413,null,1,null,null
+14427,30001112,"Amsterdam, Waddenweg",52.392633,4.926954,0,stoparea:2864,null,1,null,null
+1537005,30001097,"Amsterdam, Waddenwegviaduct",52.400013,4.934327,0,stoparea:295943,null,1,null,null
+1928476,30001098,"Amsterdam, Waddenwegviaduct",52.399952,4.934592,0,stoparea:295943,null,1,null,null
+2031494,30001099,"Amsterdam, Waddenwegviaduct",52.399788,4.93405,0,stoparea:295943,null,0,null,null
+15265,30000419,"Amsterdam, Wamelstraat",52.301487,4.985911,0,stoparea:2488,null,0,null,null
+15151,30000420,"Amsterdam, Wamelstraat",52.301576,4.985558,0,stoparea:2488,null,0,null,null
+408722,30001071,"Amsterdam, Waterlandplein",52.391836,4.953934,0,stoparea:2318,null,null,null,null
+408721,30001076,"Amsterdam, Waterlandplein",52.392738,4.952471,0,stoparea:2318,null,null,null,null
+322632,30005051,"Amsterdam, Waterlooplein",52.368708,4.904399,0,stoparea:30798,null,1,null,null
+1378343,30005052,"Amsterdam, Waterlooplein",52.367271,4.902345,0,stoparea:30798,null,1,null,null
+99074,30005053,"Amsterdam, Waterlooplein",52.366954,4.901952,0,stoparea:30798,null,1,null,null
+1928478,30005054,"Amsterdam, Waterlooplein",52.368674,4.904767,0,stoparea:30798,null,1,null,null
+103869,30005152,"Amsterdam, Waterlooplein",52.367605,4.902825,0,stoparea:30798,null,0,null,null
+96471,30009508,"Amsterdam, Waterlooplein",52.367004,4.903052,0,stoparea:30798,null,1,null,null
+96472,30009509,"Amsterdam, Waterlooplein",52.366977,4.902979,0,stoparea:30798,null,1,null,null
+1134038,30007148,"Amsterdam, Weerdestein",52.332142,4.888233,0,stoparea:232956,null,1,null,null
+2220753,30008045,"Amsterdam, Weesperplein",52.361723,4.910744,0,stoparea:30794,null,1,null,null
+103923,30008053,"Amsterdam, Weesperplein",52.360879,4.906554,0,stoparea:30794,null,1,null,null
+103925,30008054,"Amsterdam, Weesperplein",52.361457,4.909411,0,stoparea:30794,null,1,null,null
+1541496,30008174,"Amsterdam, Weesperplein",52.362078,4.90729,0,stoparea:30794,null,1,null,null
+96464,30009510,"Amsterdam, Weesperplein",52.361227,4.908033,0,stoparea:30794,null,1,null,null
+96463,30009511,"Amsterdam, Weesperplein",52.361199,4.907872,0,stoparea:30794,null,0,null,null
+676330,57252540,"Amsterdam, Weltevreden",52.287024,4.96224,0,stoparea:197941,null,0,null,null
+673913,57352140,"Amsterdam, Weltevreden",52.286262,4.962584,0,stoparea:197941,null,0,null,null
+15857,30001060,"Amsterdam, Wervershoofstraat",52.392496,4.940383,0,stoparea:2824,null,0,null,null
+15856,30001061,"Amsterdam, Wervershoofstraat",52.392708,4.939543,0,stoparea:2824,null,1,null,null
+322620,30005090,"Amsterdam, Westerdoksdijk",52.385514,4.893317,0,stoparea:2736,null,1,null,null
+1999088,30005091,"Amsterdam, Westerdoksdijk",52.385064,4.893117,0,stoparea:2736,null,0,null,null
+14509,30005073,"Amsterdam, Westermarkt",52.374,4.884532,0,stoparea:2747,null,1,null,null
+14514,30005074,"Amsterdam, Westermarkt",52.374077,4.883547,0,stoparea:2747,null,1,null,null
+365890,57002570,"Amsterdam, Westermarkt",52.374122,4.883605,0,null,null,0,null,CXX:57002570
+381807,57002580,"Amsterdam, Westermarkt",52.373981,4.884223,0,null,null,1,null,CXX:57002580
+15179,30004109,"Amsterdam, Westlandgracht",52.351599,4.845039,0,stoparea:2292,null,1,null,null
+15273,30004110,"Amsterdam, Westlandgracht",52.351567,4.845817,0,stoparea:2292,null,1,null,null
+14508,30004305,"Amsterdam, Westmallepad",52.347501,4.805287,0,stoparea:2499,null,1,null,null
+1524115,30004306,"Amsterdam, Westmallepad",52.347042,4.805352,0,stoparea:2499,null,1,null,null
+14556,30002339,"Amsterdam, Westpoortweg",52.397575,4.795226,0,stoparea:2306,null,0,null,null
+14654,30002344,"Amsterdam, Westpoortweg",52.397031,4.794293,0,stoparea:2306,null,1,null,null
+353834,57221230,"Amsterdam, Westpoortweg",52.397576,4.7953,0,stoparea:121700,null,1,null,CXX:57221230
+359777,57221240,"Amsterdam, Westpoortweg",52.397926,4.793429,0,stoparea:121700,null,0,null,CXX:57221240
+1962990,30008074,"Amsterdam, Weteringcircuit",52.359346,4.892184,0,stoparea:285516,null,0,null,null
+15873,30009020,"Amsterdam, Wibautstraat",52.357259,4.90928,0,stoparea:2862,null,null,null,null
+15876,30009027,"Amsterdam, Wibautstraat",52.357379,4.909866,0,stoparea:2862,null,1,null,null
+1538648,30009180,"Amsterdam, Wibautstraat",52.355005,4.91177,0,stoparea:2336,null,1,null,null
+1538649,30009181,"Amsterdam, Wibautstraat",52.355676,4.911117,0,stoparea:2336,null,0,null,null
+14766,30009512,"Amsterdam, Wibautstraat",52.354341,4.912232,0,stoparea:2336,null,0,null,null
+14765,30009513,"Amsterdam, Wibautstraat",52.354287,4.912027,0,stoparea:2336,null,0,null,null
+14644,30000014,"Amsterdam, Wijttenbachstraat",52.36027,4.925073,0,stoparea:2661,null,1,null,null
+15536,30008094,"Amsterdam, Wijttenbachstraat",52.359795,4.925474,0,stoparea:2661,null,1,null,null
+15219,30002155,"Amsterdam, Willem de Zwijgerlaan",52.37071,4.8636,0,stoparea:2369,null,1,null,null
+15220,30002156,"Amsterdam, Willem de Zwijgerlaan",52.370389,4.86425,0,stoparea:2369,null,0,null,null
+1379602,30003107,"Amsterdam, Willinklaan",52.370925,4.800296,0,stoparea:2812,null,0,null,null
+14567,30003110,"Amsterdam, Willinklaan",52.371123,4.800425,0,stoparea:2812,null,0,null,null
+14868,30002169,"Amsterdam, Wiltzanghlaan",52.382064,4.852186,0,stoparea:2338,null,0,null,null
+14995,30002171,"Amsterdam, Wiltzanghlaan",52.382902,4.850605,0,stoparea:2338,null,0,null,null
+1523000,30001328,"Amsterdam, Winkelcentrum",52.397724,4.937333,0,stoparea:295936,null,1,null,null
+1894021,30003003,"Amsterdam, Witte de Withstraat",52.364836,4.85856,0,stoparea:339164,null,0,null,null
+1894022,30003004,"Amsterdam, Witte de Withstraat",52.364719,4.858547,0,stoparea:339164,null,1,null,null
+1689985,30003009,"Amsterdam, Witte de Withstraat",52.364782,4.858517,0,stoparea:339164,null,1,null,null
+1689986,30003010,"Amsterdam, Witte de Withstraat",52.364803,4.85928,0,stoparea:339164,null,1,null,null
+1689904,30008008,"Amsterdam, Wittenburgergracht",52.36955,4.91947,0,stoparea:339156,null,1,null,null
+1689898,30008016,"Amsterdam, Wittenburgergracht",52.369425,4.919691,0,stoparea:339152,null,0,null,null
+15670,30001008,"Amsterdam, Wognumerplantsoen",52.387622,4.949392,0,stoparea:2441,null,0,null,null
+15823,30001009,"Amsterdam, Wognumerplantsoen",52.387389,4.949586,0,stoparea:2441,null,null,null,null
+1217972,30004067,"Amsterdam, Wolbrantskerkweg",52.356846,4.79759,0,stoparea:235561,null,0,null,null
+1689988,30000341,"Amsterdam, Woudrichemstraat",52.294181,4.98882,0,stoparea:196736,null,0,null,null
+652274,30000349,"Amsterdam, Woudrichemstraat",52.294335,4.989054,0,stoparea:196736,null,1,null,null
+14794,30000079,"Amsterdam, Zaaiersweg",52.339847,4.938403,0,stoparea:2375,null,1,null,null
+15374,30000080,"Amsterdam, Zaaiersweg",52.339007,4.939483,0,stoparea:2375,null,1,null,null
+15905,30009922,"Amsterdam, Zaandam",52.421329,4.826383,0,stoparea:2941,null,0,null,null
+1528366,30002094,"Amsterdam, Zaanstraat",52.392911,4.870126,0,stoparea:110898,null,0,null,null
+1421074,30002099,"Amsterdam, Zaanstraat",52.392874,4.869906,0,stoparea:110898,null,1,null,null
+1544000,30007523,"Amsterdam, Zagerij",52.2812,4.841794,0,stoparea:300924,null,1,null,null
+1544003,30007524,"Amsterdam, Zagerij",52.281046,4.841561,0,stoparea:300924,null,1,null,null
+165054,30009915,"Amsterdam, Zamenhofstraat",52.384993,4.931366,0,stoparea:50343,null,1,null,null
+14842,30008107,"Amsterdam, Zeeburgerdijk",52.365702,4.93293,0,stoparea:2438,null,1,null,null
+14838,30008108,"Amsterdam, Zeeburgerdijk",52.365916,4.932458,0,stoparea:2438,null,1,null,null
+1544228,30008292,"Amsterdam, Zeeburgerdijk",52.365592,4.939523,0,stoparea:300954,null,0,null,null
+15255,30007035,"Amsterdam, Zeilstraat",52.351238,4.856726,0,stoparea:2478,null,1,null,null
+14433,30002252,"Amsterdam, Zekeringstraat",52.396907,4.847188,0,stoparea:2362,null,0,null,null
+14432,30002253,"Amsterdam, Zekeringstraat",52.397178,4.84742,0,stoparea:2362,null,0,null,null
+15426,30005094,"Amsterdam, Zoutkeetsgracht",52.388085,4.884871,0,stoparea:2735,null,1,null,null
+15279,30001380,"Amsterdam, Zuideinde",52.420079,4.893005,0,stoparea:2506,null,0,null,null
+358845,37233320,"Amsterdam, Zuideinde 319",52.424663,4.888705,0,stoparea:121790,null,0,null,CXX:37233320
+355514,57113010,"Amsterdam, Zuideinde 319",52.424555,4.888707,0,stoparea:121790,null,0,null,CXX:57113010
+1692122,30004229,"Amsterdam, Zuidermolenweg",52.359917,4.781151,0,stoparea:2717,null,0,null,null
+15277,30001386,"Amsterdam, Zuiderzeeweg",52.382419,4.969492,0,stoparea:2505,null,1,null,null
+15278,30001387,"Amsterdam, Zuiderzeeweg",52.382381,4.971505,0,stoparea:2505,null,1,null,null
+1655499,30008138,"Amsterdam, Zuiderzeeweg",52.371293,4.962182,0,stoparea:300967,null,1,null,null
+1655500,30008139,"Amsterdam, Zuiderzeeweg",52.371663,4.962398,0,stoparea:300967,null,1,null,null
+1693301,30008240,"Amsterdam, Zuiderzeeweg",52.372125,4.961161,0,stoparea:339689,null,0,null,null
+1693299,30008241,"Amsterdam, Zuiderzeeweg",52.37193,4.961853,0,stoparea:339689,null,0,null,null
+1590122,30008277,"Amsterdam, Zuiderzeeweg",52.371702,4.963455,0,stoparea:300967,null,0,null,null
+14958,30001088,"Amsterdam, Zunderdorp",52.410057,4.962074,0,stoparea:2628,null,1,null,null
+14791,30001082,"Amsterdam, Zunderdorpergouw",52.403896,4.96084,0,stoparea:2622,null,1,null,null
+14790,30001083,"Amsterdam, Zunderdorpergouw",52.40459,4.961495,0,stoparea:2622,null,0,null,null
+2175500,30000503,"Diemen, Arent Krijtsstraat",52.339861,4.954045,0,stoparea:2854,null,null,null,null
+15477,30000504,"Diemen, Arent Krijtsstraat",52.339664,4.954355,0,stoparea:2854,null,1,null,null
+15476,30000505,"Diemen, Arent Krijtsstraat",52.339566,4.954694,0,stoparea:2854,null,0,null,null
+14911,30000442,"Diemen, Beukenhorst",52.337591,4.960054,0,stoparea:2568,null,0,null,null
+14912,30000443,"Diemen, Beukenhorst",52.337375,4.960056,0,stoparea:2568,null,0,null,null
+506836,30000254,"Diemen, Biesbosch",52.330736,4.94608,0,stoparea:160327,null,0,null,null
+506835,30000255,"Diemen, Biesbosch",52.330262,4.944339,0,stoparea:160327,null,0,null,null
+616043,30000364,"Diemen, Boven Rijkersloot",52.334624,4.954977,0,stoparea:185069,null,1,null,null
+616042,30000365,"Diemen, Boven Rijkersloot",52.335012,4.955442,0,stoparea:185069,null,1,null,null
+15657,30000994,"Diemen, Burg. Bickerstraat",52.341151,4.962778,0,stoparea:2837,null,1,null,null
+15418,30000974,"Diemen, Buytenweg",52.349141,4.970466,0,stoparea:2724,null,null,null,null
+14643,30000970,"Diemen, Diemen Noord",52.346974,4.985911,0,stoparea:2371,null,0,null,null
+1656351,30000453,"Diemen, Diemen Sniep",52.336448,4.969646,0,stoparea:338321,null,0,null,null
+1238125,30000018,"Diemen, Diemerknoop",52.3354,5.002785,0,stoparea:236002,null,0,null,null
+1238124,30000019,"Diemen, Diemerknoop",52.335428,5.003005,0,stoparea:236002,null,0,null,null
+432381,57152140,"Diemen, Diemerknoop",52.335509,5.003122,0,stoparea:120787,null,0,null,CXX:57152140
+547208,58200010,"Diemen, Diemerknoop",52.335382,5.002712,0,stoparea:120787,null,0,null,CXX:58200010
+14694,30000460,"Diemen, Hogeschool InHolland",52.326951,4.960435,0,stoparea:2858,null,0,null,null
+14695,30000461,"Diemen, Hogeschool InHolland",52.326753,4.960437,0,stoparea:2858,null,1,null,null
+15420,30000976,"Diemen, Klipperweg",52.34878,4.982886,0,stoparea:2726,null,1,null,null
+15421,30000977,"Diemen, Klipperweg",52.348994,4.982561,0,stoparea:2726,null,1,null,null
+15290,30000967,"Diemen, Landlust",52.347635,4.971595,0,stoparea:2529,null,1,null,null
+322626,30000989,"Diemen, Martin L.Kinglaan",52.343183,4.965635,0,stoparea:110913,null,0,null,null
+322631,30000990,"Diemen, Martin L.Kinglaan",52.343074,4.965269,0,stoparea:110913,null,1,null,null
+1419753,30000979,"Diemen, Meerkoet",52.352173,4.976353,0,stoparea:2722,null,0,null,null
+15424,30000972,"Diemen, Oude Waelweg",52.351273,4.971062,0,stoparea:2589,null,1,null,null
+1541624,30000992,"Diemen, Pr. Beatrixlaan",52.339883,4.967706,0,stoparea:300440,null,0,null,null
+1541625,30000986,"Diemen, Prins Bernhardlaan",52.338051,4.968134,0,stoparea:300441,null,1,null,null
+1237640,30000525,"Diemen, Provincialeweg",52.327665,4.971856,0,stoparea:236004,null,0,null,null
+15750,30000525,"Diemen, Provincialeweg",52.327656,4.9719,0,stoparea:2617,null,0,null,null
+1378789,30000526,"Diemen, Provincialeweg",52.327983,4.97266,0,stoparea:236004,null,0,null,null
+384755,30000526,"Diemen, Provincialeweg",52.327992,4.972703,0,stoparea:2617,null,1,null,null
+1795489,57250020,"Diemen, Provincialeweg",52.327974,4.972704,0,stoparea:342078,null,0,null,null
+1795419,57250030,"Diemen, Provincialeweg",52.327674,4.97187,0,stoparea:342078,null,0,null,null
+14645,30000971,"Diemen, Rietzangerweg",52.350843,4.973826,0,stoparea:2728,null,0,null,null
+1523001,30000901,"Diemen, Stammerkamp",52.333339,4.982924,0,stoparea:132432,null,0,null,null
+389234,30000902,"Diemen, Stammerkamp",52.333206,4.983438,0,stoparea:132432,null,1,null,null
+2219255,57150670,"Diemen, Stammerkamp",52.333142,4.983277,0,stoparea:355587,null,0,null,CXX:57150670
+1237407,57150670,"Diemen, Stammerkamp",52.333125,4.98338,0,stoparea:236003,null,0,null,null
+2220677,57150680,"Diemen, Stammerkamp",52.333348,4.98307,0,stoparea:355587,null,0,null,CXX:57150680
+1237027,57150680,"Diemen, Stammerkamp",52.333348,4.982923,0,stoparea:236003,null,0,null,null
+15419,30000975,"Diemen, Station Diemen",52.344942,4.967424,0,stoparea:2725,null,1,null,null
+15655,30000991,"Diemen, Station Diemen",52.345492,4.967844,0,stoparea:2725,null,0,null,null
+103174,30000250,"Diemen, Station Diemen Zuid",52.330811,4.956686,0,stoparea:30799,null,1,null,null
+103173,30000251,"Diemen, Station Diemen Zuid",52.330928,4.956817,0,stoparea:30799,null,1,null,null
+96446,30009542,"Diemen, Station Diemen-Zuid",52.330215,4.956105,0,stoparea:30799,null,1,null,null
+96447,30009543,"Diemen, Station Diemen-Zuid",52.330426,4.95713,0,stoparea:30799,null,1,null,null
+14378,30000252,"Diemen, Tarwekamp",52.332898,4.954876,0,stoparea:2279,null,1,null,null
+14512,30000253,"Diemen, Tarwekamp",52.333122,4.954727,0,stoparea:2279,null,0,null,null
+15291,30000966,"Diemen, Tureluurweg",52.350682,4.979316,0,stoparea:2530,null,1,null,null
+15414,30000978,"Diemen, Tureluurweg",52.350861,4.979036,0,stoparea:2530,null,1,null,null
+384756,30000998,"Diemen, Vinkenbrug",52.333711,4.978783,0,stoparea:2421,null,0,null,null
+384757,30000999,"Diemen, Vinkenbrug",52.333701,4.978313,0,stoparea:2421,null,0,null,null
+1538974,57152660,"Diemen, Vinkenbrug",52.333684,4.978827,0,stoparea:299932,null,0,null,null
+2219346,57152690,"Diemen, Vinkenbrug",52.3337,4.978123,0,stoparea:356005,null,0,null,CXX:57152690
+1538773,57152690,"Diemen, Vinkenbrug",52.333629,4.978329,0,stoparea:299932,null,0,null,null
+15425,30000973,"Diemen, Vogelweg",52.349152,4.973563,0,stoparea:2730,null,1,null,null
+15896,30000985,"Diemen, Winkelcentrum",52.341866,4.964224,0,stoparea:2837,null,1,null,null
+15521,30000980,"Diemen, Zeezigt",52.35262,4.975805,0,stoparea:2915,null,0,null,null
+14717,30000268,"Duivendrecht, Astronautenweg",52.329873,4.934235,0,stoparea:2907,null,1,null,null
+14718,30000269,"Duivendrecht, Astronautenweg",52.329911,4.934851,0,stoparea:2907,null,null,null,null
+14384,30000258,"Duivendrecht, Burg. van Damstraat",52.334143,4.941557,0,stoparea:2283,null,0,null,null
+14383,30000259,"Duivendrecht, Burg. van Damstraat",52.334333,4.941746,0,stoparea:2283,null,0,null,null
+15035,30000436,"Duivendrecht, Industrieweg",52.335328,4.946093,0,stoparea:2599,null,0,null,null
+15034,30000437,"Duivendrecht, Industrieweg",52.335739,4.9454,0,stoparea:2599,null,0,null,null
+15167,30000550,"Duivendrecht, Joan Muyskenweg",52.329783,4.915708,0,stoparea:2909,null,0,null,null
+15168,30000551,"Duivendrecht, Joan Muyskenweg",52.329397,4.915829,0,stoparea:2909,null,1,null,null
+14721,30000266,"Duivendrecht, Korenbloemstraat",52.329697,4.939944,0,stoparea:2795,null,null,null,null
+14722,30000267,"Duivendrecht, Korenbloemstraat",52.330021,4.940087,0,stoparea:2795,null,1,null,null
+14374,30000256,"Duivendrecht, Kruidenommegang",52.327933,4.939287,0,stoparea:2276,null,0,null,null
+14373,30000257,"Duivendrecht, Kruidenommegang",52.328005,4.939389,0,stoparea:2276,null,0,null,null
+15597,30000370,"Duivendrecht, Plataanstraat",52.332442,4.941002,0,stoparea:2339,null,1,null,null
+15598,30000371,"Duivendrecht, Plataanstraat",52.332388,4.941032,0,stoparea:2339,null,0,null,null
+103161,30000511,"Duivendrecht, Station Duivendrecht",52.323142,4.936827,0,stoparea:30793,null,0,null,null
+103180,30000515,"Duivendrecht, Station Duivendrecht",52.323187,4.936694,0,stoparea:30793,null,1,null,null
+96435,30009551,"Duivendrecht, Station Duivendrecht",52.32325,4.936782,0,stoparea:30793,null,0,null,null
+96437,30009552,"Duivendrecht, Station Duivendrecht",52.323895,4.936262,0,stoparea:30793,null,0,null,null
+15173,30001032,"Durgerdam, Durgerd. gouw 37",52.384777,5.002387,0,stoparea:2243,null,1,null,null
+15174,30001033,"Durgerdam, Durgerd. gouw 37",52.384732,5.002402,0,stoparea:2243,null,1,null,null
+15433,30001028,"Durgerdam, Durgerd.dijk 175",52.379574,4.996924,0,stoparea:2745,null,1,null,null
+15432,30001029,"Durgerdam, Durgerd.dijk 175",52.379983,4.998287,0,stoparea:2745,null,1,null,null
+15438,30001023,"Durgerdam, Durgerd.dijk 36",52.375907,4.986251,0,stoparea:2748,null,0,null,null
+15441,30001024,"Durgerdam, Durgerd.dijk 82",52.377452,4.988807,0,stoparea:2749,null,0,null,null
+15440,30001025,"Durgerdam, Durgerd.dijk 82",52.37728,4.988427,0,stoparea:2749,null,0,null,null
+15443,30001026,"Durgerdam, Kabelhuisje",52.377865,4.991212,0,stoparea:2750,null,0,null,null
+15442,30001027,"Durgerdam, Kabelhuisje",52.378191,4.991958,0,stoparea:2750,null,1,null,null
+15543,30001030,"Durgerdam, Uitdammerdijk",52.381146,5.002183,0,stoparea:2245,null,0,null,null
+15544,30001031,"Durgerdam, Uitdammerdijk",52.380991,5.001744,0,stoparea:2245,null,0,null,null
+14633,30001050,"Holysloot, Bloemend.gouw 38",52.413323,5.02567,0,stoparea:2718,null,0,null,null
+1537002,30001051,"Holysloot, Bloemend.gouw 38",52.413251,5.025627,0,stoparea:2718,null,0,null,null
+14416,30001052,"Holysloot, Holysloot",52.413205,5.025068,0,stoparea:2719,null,1,null,null
+15125,30001042,"Ransdorp, Bloemend.gouw 42",52.396405,5.004343,0,stoparea:2519,null,1,null,null
+15310,30001043,"Ransdorp, Bloemend.gouw 42",52.39616,5.006505,0,stoparea:2519,null,0,null,null
+15545,30001036,"Ransdorp, Dorpsweg",52.390778,4.995988,0,stoparea:2246,null,0,null,null
+15546,30001037,"Ransdorp, Dorpsweg",52.390824,4.996282,0,stoparea:2246,null,0,null,null
+15547,30001034,"Ransdorp, Durgerd.gouw 20",52.387708,5.002684,0,stoparea:2247,null,1,null,null
+15548,30001035,"Ransdorp, Durgerd.gouw 20",52.387717,5.002699,0,stoparea:2247,null,1,null,null
+15315,30001044,"Ransdorp, Kinselmeer",52.39602,5.010443,0,stoparea:2522,null,0,null,null
+15314,30001045,"Ransdorp, Kinselmeer",52.396083,5.010575,0,stoparea:2522,null,1,null,null
+14527,30001040,"Ransdorp, Nieuwe Gouw",52.395882,4.995723,0,stoparea:2520,null,0,null,null
+14526,30001041,"Ransdorp, Nieuwe Gouw",52.395827,4.995474,0,stoparea:2520,null,0,null,null
+15538,30001038,"Ransdorp, Ransdorp (kerk)",52.393181,4.994175,0,stoparea:2241,null,0,null,null
+15539,30001039,"Ransdorp, Ransdorp (kerk)",52.393253,4.994189,0,stoparea:2241,null,0,null,null
+1541454,57340270,"Schiphol Oost, Canadaweg",52.311554,4.811858,0,null,null,1,null,CXX:57340270
+1828328,57340280,"Schiphol Oost, Canadaweg",52.311581,4.81177,0,stoparea:342540,null,1,null,CXX:57340280
+1542952,57343110,"Schiphol Oost, Zuideinde",52.293272,4.791602,0,stoparea:120835,null,null,null,CXX:57343110
+1542915,57343122,"Schiphol Oost, Zuideinde",52.295226,4.792368,0,stoparea:120835,null,null,null,CXX:57343122
+1537955,57343250,"Schiphol-Rijk, Beechavenue",52.279884,4.746076,0,stoparea:299731,null,0,null,CXX:57343250
+1537954,57343251,"Schiphol-Rijk, Beechavenue",52.279884,4.746076,0,stoparea:299731,null,0,null,CXX:57343251
+2219201,57343252,"Schiphol-Rijk, Beechavenue",52.279785,4.746063,0,stoparea:355771,null,0,null,CXX:57343252
+1537989,57343260,"Schiphol-Rijk, Beechavenue",52.279168,4.746673,0,stoparea:299731,null,1,null,CXX:57343260
+2218904,57343262,"Schiphol-Rijk, Beechavenue",52.279142,4.746732,0,stoparea:355771,null,1,null,CXX:57343262
+1420280,57342820,"Schiphol-Rijk, Bellsingel",52.282245,4.760712,0,null,null,0,null,CXX:57342820
+359348,57342900,"Schiphol-Rijk, Bellsingel",52.282116,4.760098,0,null,null,0,null,CXX:57342900
+366825,57342930,"Schiphol-Rijk, Boeingavenue",52.277587,4.751721,0,stoparea:122959,null,1,null,CXX:57342930
+356090,57342940,"Schiphol-Rijk, Boeingavenue",52.277669,4.751969,0,stoparea:122959,null,0,null,CXX:57342940
+482145,57342730,"Schiphol-Rijk, Capronilaan",52.281589,4.770906,0,stoparea:151185,null,0,null,CXX:57342730
+482124,57342920,"Schiphol-Rijk, Capronilaan",52.28166,4.770817,0,stoparea:151185,null,0,null,CXX:57342920
+361650,57342980,"Schiphol-Rijk, Douglassingel",52.283102,4.762927,0,stoparea:123892,null,0,null,CXX:57342980
+356195,57342990,"Schiphol-Rijk, Douglassingel",52.283112,4.763103,0,stoparea:123892,null,0,null,CXX:57342990
+1657084,57342950,"Schiphol-Rijk, Tupolevlaan/Boeingavenue",52.279169,4.753531,0,null,null,0,null,CXX:57342950
+1657231,57342970,"Schiphol-Rijk, Tupolevlaan/Boeingavenue",52.279187,4.753413,0,null,null,0,null,CXX:57342970
+362990,57342510,"Schiphol-ZO, Anchoragelaan",52.295522,4.771255,0,stoparea:121475,null,1,null,CXX:57342510
+362993,57342515,"Schiphol-ZO, Anchoragelaan",52.295522,4.771255,0,stoparea:121475,null,1,null,CXX:57342515
+2032056,57342440,"Schiphol-ZO, Folkstoneweg",52.286514,4.750421,0,stoparea:346506,null,1,null,CXX:57342440
+2032094,57342450,"Schiphol-ZO, Folkstoneweg",52.286434,4.750672,0,stoparea:346506,null,0,null,CXX:57342450
+357468,57342540,"Schiphol-ZO, Ganderweg",52.294211,4.768077,0,null,null,0,null,CXX:57342540
+418733,57342550,"Schiphol-ZO, Ganderweg",52.294465,4.768396,0,null,null,1,null,CXX:57342550
+382054,57342480,"Schiphol-ZO, Oude Meerweg",52.290545,4.759671,0,null,null,1,null,CXX:57342480
+354616,57342490,"Schiphol-ZO, Oude Meerweg",52.290466,4.759995,0,null,null,1,null,CXX:57342490
+1419931,57342460,"Schiphol-ZO, Shannonweg",52.292496,4.76325,0,null,null,1,null,CXX:57342460
+361774,57342470,"Schiphol-ZO, Shannonweg",52.292918,4.764783,0,null,null,0,null,CXX:57342470
+2032059,57330000,"Schiphol, Airport",52.30961,4.759915,0,stoparea:226154,null,1,B17 - B19,CXX:57330000
+678238,57330220,"Schiphol, Airport",52.308479,4.761969,0,stoparea:201302,null,1,B1 - B3,null
+2066154,57330221,"Schiphol, Airport",52.309069,4.761287,0,stoparea:226154,null,1,B9 - B11,CXX:57330221
+1242276,57330221,"Schiphol, Airport",52.30847,4.761955,0,stoparea:201302,null,1,B1 - B3,null
+1377005,57330222,"Schiphol, Airport",52.308452,4.761911,0,stoparea:201302,null,1,B1 - B3,null
+678206,57330223,"Schiphol, Airport",52.308255,4.762104,0,stoparea:201302,null,1,B2,null
+2066155,57330224,"Schiphol, Airport",52.308943,4.761288,0,stoparea:226154,null,1,B8 - B10,CXX:57330224
+2066136,57330620,"Schiphol, Airport",52.308747,4.761628,0,stoparea:226154,null,1,B5 - B7,CXX:57330620
+2066130,57330630,"Schiphol, Airport",52.308585,4.761704,0,stoparea:226154,null,1,B4 - B6,CXX:57330630
+2066140,57330730,"Schiphol, Airport",52.309519,4.759887,0,stoparea:226154,null,null,B18 - B20,CXX:57330730
+2066173,57330740,"Schiphol, Airport",52.309609,4.759842,0,stoparea:226154,null,1,B17 - B19,CXX:57330740
+2066170,57330760,"Schiphol, Airport",52.309598,4.759519,0,stoparea:226154,null,1,B17 - B19,CXX:57330760
+2066153,57332107,"Schiphol, Airport",52.309328,4.761004,0,stoparea:226154,null,1,B15,CXX:57332107
+2066135,57332108,"Schiphol, Airport",52.309247,4.760961,0,stoparea:226154,null,1,B14,CXX:57332108
+511116,57330140,"Schiphol, Cateringweg",52.323188,4.799812,0,stoparea:157177,null,0,null,CXX:57330140
+1479574,57330150,"Schiphol, Cateringweg",52.323279,4.80006,0,stoparea:157177,null,0,null,CXX:57330150
+548943,57330250,"Schiphol, Elzenhof/P5",52.323373,4.786388,0,stoparea:151183,null,0,null,CXX:57330250
+549022,57330260,"Schiphol, Elzenhof/P5",52.323754,4.785444,0,stoparea:151183,null,0,null,CXX:57330260
+482116,57330600,"Schiphol, Handelskade",52.303155,4.751239,0,stoparea:151175,null,1,null,CXX:57330600
+482179,57330610,"Schiphol, Handelskade",52.303099,4.750917,0,stoparea:151175,null,1,null,CXX:57330610
+1999335,57330160,"Schiphol, Justitieel Complex",52.322165,4.751304,0,stoparea:151191,null,0,null,CXX:57330160
+1999329,57330330,"Schiphol, Justitieel Complex",52.322029,4.751086,0,stoparea:151191,null,0,null,CXX:57330330
+1927026,57330021,"Schiphol, Knooppunt Noord perron A",52.322849,4.793142,0,stoparea:342543,null,0,A,CXX:57330021
+1828356,57330031,"Schiphol, Knooppunt Noord perron A",52.322787,4.793202,0,stoparea:342543,null,0,A,CXX:57330031
+1927113,57330022,"Schiphol, Knooppunt Noord perron B",52.322641,4.792881,0,stoparea:342543,null,0,B,CXX:57330022
+1828288,57330023,"Schiphol, Knooppunt Noord perron C",52.322461,4.792766,0,stoparea:342543,null,0,C,CXX:57330023
+1828290,57330020,"Schiphol, Knooppunt Noord perron D",52.322271,4.792563,0,stoparea:342543,null,1,D,CXX:57330020
+1828361,57330024,"Schiphol, Knooppunt Noord perron D",52.32228,4.792578,0,stoparea:342543,null,1,D,CXX:57330024
+1828366,57330010,"Schiphol, Knooppunt Noord perron E",52.322218,4.792652,0,stoparea:342543,null,1,E,CXX:57330010
+1927115,57330013,"Schiphol, Knooppunt Noord perron F",52.322337,4.793193,0,stoparea:342543,null,0,F,CXX:57330013
+1927110,57330033,"Schiphol, Knooppunt Noord perron F",52.322337,4.793208,0,stoparea:342543,null,0,F,CXX:57330033
+1860974,57330200,"Schiphol, Knooppunt Noord perron F",52.322471,4.793015,0,stoparea:342543,null,0,F,CXX:57330200
+1927114,57330012,"Schiphol, Knooppunt Noord perron G",52.322554,4.79341,0,stoparea:342543,null,0,G,CXX:57330012
+1828363,57330018,"Schiphol, Knooppunt Noord perron G",52.322634,4.793233,0,stoparea:342543,null,0,G,CXX:57330018
+1544024,57340030,"Schiphol, Knooppunt Oost",52.307962,4.806993,0,stoparea:236066,null,null,null,CXX:57340030
+1544033,57340040,"Schiphol, Knooppunt Oost",52.307901,4.807316,0,stoparea:236066,null,null,null,CXX:57340040
+1420619,57330110,"Schiphol, Kon. Marechaussee",52.321521,4.755317,0,stoparea:151176,null,0,null,CXX:57330110
+482148,57330120,"Schiphol, Kon. Marechaussee",52.321979,4.755208,0,stoparea:151176,null,1,null,CXX:57330120
+1242266,57330130,"Schiphol, P12/Vrachtgebouw",52.304398,4.753435,0,stoparea:201303,null,1,null,null
+1999301,57330130,"Schiphol, P12/Vrachtgebouw",52.304389,4.75345,0,stoparea:151180,null,1,null,CXX:57330130
+2175387,57330490,"Schiphol, P12/Vrachtgebouw",52.30452,4.754371,0,stoparea:201303,null,1,null,null
+482092,57330490,"Schiphol, P12/Vrachtgebouw",52.304403,4.754344,0,stoparea:151180,null,1,null,CXX:57330490
+482100,57330300,"Schiphol, P30 Parkeerterrein",52.291242,4.733981,0,stoparea:151174,null,1,null,CXX:57330300
+1760371,57330305,"Schiphol, P30 Parkeerterrein",52.291151,4.733924,0,stoparea:151174,null,1,null,CXX:57330305
+482114,57330310,"Schiphol, P30 Parkeerterrein",52.291411,4.733803,0,stoparea:151174,null,1,null,CXX:57330310
+1828409,57330315,"Schiphol, P30 Parkeerterrein",52.290841,4.733107,0,stoparea:151174,null,1,null,CXX:57330315
+1828427,57330320,"Schiphol, P30 Parkeerterrein",52.290842,4.733181,0,stoparea:151174,null,1,null,CXX:57330320
+547797,57330400,"Schiphol, P40 Parkeerterrein",52.321912,4.774923,0,stoparea:151194,null,0,null,CXX:57330400
+482105,57330410,"Schiphol, P40 Parkeerterrein",52.322028,4.774789,0,stoparea:151194,null,0,null,CXX:57330410
+237085,30004381,"Schiphol, Pelikaanweg",52.29796,4.744672,0,stoparea:77837,null,1,null,null
+322605,30004267,"Schiphol, Schiphol Airport/Plaza",52.308871,4.761392,0,stoparea:110900,null,0,null,null
+1480639,30004274,"Schiphol, Schiphol Airport/Plaza",52.309391,4.761047,0,stoparea:110900,null,1,null,null
+14962,30004346,"Schiphol, Schipholgebouw",52.30283,4.749396,0,stoparea:2639,null,0,null,null
+482129,57330090,"Schiphol, Schipholgebouw",52.302743,4.74991,0,stoparea:151189,null,1,null,CXX:57330090
+482111,57330100,"Schiphol, Schipholgebouw",52.30284,4.749484,0,stoparea:151189,null,1,null,CXX:57330100
+482088,57330210,"Schiphol, Sleepterrein",52.319656,4.761328,0,null,null,0,null,CXX:57330210
+1535135,57330390,"Schiphol, Sleepterrein",52.319593,4.761285,0,null,null,0,null,CXX:57330390
+1542926,57340090,"Schiphol, Southern Crossstraat",52.301921,4.797571,0,null,null,null,null,CXX:57340090
+14806,30004375,"Schiphol, Toekanweg",52.296501,4.740838,0,stoparea:2384,null,0,null,null
+1420259,57332180,"Schiphol, Toekanweg",52.295342,4.737674,0,stoparea:151184,null,0,null,CXX:57332180
+482178,57332290,"Schiphol, Toekanweg",52.296062,4.739378,0,stoparea:151184,null,1,null,CXX:57332290
+1240725,30004373,"Schiphol, Uiverweg",52.300246,4.743569,0,stoparea:236773,null,0,null,null
+482173,57330070,"Schiphol, Uiverweg",52.300357,4.744066,0,stoparea:151187,null,1,null,CXX:57330070
+482149,57330080,"Schiphol, Uiverweg",52.300273,4.743495,0,stoparea:151187,null,1,null,CXX:57330080
+482128,57330050,"Schiphol, Valkweg",52.294195,4.736664,0,stoparea:151193,null,1,null,CXX:57330050
+482098,57330060,"Schiphol, Valkweg",52.293386,4.734888,0,stoparea:151193,null,1,null,CXX:57330060
+254992,30004268,"Schiphol, Vrachtgebouw /P12",52.304526,4.753829,0,stoparea:83301,null,1,null,null
+673090,58360210,"Weesp, Achtergracht",52.306047,5.040692,0,stoparea:198074,null,0,null,null
+672924,58360230,"Weesp, Binnenveer",52.308063,5.038785,0,stoparea:198073,null,0,null,null
+1238863,58360370,"Weesp, Blokland",52.300504,5.038492,0,null,null,0,null,CXX:58360370
+1238854,58360400,"Weesp, Blokland",52.300558,5.03855,0,null,null,0,null,CXX:58360400
+1378716,58360170,"Weesp, Brug A'dam-Rijnkanaal",52.3028,5.022142,0,stoparea:197867,null,0,null,null
+676665,58360180,"Weesp, Brug A'dam-Rijnkanaal",52.302523,5.022569,0,stoparea:197867,null,0,null,null
+365273,58360030,"Weesp, C.J. van Houtenlaan",52.303788,5.03681,0,stoparea:122404,null,1,null,CXX:58360030
+673843,58360030,"Weesp, C.J. van Houtenlaan",52.303779,5.036795,0,stoparea:197985,null,1,null,null
+359389,58360040,"Weesp, C.J. van Houtenlaan",52.303852,5.037176,0,stoparea:122404,null,0,null,CXX:58360040
+675822,58360040,"Weesp, C.J. van Houtenlaan",52.303843,5.037161,0,stoparea:197985,null,0,null,null
+103864,30000651,"Weesp, Casparuslaan",52.309114,5.035316,0,stoparea:32960,null,0,null,null
+103866,30000652,"Weesp, Casparuslaan",52.309239,5.035168,0,stoparea:32962,null,1,null,null
+365801,58360050,"Weesp, Casparuslaan",52.309203,5.035154,0,stoparea:123658,null,1,null,CXX:58360050
+359856,58360060,"Weesp, Casparuslaan",52.309096,5.035419,0,stoparea:123658,null,1,null,CXX:58360060
+353795,58460030,"Weesp, Dammerweg 6",52.284711,5.07011,0,stoparea:123370,null,1,null,CXX:58460030
+361341,58460040,"Weesp, Dammerweg 6",52.284873,5.070153,0,stoparea:123370,null,1,null,CXX:58460040
+360200,58460020,"Weesp, Dammerweg/Spiegelweg",52.280028,5.063227,0,null,null,1,null,CXX:58460020
+362236,58560150,"Weesp, Dammerweg/Spiegelweg",52.280084,5.064135,0,null,null,1,null,CXX:58560150
+673936,58360190,"Weesp, Groeneweg",52.305324,5.039495,0,stoparea:197986,null,0,null,null
+1378883,58360200,"Weesp, Groeneweg",52.305099,5.039351,0,stoparea:197986,null,0,null,null
+675464,58360220,"Weesp, Grote Plein",52.306445,5.041642,0,stoparea:197362,null,0,null,null
+362237,58360110,"Weesp, J.H. Leopoldhof",52.312395,5.038736,0,null,null,1,null,CXX:58360110
+1378772,58360110,"Weesp, J.H. Leopoldhof",52.312305,5.038664,0,stoparea:197987,null,1,null,null
+360611,58360120,"Weesp, J.H. Leopoldhof",52.312172,5.039075,0,null,null,0,null,CXX:58360120
+664900,58360120,"Weesp, J.H. Leopoldhof",52.312163,5.039105,0,stoparea:197987,null,0,null,null
+103878,30000675,"Weesp, J.H.Leopoldhof",52.31219,5.03906,0,stoparea:32954,null,1,null,null
+103879,30000678,"Weesp, J.H.Leopoldhof",52.312306,5.038927,0,stoparea:32955,null,0,null,null
+1377191,58460070,"Weesp, Lage Klompweg",52.292401,5.068575,0,null,null,0,null,CXX:58460070
+1377182,58460080,"Weesp, Lage Klompweg",52.293267,5.06656,0,null,null,0,null,CXX:58460080
+676018,58360240,"Weesp, Nieuwstad",52.308138,5.039869,0,stoparea:197981,null,0,null,null
+354212,58200210,"Weesp, Nijverheidslaan",52.312575,5.048135,0,stoparea:121448,null,0,null,CXX:58200210
+361076,58200220,"Weesp, Nijverheidslaan",52.31289,5.048147,0,stoparea:121448,null,1,null,CXX:58200220
+674328,58360150,"Weesp, Papelaan",52.310764,5.037092,0,stoparea:197982,null,1,null,null
+1420425,58360150,"Weesp, Papelaan",52.310773,5.037107,0,null,null,1,null,CXX:58360150
+353960,58360160,"Weesp, Papelaan",52.310231,5.036216,0,null,null,0,null,CXX:58360160
+1238748,58360410,"Weesp, Reigersweide",52.299773,5.04684,0,null,null,0,null,CXX:58360410
+2032097,58360440,"Weesp, Reigersweide",52.299891,5.047103,0,null,null,0,null,CXX:58360440
+2032076,58360390,"Weesp, Sporthal Aetsveld",52.298257,5.041618,0,null,null,0,null,CXX:58360390
+1238869,58360420,"Weesp, Sporthal Aetsveld",52.298446,5.041851,0,null,null,0,null,CXX:58360420
+672970,58205000,"Weesp, Station",52.311529,5.043758,0,stoparea:197983,null,0,null,null
+1479667,58205030,"Weesp, Station",52.31162,5.043919,0,stoparea:122777,null,0,null,CXX:58205030
+1479655,58360130,"Weesp, Station",52.311593,5.043963,0,stoparea:122777,null,1,null,CXX:58360130
+1479643,58365000,"Weesp, Station",52.31162,5.043919,0,stoparea:122777,null,0,null,CXX:58365000
+1479649,58365020,"Weesp, Station",52.311593,5.043963,0,stoparea:122777,null,1,null,CXX:58365020
+103887,30000665,"Weesp, Station Weesp",52.311448,5.043832,0,stoparea:32957,null,1,null,null
+359644,58360250,"Weesp, V Houten Industriep.",52.306527,5.035908,0,null,null,0,null,CXX:58360250
+366060,58360260,"Weesp, V Houten Industriep.",52.306454,5.035586,0,null,null,0,null,CXX:58360260
+103895,30000603,"Weesp, V. Houten Ind.park",52.306482,5.035806,0,stoparea:32949,null,0,null,null
+103893,30000604,"Weesp, V. Houten Ind.park",52.306427,5.035645,0,stoparea:32947,null,0,null,null
+103896,30000601,"Weesp, Van Houtenlaan",52.303816,5.037117,0,stoparea:32950,null,0,null,null
+103894,30000602,"Weesp, Van Houtenlaan",52.303762,5.036898,0,stoparea:32948,null,0,null,null
