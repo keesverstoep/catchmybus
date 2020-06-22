@@ -45,7 +45,7 @@ public class OVapi {
     }
 
     public void doRequestByTimeCodePoint(final String tpc) throws IOException, InterruptedException {
-        String url = "http://v0.ovapi.nl/tpc/"+tpc+"/departures";
+        String url = "https://v0.ovapi.nl/tpc/"+tpc+"/departures";
         OkHttpClient client = new OkHttpClient();
         Request request = new Request.Builder()
                 .url(url)
@@ -108,7 +108,7 @@ public class OVapi {
         String localServiceLevelCodeString = Integer.toString(localServiceLevelCode);
         String journeyNumberString = Integer.toString(journeyNumber);
         String fortifyOrderNumberString = Integer.toString(fortifyOrderNumber);
-        String url = "http://v0.ovapi.nl/journey/"+dataOwnerCode+"_"+localServiceLevelCodeString+"_"+linePlanningNumber+"_"+journeyNumberString+"_"+fortifyOrderNumberString;
+        String url = "https://v0.ovapi.nl/journey/"+dataOwnerCode+"_"+localServiceLevelCodeString+"_"+linePlanningNumber+"_"+journeyNumberString+"_"+fortifyOrderNumberString;
         OkHttpClient client = new OkHttpClient();
         Request request = new Request.Builder()
                 .url(url)
