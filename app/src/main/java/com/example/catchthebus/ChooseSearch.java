@@ -92,6 +92,8 @@ public class ChooseSearch extends AppCompatActivity {
                     //myLong = 0;
                     me.setLatitude(myLat);
                     me.setLongitude(myLong);
+                    //me.setLatitude(52.3348392);
+                    //me.setLongitude(4.8714316);
                     if(!runtime_permissions()){
                         setLocationButton();
                         setSearchButton();

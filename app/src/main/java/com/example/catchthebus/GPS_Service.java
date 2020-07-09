@@ -128,6 +128,8 @@ public class GPS_Service extends Service {
                 super.onLocationResult(locationResult);
                 myLatitude = locationResult.getLastLocation().getLatitude();
                 myLongitude = locationResult.getLastLocation().getLongitude();
+                //myLatitude = 52.3348392;
+                //myLongitude = 4.8714316;
                 //System.out.println(myLatitude + "in service");
                 //System.out.println(myLongitude + "in service");
                 sendLocationBroadcast(myLatitude,myLongitude);
@@ -376,6 +378,7 @@ public class GPS_Service extends Service {
         return (c * r)*1000;
     }
 
+
     public static long calculateTimeDifference(LocalDateTime exp) {
         //System.out.println(LocalDateTime.now());
         LocalDateTime now = LocalDateTime.now();
@@ -422,7 +425,17 @@ public class GPS_Service extends Service {
             oldDecision = decision;
             return decision;
         }
-        dist = dist*1.5;
+
+        dist = dist * 1.41421;
+
+        //double mhLatDist = distance(myLatitude,0,targetLatitude,0);
+        //double mhLonDist = distance(0, myLongitude,0, targetLongitude);
+        //dist = mhLatDist+mhLonDist;
+
+        //System.out.println("true dist "+ distance);
+        //System.out.println("1.5 dist "+ distance*1.5);
+        //System.out.println("MH dist "+dist);
+
 
         double speed = dist/diff;
         // System.out.println("You need a speed of: " + speed + " m/s to get to the bus on time.");
